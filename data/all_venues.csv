@@ -1,626 +1,826 @@
 Name,ID,Address,Lat,Lng,Cuisine,District
-Paulaner am Dom,4be18ea74ed5c9b61ba1ccce,Domplatz 6,50.110876272542534,8.685925175827979,DE,Altstadt
-Heimat – Essen und Weine,4cfd2a882c1aa090410e057a,Berliner Str. 70,50.11112519116169,8.67828645020011,DE,Altstadt
-Römer Pils Brunnen,4b6ac454f964a52072df2be3,Töngesgasse 19,50.11345007437632,8.683873455170064,DE,Altstadt
-Max on One,4e9dc4dff5b95ad93faa8788,Thurn-und-Taxis-Platz 2,50.11510980679734,8.680232746138929,DE,Innenstadt
-Klosterhof,4b058851f964a52053be22e3,Weißfrauenstr. 3,50.109259,8.677224,DE,Altstadt
-Zum Gemalten Haus,4b058851f964a52062be22e3,Schweizer Str. 67,50.100831365980504,8.682156915733083,DE,Sachsenhausen-Nord
-Salzkammer,4c3e0c4783a3a593ef88ed33,Weißadlergasse 15,50.11155748285333,8.678301635336066,DE,Altstadt
-Kanonesteppel,4bd33acd9854d13a863afd4d,Textorstr. 20,50.10259712564316,8.688446740078286,DE,Sachsenhausen-Nord
-Die Leiter,4bb59bdff562ef3b61262f97,Kaiserhofstr. 11,50.115077703244296,8.674751926119521,DE,Innenstadt
-Lokalbahnhof,4b2a822ef964a52087aa24e3,Darmstädter Landstr. 14,50.10307541817441,8.690308821751387,DE,Sachsenhausen-Nord
-Zum Bitburger,4ce58eba9bbf6ea804fbc8af,Hochstr. 45,50.11519987679036,8.673083334627298,DE,Innenstadt
-Mutter Ernst,4c7ea54e1009a093fb15454e,Alte Rothofstr. 12,50.11361330670327,8.675202934998008,DE,Innenstadt
-Manufactum brot&butter,4b6aae9df964a520f5db2be3,Bockenheimer Anlage 49-50,50.11595805369511,8.670772486206868,DE,Westend-Süd
-Mosebach,4b05884df964a5204bbd22e3,Sandweg 29,50.11792739791386,8.696436964813325,DE,Nordend-Ost
-Emma Metzler,4b05884ef964a52062bd22e3,Schaumainkai 17,50.1059973188976,8.680665255219594,DE,Sachsenhausen-Nord
-Exenberger,4b06c778f964a5201bf022e3,Bruchstr. 14,50.101951,8.687252,DE,Sachsenhausen-Nord
-Edelweiss,4b8abaf5f964a520087d32e3,Schweizer Str. 96,50.099496911125534,8.682531508763416,DE,Sachsenhausen-Nord
-Apfelwein DAX,4bc5f3db51b376b00bb31a6f,Willemerstr. 11,50.10438954482606,8.692552694714834,DE,Sachsenhausen-Nord
-Leib & Seele,4b2781a9f964a520fc8624e3,Kornmarkt 11,50.11225200000001,8.679295,DE,Altstadt
-Nizza am Main,4c8c8674f87e224b44f63505,Untermainkai 17,50.105247999999996,8.671327,DE,Bahnhofsviertel
-Zum Storch am Dom,4c714f98d274b60ca201dc0d,,50.11007210212426,8.684888682105548,DE,Altstadt
-Eppstein Eck,4d5bbba11e43236a01df1183,Eppsteiner Str. 26,50.1205913926935,8.66758945215002,DE,Westend-Süd
-Vinum,4d7d1077d1c28eecdb151974,Kleine Hochstrasse 9,50.11527702058234,8.674149375206182,DE,Innenstadt
-Zur Germania,4c3618293849c928c170bbb1,Textorstr. 16,50.10261483576354,8.688842905379401,DE,Sachsenhausen-Nord
-Exil,4b058850f964a5202fbe22e3,Mercatorstraße 26,50.120144745129615,8.689795419069771,DE,Nordend-Ost
-Veritas,4bdc5490afe8c9b67beb4e85,Schweizer strasse 21.,50.103868479100036,8.679096673127178,DE,Sachsenhausen-Nord
-Jumeirah Frankfurt,4e11a3be1f6e671dd9e93729,Thurn-und-Taxis-Platz 2,50.11499899974531,8.680512321152491,DE,Innenstadt
-Druckwasserwerk,4b770745f964a520ef752ee3,Am Druckwasserwerk 1,50.096979666860115,8.65341655723919,DE,Gutleutviertel
-Frankfurter Küche,4b2a181ef964a52035a524e3,Hanauer Landstr. 86,50.11126575521047,8.704365942499045,DE,Ostend
-Erbgut,4b2f3442f964a5202eea24e3,Hans-Thoma-Str. 1,50.10409057550748,8.678763848403575,DE,Sachsenhausen-Nord
-Lorsbacher Thal,4c4b4c455609c9b684fdf090,Große Rittergasse 49,50.10546995430601,8.691137087732239,DE,Sachsenhausen-Nord
-Niewo,4c8a75e1770fb60c0cd0d2c3,,50.12874687300818,8.699923603806118,DE,Nordend-Ost
-Zum Eichkatzerl,4c13d26882a3c9b6032afcf8,Dreieichstr. 29,50.105125791973,8.692353611876332,DE,Sachsenhausen-Nord
-Upper Westside,4bcf7a9c462cb71370ccd607,An der Welle,50.11849067101022,8.672394128871321,DE,Westend-Süd
-Landwehrstübchen,4f512db6e4b0639bb7e25a50,Sachenhäuser Landwehrweg 371,50.08518636704501,8.674619973733062,DE,Sachsenhausen-Süd
-Zur Schönen Müllerin,4b4f737df964a5202d0727e3,Baumweg 12,50.11799174680935,8.695549813948015,DE,Nordend-Ost
-Fennischfuchser,4cd466f6a5b34688d4ba8750,Mainzer Landstr. 95,50.10913497374872,8.65961221796089,DE,Gallus
-Zu den Zwölf Apostel,4c2f586b7cc0c9b6787feb9a,Rosenbergerstr. 1,50.11735201651097,8.686438394529652,DE,Innenstadt
-Ebbelwoi Unser,5622b179498ed9d57e1b9a6f,Abstgässchen 8,50.10459435119446,8.688485950197371,DE,Sachsenhausen-Nord
-Baseler Eck,4cab654a14c337040150ea3b,Baseler Platz 7,50.10301150842863,8.664685902409236,DE,Gutleutviertel
-Allgaiers,502aae09e4b0bcbf4e85e8bf,Liebigstraße 47,50.12253,8.664741000000001,DE,Westend-Süd
-Schöneberger,4b672734f964a5201b3e2be3,Bergerstr. 237,50.127975505168884,8.710145163879103,DE,Bornheim
-Naïv,52acc73b11d21e1607854d67,Fahrgasse 4,50.11012554224736,8.687724657967209,DE,Innenstadt
-Haus Wertheim,4b05884ff964a520e6bd22e3,Fahrtor 1,50.10961162379297,8.682099604467167,DE,Altstadt
-Gerbermühle,4b05884df964a52002bd22e3,Gerbermühlstr. 105,50.106131543376996,8.721188685754228,DE,Oberrad
-Restaurant Gustav,55417367498eea893ab8ee8b,Reuterweg 57,50.12093061833063,8.670535372684453,DE,Westend-Süd
-Zum Tannenbaum,4b465c1bf964a520ba1e26e3,Homburgerstr. 9,50.11879701930583,8.646328986968587,DE,Bockenheim
-Conrad's Restaurant,4c30830066e40f47f59ac38b,Große Eschenheimer Str. 3,50.11421072843956,8.679379803153273,DE,Innenstadt
-Café Karin,4b05884ef964a5205cbd22e3,Großer Hirschgraben 28,50.11162143147714,8.678096929289612,DE,Altstadt
-Restaurant Gusto,4b058851f964a52072be22e3,Kennedyallee 70,50.09737436267131,8.669185080381029,DE,Sachsenhausen-Nord
-Henscheid,53b58890498e018010a48352,Mainkurstr. 27,50.12434925165935,8.709330072045939,DE,Bornheim
-Malepartus,4bb8d3d1b35776b0d446c901,Bornheimer Landwehr 59,50.12258011963149,8.710059762109255,DE,Ostend
-Bootshaus am Eisernen Steg,4b058851f964a5204ebe22e3,Schaumainkai 1,50.10744924383195,8.681947094560991,DE,Sachsenhausen-Nord
-The Westin Grand Frankfurt,4b05884df964a52027bd22e3,Konrad-Adenauer-Str. 7,50.11578315904799,8.687259256839754,DE,Innenstadt
-The Holy Cross Brewing Society,566d741d498e798119fcd349,Fahrgasse 7,50.110165,8.687225,DE,Altstadt
-Die Fabrik | Kulturwerk Frankfurt,53a5d459498ec347d31465ed,Mittlerer Hasenpfad 5,50.097029,8.685697,DE,Sachsenhausen-Süd
-Zum Alten Frankfurter,4d025c6c3be26dcb683278e4,Ziegelgasse 2,50.11196957802789,8.682051464182067,DE,Altstadt
-Klaane Sachsehäuser,4b77029cf964a52035742ee3,Neuer Wall 11,50.10494767448144,8.69043719237759,DE,Sachsenhausen-Nord
-Zum Hirsch,4bdda46ee75c0f474405c503,,50.10016733703079,8.720237528206482,DE,Oberrad
-Wirtshaus im Ostend,598a1041c9a51708594f5db1,Rückertstr. 22,50.11038064720296,8.699898722481803,DE,Ostend
-Sugar Mama,5496f23b498e787a0e9b3be2,Kurt-Schumacher-Str. 2,50.1098,8.688115,DE,Innenstadt
-Weinstube im Römer,4bddc4280ee3a593c08e2eb0,Römerberg 19,50.11026907215186,8.681754128253528,DE,Altstadt
-Plank,4ca24e775720b1f7841728ef,Münchener Str. 30,50.107657,8.668648,DE,Bahnhofsviertel
-Cafe Liebfrauenberg,4be42a2bcf200f471c8b113c,Liebfrauenberg 24,50.11263186961196,8.681821638422281,DE,Altstadt
-Bockenheimer Stubb,4c22435313c00f477f3287de,Robert-Mayer-Str. 63,50.11711241432357,8.643216102596961,DE,Bockenheim
-Zum Standesämtchen,4c3b6d08def90f470beefd2d,Römerberg 23,50.11029634370421,8.682389458266762,DE,Altstadt
-25hours Hotel Frankfurt The Goldman,4b709b7df964a520ef242de3,Hanauer Landstr. 127,50.11185350530607,8.71302373672301,DE,Ostend
-Frankfurt Marriott Hotel,4b05884df964a5200abd22e3,"Hamburger Allee 2, HE",50.1145921,8.6502454,DE,Westend-Süd
-Café Kante,4b05884df964a52047bd22e3,Kantstr. 13,50.12021191668958,8.696861401802307,DE,Nordend-Ost
-Das Nord²,4b918fd6f964a520cdc533e3,Sandweg 64,50.12004567694415,8.698873500481893,DE,Ostend
-Restaurant Opéra,4c4ab94b959220a138d9860e,Opernplatz 1,50.115421474644826,8.671501073883249,DE,Innenstadt
-Mc Roman & St.Martin Frankfurt Pub,533dcfe5498edcd0ad2ce6ec,Hanauer Landstr. 99,50.111566612948465,8.708495883581882,DE,Ostend
-Eckhaus,4b71ad29f964a52072552de3,Bornheimer Landstr. 45,50.12254191928908,8.695056246091054,DE,Nordend-Ost
-Steinernes Haus,4b05884ff964a520afbd22e3,Markt 44,50.11109263176262,8.682677596250365,DE,Altstadt
-Zimt & Koriander,4cab661a97c8a1cdadfd9aa5,Schärfengäßchen 4,50.113323889293156,8.681756835957039,DE,Altstadt
-Café Hauptwache,4b05884df964a52051bd22e3,An der Hauptwache 15,50.113484,8.6787,DE,Innenstadt
-InterContinental Frankfurt,4b05884cf964a520f8bc22e3,Wilhelm-Leuschner Str. 43,50.10458076270172,8.668858796295126,DE,Bahnhofsviertel
-Weidenhof,4b695e33f964a52023a02be3,Zeil 104,50.114424580815495,8.682191111009388,DE,Innenstadt
-Wirtshaus Platzhirsch,518d15ba498ed224559f1f7e,Mainwasen 34,50.10543961314738,8.715762872179273,DE,Sachsenhausen-Nord
-Gaststätte Weida - Im blauen Bock,4ba521b8f964a5208ee138e3,Saalburgstrasse 36,50.12726159392904,8.706678263151211,DE,Bornheim
-Oosten,5071734ee4b0d9a17514b1dc,Mayfarthstr. 4,50.107738346890685,8.702759742736816,DE,Ostend
-Zum Feuerrädchen,4b181611f964a520b6cc23e3,Textorstr. 24,50.102527665359325,8.688152765536952,DE,Sachsenhausen-Nord
-Neuer Volkswirt,4b105692f964a520316e23e3,Kleine Hochstr. 9,50.115459138100604,8.674164366386862,DE,Innenstadt
-"Livingstonscher Pferdestall Restaurant ""Herr Franz""",4f907123e4b0c550e208014f,Ulmenstr. 20,50.11526972475518,8.665496583348249,DE,Westend-Süd
-Struwwelpeter,4cb60d32b315a09362199976,Neuer Wall 3,50.10479371707832,8.689837754548252,DE,Sachsenhausen-Nord
-Weinsinn Restaurant,4e064a178877394591df1cd7,Fürstenbergerstraße 179,50.1243791403836,8.671704621470951,DE,Westend-Nord
+Zum Standesämtchen,4c3b6d08def90f470beefd2d,Römerberg 23,50.11029634370422,8.682389458266762,DE,Altstadt
 Wirtshaus am Hühnermarkt,5c180459a4b51b002c093a70,Markt 16-18,50.110777,8.684,DE,Altstadt
-POSSMANN,578d3c36498e5b17a08debfa,,50.110482,8.682396,DE,Altstadt
-Schwarzwaldhaus am Kamin,4ed7b7ad6da14054c30b593a,Am Historischen Museum,50.109760414129475,8.682129246394076,DE,Altstadt
-Liebfrauenberger,500c1c1de4b02f47f78ef725,Liebfrauenberg 37,50.112406,8.682083,DE,Altstadt
-liebe und seele,55789241498ed0b30ec43daf,,50.112326,8.679625,DE,Altstadt
 Frankfurter Wirtshaus,5b3225a7e65d0c002c94296b,Mainkai 35,50.10905,8.681975,DE,Altstadt
-Depot 1899,4b0adcb2f964a520152923e3,Textorstr. 33,50.10156347456519,8.686595050178097,DE,Sachsenhausen-Nord
-markt-stubb,4f363c75e4b02a70dff042c7,,50.112904533855236,8.684200184796799,DE,Altstadt
-Caféhaus Siesmayer,4bb9e3d53db7b713179e229a,Siesmayerstr. 59,50.12217265570237,8.658534668105814,DE,Westend-Süd
-Zum Alten Schlagbaum,4f91a6c9e4b0ead198109182,,50.127789875680286,8.709979281223617,DE,Bornheim
-Döpfner's,4d5eca555b276dcb2ee8fec5,Schifferstraße,50.10428513190014,8.686558653583623,DE,Sachsenhausen-Nord
-Grill Haus,4e42d79cfa76415849a1fbd2,,50.105846,8.691512,DE,Sachsenhausen-Nord
-Zum grauen Bock,4ccc57047c2ff04d5c87987e,Grosse Rittergasse,50.10579744914138,8.691848632563646,DE,Sachsenhausen-Nord
-Zum Schwarzen Stern,4b058851f964a5205ebe22e3,Römerberg 6,50.11027429331151,8.68246587822953,DE,Altstadt
-Hessekopp,5bd2295082a750002c9c9c5a,An der Welle 4,50.118629999999996,8.672417,DE,Westend-Süd
-mondnacht,52c6fb84498ed81f559115a0,,50.12019982306969,8.696534937417777,DE,Nordend-Ost
-Café Diesseits,4b05884df964a52031bd22e3,Konrad-Broßwitz-Str. 1,50.12491580014496,8.639161054164505,DE,Bockenheim
-Speisegaststätte - Zum Deutschen Michel,4da5d762a86e226c26bfc71c,werftstrasse 20,50.1024138,8.66144582,DE,Gutleutviertel
-Frankfurter Kanuverein 1913 e.V.,4bd1e1c0046076b09db67271,,50.100974,8.668564,DE,Sachsenhausen-Nord
-Hamsilos & Schenck's,4dd235961f6ef5f6cccf0f06,Münchner Str. 28,50.10769863606138,8.66916755563318,DE,Bahnhofsviertel
-Luftikus,4c2c7ad4ae6820a1f9581943,Mainzer Landstr. 269,50.102695000000004,8.64303,DE,Gallus
-Maximilian's,4cf6b4b8d3a8a1cd0dc9d243,Hattersheimer Str. 2-6,50.104453,8.637975,DE,Gallus
-Metzgerei Böhm,4bdab14f2a3a0f476fb1abb6,Niddastr. 104a,50.10722999401194,8.657169728310084,DE,Gallus
-Immer satt,4feca99be4b042799e44e8ef,Robert-Mayer-Str. 41,50.117289463195036,8.64607506495123,DE,Bockenheim
-Block House Europa-Allee,525fb62b11d2535fb55fa5cf,Europa-Allee 12-22,50.108861371239776,8.650225834066765,DE,Gallus
-Feldbergblick,4eb28ed393ad74b3b921eabc,Ginnheimer Stadtweg 57a,50.1341534145356,8.653219994443647,DE,Bockenheim
-Vereinsgaststätte Zur Gießkanne,4e2eeeb6d1646b407b88a394,Am Hohen Weg,50.12972262119386,8.630737404996276,DE,Bockenheim
-Rickys Cuisine,51c9a0bd498e33ecd5ea6698,Homburger Strasse 28,50.1189707487496,8.646332981464418,DE,Bockenheim
-Vereinshaus Ginnheimer Höhe,51e04164498e47127746fbd9,Diebsgrundweg,50.130998999999996,8.651692,DE,Bockenheim
-Ristorante & Pizzeria Botticelli,4c754d72604a370429448249,Florastr. 24,50.125578000000004,8.640145,DE,Bockenheim
-Wie bei Omi,575b0c2f498eabc93610af56,Franz-Rücker-Allee 43,50.130793,8.646048,DE,Bockenheim
-Piazetta,504eef0de4b0c42ad1c66cb4,Adickesallee 1,50.13153866357381,8.683216972014243,DE,Nordend-West
-Zum Adler,4b06de73f964a520def122e3,Ginnheimer Hohl 2a,50.143994739198895,8.649135633219455,DE,Ginnheim
-Ginnheimer Wirtshaus,4baa78ecf964a520366d3ae3,Am Ginnheimer Wäldchen 8,50.1456682593481,8.643469783425415,DE,Ginnheim
-Restaurant und Gartenlokal Friedberger Warte,4b058851f964a5204cbe22e3,Friedberger Landstr. 414,50.14069431425632,8.699293166765393,DE,Bornheim
-Café Läuft,4b5c1375f964a520582329e3,Rohrbachstr. 54,50.127825489776704,8.693739473819733,DE,Nordend-Ost
-Homburger Hof,4d51997e71548cfa7c2c1d9a,Engelthalerstr. 13,50.149629,8.681726,DE,Eckenheim
-Oma Rink's Sterntaler,4b8d6134f964a5203df832e3,Musikantenweg 68,50.12121870533171,8.69842529296875,DE,Nordend-Ost
-kp21,4b54c619f964a520cccb27e3,Bachmannstraße 2-4,50.131460873214216,8.626060778262081,DE,Hausen
-Zum Dicken Fritz,4e32e5b0d22d630c23d7516b,Mainkurstr. 6,50.125327,8.70726,DE,Bornheim
-Ristorante La Divina,4b8ec035f964a520e13433e3,Feldbergstrasse,50.122027825185356,8.661553269449257,DE,Westend-Süd
-La Tagliatella,522b2439498e04925e190c93,Europa-Allee 6,50.11035630565581,8.651673622668824,DE,Gallus
-Hotel Villa Diana,4e24041d22717a5245e42dc5,,50.11527388702911,8.657172479362897,DE,Westend-Süd
-Best Worscht in Town,566c0cba498ec2bbb90fe3f7,Zeil 104,50.11452160945871,8.682585748403188,DE,Innenstadt
-Fair Hotel,4c895bba542e9c745d8d7e97,Mainzer Landstrasse 120,50.107967648453986,8.656450123559686,DE,Gallus
-Metzgerei Waibel,4b7cd687f964a5200ba72fe3,Leipziger Str. 15,50.121075724384745,8.648742617783087,DE,Bockenheim
-Lilium,4b7984c1f964a52062fe2ee3,Leipzigerstr. 4,50.12067252640111,8.649914873743244,DE,Bockenheim
-Back-Factory,51aa2651498ec578a3b4163f,Kaiserstr. 81,50.107464,8.665345,DE,Bahnhofsviertel
-Best Worscht in Town,58e7664004ab1a3940fc213a,Schillerstr. 18,50.115097999999996,8.679555,DE,Innenstadt
-Best Worscht in Town,552e4514498e0de5f225231e,Europa-Allee 6,50.109341,8.652778,DE,Gallus
-Zapfhahn,4b0ae398f964a5207f2923e3,Am Hauptbahnhof,50.10669455851034,8.665300455436489,DE,Gallus
-Hermann´s,51e6e2f6498eb1a439046503,Am Hauptbahnhof,50.10641313398342,8.663329993459302,DE,Gallus
-Zur Sonne,4b058850f964a52034be22e3,Berger Str. 312,50.130308642040646,8.714454930974053,DE,Bornheim
-Der Buchwald (Schoppenoase),4ba4f5f7f964a52000c938e3,Buchwaldstr. 22,50.12960944033819,8.715505599975586,DE,Bornheim
-Bergstation,4ff03404e4b000351aa63b4d,Probst-Goebels-Weg 17,50.14279144967565,8.716268858038527,DE,Seckbach
-Bornheimer Dorfstadl,55bcd7cd498e9f5df1349196,Berger Straße 249,50.12839328633897,8.710806122634539,DE,Bornheim
-Libertine Lindenberg,575d9057498e205c98f6aff8,,50.10621237827378,8.690800459371701,DE,Sachsenhausen-Nord
-Zum Rad,4b058850f964a52033be22e3,Leonhardsgasse 2,50.14535284333455,8.728228714306658,DE,Seckbach
-BMW Betriebsrestaurant,4b867213f964a5207e8a31e3,Hanauer Landstraße 182,50.11471805090269,8.721744448475585,DE,Ostend
-Vereinslokal,54c0dfff498eb34a1c75df20,Schwedlerstr. 1,50.11327643773467,8.720029660421945,DE,Ostend
-Grüne Sosse am Main,4f941374e4b0cd2d540fba59,"Gerbermühlstraße 107, 60594 Frankfurt am Main",50.10596912873982,8.722670188760338,DE,Oberrad
-Frankfurter Ruder-Club von 1884,4e6b6d61fa76cd0f771f1ee5,,50.105368993497905,8.716292029563277,DE,Sachsenhausen-Nord
-Grüne Soße und mehr,56081f33498eb0f06820a0fc,Offenbacher Landstr. 357,50.100423,8.724296,DE,Oberrad
-Best Worscht in Town,4b2cbc49f964a520dbc824e3,Hanauer Landstr. 220,50.1164848646309,8.726976573015039,DE,Ostend
-Apfelwein Solzer,4b058851f964a5205fbe22e3,Berger Str. 260,50.128264336279756,8.711232199739799,DE,Bornheim
-Best Worscht in Town,4b6da1aaf964a520dd812ce3,Berger Str. 80,50.12135037683177,8.697869123580963,DE,Nordend-Ost
-Frau Rauscher,52dad966498e1418f8517c52,Klappergasse 8,50.10533485338751,8.691548765958897,DE,Sachsenhausen-Nord
-Atschel,4b2296adf964a520a34924e3,Wallstr. 7,50.10474935219585,8.688958451492997,DE,Sachsenhausen-Nord
-Fichtekränzi,4b0ecc66f964a5202f5b23e3,Wallstr. 5,50.10469181921947,8.688989910702192,DE,Sachsenhausen-Nord
+Max on One,4e9dc4dff5b95ad93faa8788,Thurn-und-Taxis-Platz 2,50.115109806797335,8.68023274613893,DE,Innenstadt
+Heimat – Essen und Weine,4cfd2a882c1aa090410e057a,Berliner Str. 70,50.11112519116169,8.67828645020011,DE,Altstadt
+Hermann´s,51e6e2f6498eb1a439046503,Am Hauptbahnhof,50.10641313398342,8.663329993459303,DE,Gallus
+Best Worscht in Town,566c0cba498ec2bbb90fe3f7,Zeil 104,50.1145216094587,8.682585748403188,DE,Innenstadt
+Luftikus,4c2c7ad4ae6820a1f9581943,Mainzer Landstr. 269,50.102695,8.64303,DE,Gallus
+Frau Rauscher,52dad966498e1418f8517c52,Klappergasse 8,50.10533485338751,8.691548765958899,DE,Sachsenhausen-Nord
+Emma Metzler,4b05884ef964a52062bd22e3,Schaumainkai 17,50.1059973188976,8.680665255219594,DE,Sachsenhausen-Nord
+Fichtekränzi,4b0ecc66f964a5202f5b23e3,Wallstr. 5,50.104691819219454,8.688989910702192,DE,Sachsenhausen-Nord
+Paulaner am Dom,4be18ea74ed5c9b61ba1ccce,Domplatz 6,50.11087627254253,8.685925175827979,DE,Altstadt
+Wirtshaus im Ostend,598a1041c9a51708594f5db1,Rückertstr. 22,50.11038064720296,8.699898722481803,DE,Ostend
+Zum Alten Schlagbaum,4f91a6c9e4b0ead198109182,,50.12778987568027,8.709979281223616,DE,Bornheim
+Hessekopp,5bd2295082a750002c9c9c5a,An der Welle 4,50.11863,8.672417,DE,Westend-Süd
+Apfelwein-Wirtschaft Fichtekränzi,5d545ae73c10d10008b4deb1,,50.104748,8.68916,DE,Sachsenhausen-Nord
+Leib & Seele,4b2781a9f964a520fc8624e3,Kornmarkt 11,50.112252,8.679295,DE,Altstadt
+Cafe Liebfrauenberg,4be42a2bcf200f471c8b113c,Liebfrauenberg 24,50.11263186961196,8.681821638422281,DE,Altstadt
+Salzkammer,4c3e0c4783a3a593ef88ed33,Weißadlergasse 15,50.11155748285333,8.678301635336066,DE,Altstadt
+Lokalbahnhof,4b2a822ef964a52087aa24e3,Darmstädter Landstr. 14,50.103075418174406,8.690308821751387,DE,Sachsenhausen-Nord
+Römer Pils Brunnen,4b6ac454f964a52072df2be3,Töngesgasse 19,50.11345007437633,8.683873455170064,DE,Altstadt
+Apfelwein Solzer,4b058851f964a5205fbe22e3,Berger Str. 260,50.12826433627976,8.711232199739797,DE,Bornheim
 Apfelweinwirtschaft Dauth-Schneider,4b058851f964a52056be22e3,Neuer Wall 7,50.10489897464219,8.690194580592518,DE,Sachsenhausen-Nord
-Schreiber-Heyne,4b5248e2f964a520e47427e3,Mörfelder Landstr. 11,50.09998175704524,8.690255858169525,DE,Sachsenhausen-Süd
-Apfelweinwirtschaft Frank,4c09618fed25952108f41256,Weberstr. 72,50.12661752404867,8.687031269073485,DE,Nordend-West
-Restaurant Römer-Bembel,4b729aa6f964a5203c802de3,Römerberg 20-22,50.110288,8.68259,DE,Altstadt
-Lohrberg-Schänke,4b05884df964a5204dbd22e3,Auf dem Lohr 9,50.15071499002525,8.727221849289528,DE,Seckbach
-Altes Zollhaus,4b058851f964a52055be22e3,Friedberger Landstr. 531,50.15407729931021,8.716051989279586,DE,Seckbach
-Zum Neuen Schwanen,563b484acd10bcba8016df1e,Wilhelmshöher Str. 152,50.14462,8.727089999999999,DE,Seckbach
-Oberforsthaus,4bf92e448d30d13ac1c70118,Am Oberfasthaus,50.078500040016756,8.654411394728305,DE,Sachsenhausen-Süd
-NTG Speisegaststätte,512bbface4b0e22f0f3e65a4,Goldsteinstr. 35,50.085015999999996,8.644498,DE,Niederrad
-Apfelwein Gass,4dcae9b8d4c0dfa030c50f88,Schwarzwaldstr. 8,50.08777,8.646165,DE,Niederrad
-Jolanda's Restaurant,4fa6a38be4b0bcbb47ecde13,,50.103074,8.625454,DE,Gallus
-Gaststätte Rosisten 2,4c66badf9cb82d7fee5491d2,Ziegelhüttenweg 50,50.0893392462074,8.678733058980379,DE,Sachsenhausen-Süd
-QGREENHOTEL by Meliá,4baf8c5bf964a5207b093ce3,Katharinenkreisel,50.115919,8.627792,DE,Bockenheim
-Holiday Inn Express,4bc8efd7762beee1a7b83d38,Gutleutstrasse 296,50.09753214988175,8.646258748885884,DE,Gutleutviertel
-Schweizers,4b54bf1cf964a52030ca27e3,Schweizer Str. 78,50.10075761843571,8.681529411537827,DE,Sachsenhausen-Nord
-Currywurst Taunus 25,4f74ceece4b0c97e39f3bf32,Taunusstraße 25,50.109420059951276,8.667503739985158,DE,Bahnhofsviertel
+Zum Bitburger,4ce58eba9bbf6ea804fbc8af,Hochstr. 45,50.115199876790356,8.673083334627298,DE,Innenstadt
 Apfelweinwirtschaft Adolf Wagner,4b689267f964a5209a802be3,Schweizer Str. 71,50.10046113273183,8.682030732952626,DE,Sachsenhausen-Nord
-Apfelwein Klaus,4ba11674f964a520999637e3,Kaiserhofstr. 18,50.11576823474339,8.675254607183563,DE,Innenstadt
+Zum Gemalten Haus,4b058851f964a52062be22e3,Schweizer Str. 67,50.1008313659805,8.682156915733083,DE,Sachsenhausen-Nord
+Conrad's Restaurant,4c30830066e40f47f59ac38b,Große Eschenheimer Str. 3,50.11421072843956,8.679379803153273,DE,Innenstadt
+Kanonesteppel,4bd33acd9854d13a863afd4d,Textorstr. 20,50.10259712564316,8.688446740078286,DE,Sachsenhausen-Nord
+Best Worscht in Town,4b6da1aaf964a520dd812ce3,Berger Str. 80,50.12135037683177,8.697869123580963,DE,Nordend-Ost
+Manufactum brot&butter,4b6aae9df964a520f5db2be3,Bockenheimer Anlage 49-50,50.11595805369511,8.670772486206868,DE,Westend-Süd
+Klosterhof,4b058851f964a52053be22e3,Weißfrauenstr. 3,50.109259,8.677224,DE,Altstadt
+Zum Storch am Dom,4c714f98d274b60ca201dc0d,,50.110072102124256,8.684888682105548,DE,Altstadt
+Mutter Ernst,4c7ea54e1009a093fb15454e,Alte Rothofstr. 12,50.11361330670327,8.67520293499801,DE,Innenstadt
+Edelweiss,4b8abaf5f964a520087d32e3,Schweizer Str. 96,50.09949691112552,8.682531508763416,DE,Sachsenhausen-Nord
+Currywurst Taunus 25,4f74ceece4b0c97e39f3bf32,Taunusstraße 25,50.10942005995129,8.667503739985158,DE,Bahnhofsviertel
+Schöneberger,4b672734f964a5201b3e2be3,Bergerstr. 237,50.12797550516889,8.710145163879103,DE,Bornheim
+Zum Tannenbaum,4b465c1bf964a520ba1e26e3,Homburgerstr. 9,50.11879701930583,8.646328986968587,DE,Bockenheim
 Wursthelden,4c30f770a0ced13aedf4126e,Am Hauptbahnhof,50.107171692556655,8.662649394965978,DE,Gallus
-Herrmann's,5329ddf0498ed360764e4f76,Am Hauptbahnhof,50.10637203944498,8.663556575775146,DE,Gallus
-Best Worscht In Town,58f8c27b4382ab47124898c4,,50.103334999999994,8.679212,DE,Sachsenhausen-Nord
-Schuch's Restaurant,4bc1c5c2b492d13a966ca660,Alt Praunheim,50.14786813595051,8.621107297027732,DE,Praunheim
-Rusticale,4ba133b8f964a5209da137e3,Thudichumstr. 1a,50.12398307027175,8.61023532316587,DE,Rödelheim
-Best Worscht in Town,4bb5f6eb1344b713c3c79c04,Grüneburgweg 37,50.121319562066326,8.671426703338106,DE,Westend-Nord
-Frankfurter Äpfelwein Botschaft,51af7fcd498e37d748f9d102,Eschborner Landstrasse 154,50.13001975791232,8.593013230774407,DE,Rödelheim
-Goetheruh,4c6fa093d7fab1f7bbfd5bc9,Am Goetheturm 1,50.089194801941254,8.711437430308527,DE,Sachsenhausen-Süd
-Gasthaus Oberschweinstiege,4df611f8aeb7170aa2f953b6,,50.0718160839614,8.682492429836602,DE,Sachsenhausen-Süd
-Frankfurter Haus,4b058851f964a52059be22e3,Darmstädter Landstr. 741,50.05880724954209,8.695338437403386,DE,Sachsenhausen-Süd
-Oberschweinstiege Biergarten,4c713b0c9a669c74ab43e2bd,Oberschweinstiegschneise 65,50.071911833318005,8.682313927355192,DE,Sachsenhausen-Süd
-Deutsch,4fdb1565e4b0397f0263fe6b,Terminal 1,50.04818332817703,8.568499088287354,DE,Flughafen
-Restaurant RISE,4f96df47e4b0b10b9cd1e4e1,Hiton Frankfurt Airport,50.05365806586882,8.572472631770221,DE,Flughafen
-Paulaner in The Squaire,4e0affee8877cb3b2aba0b82,"The Squaire, Level 5",50.05295456421806,8.568888789393085,DE,Flughafen
-Hausmann's,507c5dfee4b0390978ff3e2a,Terminal 1,50.04818125534233,8.568723289558314,DE,Flughafen
-RBG Bar & Grill,51a50e18498e305989c0a2f7,Park Inn by Radisson Frankfurt Airport Hotel,50.0551968210556,8.593686808792622,DE,Flughafen
-Käfer's,4bff883ae584c92882516e25,Terminal 1,50.05015310772251,8.572998721015331,DE,Flughafen
-Kuffler & Bucher,4d983763647d8cfa18dde93d,Terminal 1,50.047842203381,8.573623942454788,DE,Flughafen
-Goethe-Bar,4b6d1e0af964a5208b672ce3,Terminal 1,50.047958492627394,8.573517585713603,DE,Flughafen
-Anton & Anni,5a49f270dff8156fd0549613,Terminal 1,50.04734900910497,8.56218539163345,DE,Flughafen
-Restaurant Taverne,4debe04952b11677f06109ad,Hugo-Eckener-Ring 15,50.05194537947098,8.572312617362051,DE,Flughafen
-Ludwigs,555e1fed498e8bc2547cfffa,,50.05206763330304,8.586864636720946,DE,Flughafen
-Restaurant Unterschweinstiege,4ceebadeb80da093040c2900,Unterschweinstiege 16,50.05785593017464,8.58938398554409,DE,Flughafen
-Deli Bros.,504b67e8e4b0c450c2577dc2,Terminal 1,50.04819527840334,8.5740672877906,DE,Flughafen
-Waldrestaurant,4cd993aaa99d370455fd0bce,Unterschweinstiege 16,50.05813729504035,8.589355556727947,DE,Flughafen
-Hermann's,4bd9630b11dcc928b997f933,"Terminal 1, Airport City Mall",50.05082012331341,8.56994726636913,DE,Flughafen
-InterCityHotel Frankfurt Airport,4bf4c3dc2d6295213e2d6058,Am Luftbrückendenkmal 1 / Cargo City Süd,50.03297597503918,8.59220333004951,DE,Flughafen
-Sense of Taste,4f818d49e4b050ced6dbd595,"Terminal 2, Concourse D",50.051926722846154,8.585747500439801,DE,Flughafen
-McDonald's,4d4a848eb480a1439cb62fec,Terminal 1,50.047870745984795,8.573397511368514,DE,Flughafen
-Zum Zehnthof,4dad68948154b108febd5d0d,Alt Schwanheim 12,50.085958062211475,8.581500996564516,DE,Schwanheim
-"Frankfurter Hof ""Seppche""",4cdb0907fc9737047562cc05,Alt-Schwanheim 8,50.08620836091414,8.581453527327568,DE,Schwanheim
-Zur Waldlust,4c128db8127f95214a852425,Oeserstr.  16,50.10205300000001,8.568071,DE,Nied
-Gasthaus Zum Löwen,4bccfd7d511f95210b17b4c7,Alt Sossenheim 74,50.118116296582365,8.564118919695671,DE,Sossenheim
+Frankfurter Küche,4b2a181ef964a52035a524e3,Hanauer Landstr. 86,50.11126575521047,8.704365942499045,DE,Ostend
+Apfelweinwirtschaft Frank,4c09618fed25952108f41256,Weberstr. 72,50.12661752404867,8.687031269073485,DE,Nordend-West
+Goetheruh,4c6fa093d7fab1f7bbfd5bc9,Am Goetheturm 1,50.089194801941254,8.711437430308528,DE,Sachsenhausen-Süd
+Gerbermühle,4b05884df964a52002bd22e3,Gerbermühlstr. 105,50.106131543376996,8.721188685754228,DE,Oberrad
+Erbgut,4b2f3442f964a5202eea24e3,Hans-Thoma-Str. 1,50.10409057550748,8.678763848403575,DE,Sachsenhausen-Nord
+Baseler Eck,4cab654a14c337040150ea3b,Baseler Platz 7,50.10301150842863,8.664685902409236,DE,Gutleutviertel
+Atschel,4b2296adf964a520a34924e3,Wallstr. 7,50.104749352195846,8.688958451492997,DE,Sachsenhausen-Nord
+Apfelwein DAX,4bc5f3db51b376b00bb31a6f,Willemerstr. 11,50.10438954482606,8.692552694714834,DE,Sachsenhausen-Nord
+Nizza am Main,4c8c8674f87e224b44f63505,Untermainkai 17,50.105248,8.671327,DE,Bahnhofsviertel
+Lorsbacher Thal,4c4b4c455609c9b684fdf090,Große Rittergasse 49,50.10546995430601,8.691137087732239,DE,Sachsenhausen-Nord
+Mc Roman & St.Martin Frankfurt Pub,533dcfe5498edcd0ad2ce6ec,Hanauer Landstr. 99,50.11156661294848,8.708495883581882,DE,Ostend
+Zum Eichkatzerl,4c13d26882a3c9b6032afcf8,Dreieichstr. 29,50.105125791972995,8.692353611876333,DE,Sachsenhausen-Nord
+Vereinsgaststätte Zur Gießkanne,4e2eeeb6d1646b407b88a394,Am Hohen Weg,50.129722621193864,8.630737404996276,DE,Bockenheim
+Zum Alten Frankfurter,4d025c6c3be26dcb683278e4,Ziegelgasse 2,50.11196957802788,8.682051464182065,DE,Altstadt
+Mosebach,4b05884df964a5204bbd22e3,Sandweg 29,50.11792739791386,8.696436964813325,DE,Nordend-Ost
+Zur Germania,4c3618293849c928c170bbb1,Textorstr. 16,50.10261483576354,8.688842905379401,DE,Sachsenhausen-Nord
+Zum Adler,4b06de73f964a520def122e3,Ginnheimer Hohl 2a,50.143994739198874,8.649135633219455,DE,Ginnheim
+Haus Wertheim,4b05884ff964a520e6bd22e3,Fahrtor 1,50.10961162379298,8.682099604467167,DE,Altstadt
+Best Worscht in Town,58e7664004ab1a3940fc213a,Schillerstr. 18,50.115098,8.679555,DE,Innenstadt
+Die Leiter,4bb59bdff562ef3b61262f97,Kaiserhofstr. 11,50.115077703244296,8.674751926119521,DE,Innenstadt
+POSSMANN,578d3c36498e5b17a08debfa,,50.110482,8.682396,DE,Altstadt
+Bockenheimer Stubb,4c22435313c00f477f3287de,Robert-Mayer-Str. 63,50.117112414323564,8.643216102596961,DE,Bockenheim
+Fennischfuchser,4cd466f6a5b34688d4ba8750,Mainzer Landstr. 95,50.10913497374873,8.65961221796089,DE,Gallus
+Markusquelle,50479314e4b05a8c89dc22a2,,50.13701161156442,8.645946712100816,DE,Bockenheim
+Luther,4cdf0c94db125481dcae34ce,,50.12871648147203,8.698020663662627,DE,Nordend-Ost
+Restaurant Gusto,4b058851f964a52072be22e3,Kennedyallee 70,50.09737436267131,8.669185080381029,DE,Sachsenhausen-Nord
+Zur Schönen Müllerin,4b4f737df964a5202d0727e3,Baumweg 12,50.11799174680935,8.695549813948015,DE,Nordend-Ost
 Speisekammer,4cd1b0e248b83704b568fade,Alt Heddernheim 41,50.15734998460877,8.648522308799514,DE,Heddernheim
-"Schlüters Alpenwelt, Nordwestzentrum, Frankfurt",4f439c30e4b0c5334eb0d4cd,,50.15694478730432,8.633882909294593,DE,Heddernheim
-Best Worscht in Town,4b8babddf964a5205ea632e3,Nidacorso 3-5,50.1578448023356,8.633403985745435,DE,Heddernheim
-Lahmer Esel,4beaef68415e20a107a9e5bb,Krautgartenweg 1,50.169436787700526,8.622207056468058,DE,Niederursel
-Mutz Café und Restaurant,4bd4063e462cb7131da9df07,Alt-Niederursel 27,50.167745341203464,8.620268020446591,DE,Niederursel
-Momberger,4d65617d7f84f04d908300b5,Alt-Heddernheim 13,50.158405819478034,8.649680237975687,DE,Heddernheim
-Drosselbart,4c1371bd583c9c74eb6d3fa4,Eschersheimer Landstr. 607,50.15884841858594,8.656400785399683,DE,Eschersheim
-Zur Kastanie XXL Restaurant,4dbd560dcda109aa6cb06629,Ginsterweg,50.161222994429465,8.677744255156073,DE,Eckenheim
-Sandelmühle,4bd1a72a5e0cce7246c9a184,An der Sandelmühle 35,50.163182376835785,8.650989107477871,DE,Heddernheim
-Tower Cafe,4bdbf47463c5c9b62c122a68,Am Burghof 55,50.17779179370866,8.659963590976337,DE,Kalbach-Riedberg
-Gasthaus Zum Lemp,4da04c12784f37042f1a96af,,50.17188049370938,8.697081398669566,DE,Berkersheim
-Zum Einhorn,4bdb200d3904a59324e1489e,Alt Bonames 2,50.180738543892154,8.664056919368564,DE,Bonames
-Harheimer Hof,4bf0f3be6f8aa5932867c23c,Alt-Harheim 11,50.182296820797156,8.692647180082485,DE,Harheim
-Die Werkskantine,4cebed38f69f6a3175bc2c3f,Orber Str. 4a,50.13220649038014,8.755471317667366,DE,Fechenheim
-Bier-Hannes,4bad06f4f964a520fa253be3,Hanauer Landstr.,50.13330426717107,8.768069904711455,DE,Fechenheim
-Restaurant Pfifferling & Bar Lauschig,4d8ce377fa9437044a42dbc5,Vilbeler Landstr. 55,50.14365881067243,8.753419179104531,DE,Bergen-Enkheim
-Best Worscht in Town,5813730338fab453be6f858b,Hessencenter,50.140852,8.752512,DE,Bergen-Enkheim
-Schöne Aussicht,4b058851f964a52051be22e3,Im Sperber 24,50.1542766961685,8.755704276568876,DE,Bergen-Enkheim
-Gasthaus Zum Bären,4ba67fe3f964a520725839e3,Höchster Schloßplatz 8,50.09880200441305,8.547776721452161,DE,Höchst
-Alte Zollwache,4c473b8b89a6c9b6818c9988,Höchster Schloßplatz 10,50.09870709710515,8.547564642742419,DE,Höchst
+Eckhaus,4b71ad29f964a52072552de3,Bornheimer Landstr. 45,50.12254191928907,8.695056246091054,DE,Nordend-Ost
+Lohrberg-Schänke,4b05884df964a5204dbd22e3,Auf dem Lohr 9,50.15071499002526,8.727221849289526,DE,Seckbach
+Best Worscht in Town,4bb5f6eb1344b713c3c79c04,Grüneburgweg 37,50.121319562066326,8.671426703338108,DE,Westend-Nord
+Best Worscht in Town,4b2cbc49f964a520dbc824e3,Hanauer Landstr. 220,50.1164848646309,8.726976573015039,DE,Ostend
+Restaurant Römer-Bembel,4b729aa6f964a5203c802de3,Römerberg 20-22,50.110288,8.68259,DE,Altstadt
+Zum Schwarzen Stern,4b058851f964a5205ebe22e3,Römerberg 6,50.110274293311505,8.68246587822953,DE,Altstadt
+Bootshaus am Eisernen Steg,4b058851f964a5204ebe22e3,Schaumainkai 1,50.10744924383195,8.681947094560991,DE,Sachsenhausen-Nord
+Zum grauen Bock,4ccc57047c2ff04d5c87987e,Grosse Rittergasse,50.10579744914139,8.691848632563646,DE,Sachsenhausen-Nord
+BMW Betriebsrestaurant,4b867213f964a5207e8a31e3,Hanauer Landstraße 182,50.11471805090269,8.721744448475585,DE,Ostend
+Niewo,4c8a75e1770fb60c0cd0d2c3,,50.128746873008176,8.699923603806118,DE,Nordend-Ost
+Altes Zollhaus,4b058851f964a52055be22e3,Friedberger Landstr. 531,50.15407729931021,8.716051989279586,DE,Seckbach
+Henscheid,53b58890498e018010a48352,Mainkurstr. 27,50.12434925165935,8.709330072045939,DE,Bornheim
+Restaurant Buchholz,4b6db18bf964a52019872ce3,Sandweg 38,50.118288651768495,8.697106499397318,DE,Ostend
+Exil,4b058850f964a5202fbe22e3,Mercatorstraße 26,50.12014474512962,8.689795419069771,DE,Nordend-Ost
+Druckwasserwerk,4b770745f964a520ef752ee3,Am Druckwasserwerk 1,50.09697966686012,8.65341655723919,DE,Gutleutviertel
+Apfelwein Hehl,5ceee0af06fb60002c2f2ea9,,50.087861,8.640027,DE,Niederrad
+Zum Feuerrädchen,4b181611f964a520b6cc23e3,Textorstr. 24,50.10252766535933,8.688152765536952,DE,Sachsenhausen-Nord
+"Livingstonscher Pferdestall Restaurant ""Herr Franz""",4f907123e4b0c550e208014f,Ulmenstr. 20,50.11526972475518,8.665496583348249,DE,Westend-Süd
+Immer satt,4feca99be4b042799e44e8ef,Robert-Mayer-Str. 41,50.117289463195036,8.64607506495123,DE,Bockenheim
+Vinum,4d7d1077d1c28eecdb151974,Kleine Hochstrasse 9,50.11527702058234,8.674149375206184,DE,Innenstadt
+Frankfurter Kanuverein 1913 e.V.,4bd1e1c0046076b09db67271,,50.100974,8.668564,DE,Sachsenhausen-Nord
+Currywurst Truck,59de1274872f7d343ab0718f,Ludwig-Erhard-Anlage 1,50.1130968773788,8.644669995787579,DE,Westend-Süd
+Metzgerei Waibel,4b7cd687f964a5200ba72fe3,Leipziger Str. 15,50.12107572438474,8.648742617783087,DE,Bockenheim
+Apfelwein Klaus,4ba11674f964a520999637e3,Kaiserhofstr. 18,50.1157682347434,8.675254607183563,DE,Innenstadt
+Restaurant Gustav,55417367498eea893ab8ee8b,Reuterweg 57,50.12093061833063,8.670535372684453,DE,Westend-Süd
+wirthause,51268da9e4b077f704efced8,,50.115088,8.629261,DE,Bockenheim
+Best Worscht in Town,552e4514498e0de5f225231e,Europa-Allee 6,50.109341,8.652778,DE,Gallus
+Herrmann's,5329ddf0498ed360764e4f76,Am Hauptbahnhof,50.10637203944498,8.663556575775146,DE,Gallus
+Frankfurter Äpfelwein Botschaft,51af7fcd498e37d748f9d102,Eschborner Landstrasse 154,50.130019757912315,8.593013230774407,DE,Rödelheim
+Eppstein Eck,4d5bbba11e43236a01df1183,Eppsteiner Str. 26,50.1205913926935,8.66758945215002,DE,Westend-Süd
+Upper Westside,4bcf7a9c462cb71370ccd607,An der Welle,50.11849067101022,8.672394128871321,DE,Westend-Süd
+Restaurant Opéra,4c4ab94b959220a138d9860e,Opernplatz 1,50.115421474644826,8.67150107388325,DE,Innenstadt
+friends,4c2259befbe5c9b624c09921,bleichstrasse,50.118276,8.683018,DE,Innenstadt
+Paulaner Munich,5959086795a72203b0b828a3,,50.107906,8.6661625,DE,Bahnhofsviertel
+Schuch's Restaurant,4bc1c5c2b492d13a966ca660,Alt Praunheim,50.14786813595051,8.621107297027732,DE,Praunheim
+Neuer Volkswirt,4b105692f964a520316e23e3,Kleine Hochstr. 9,50.115459138100604,8.674164366386862,DE,Innenstadt
+Villa Mamma,51596ee6e4b0967e33401caf,,50.097904272629876,8.602651976007591,DE,Griesheim
+Weindenhof,50069d5ee4b06737890a1b10,,50.11598,8.6761,DE,Innenstadt
+ION Bistro CON,4d56ba8dcf1b37044a49c23f,Frankfurt Airport,50.134109,8.657547,DE,Bockenheim
+Kaminzimmer,50709b3be4b02bfe65baa008,,50.117479651101256,8.680061044278713,DE,Innenstadt
+kp21,4b54c619f964a520cccb27e3,Bachmannstraße 2-4,50.13146087321422,8.626060778262081,DE,Hausen
+Medicia,51d71c15498eeedbb4e002df,,50.111576080322266,8.679730415344238,DE,Altstadt
+Haus Biegwald,501d47d9e4b0b1c509c98cbe,,50.117726,8.611587,DE,Rödelheim
+Oberschweinstiege Biergarten,4c713b0c9a669c74ab43e2bd,Oberschweinstiegschneise 65,50.071911833318,8.682313927355192,DE,Sachsenhausen-Süd
+Best Worscht In Town,58f8c27b4382ab47124898c4,,50.103335,8.679212,DE,Sachsenhausen-Nord
+Affentorschänke,5dadaa1ce5550800084ebb36,Neuer Wall 9,50.104874,8.690352,DE,Sachsenhausen-Nord
+Exenberger,4b06c778f964a5201bf022e3,Bruchstr. 14,50.101951,8.687252,DE,Sachsenhausen-Nord
+Klaane Sachsehäuser,4b77029cf964a52035742ee3,Neuer Wall 11,50.10494767448144,8.69043719237759,DE,Sachsenhausen-Nord
+Frankfurter Haus,4b058851f964a52059be22e3,Darmstädter Landstr. 741,50.058807249542085,8.695338437403386,DE,Sachsenhausen-Süd
+german restaurant,55fd2919498e1dfe1ef23e31,,50.101748,8.682866,DE,Sachsenhausen-Nord
+kanonestreppel,52d430c2498e925610897642,,50.10263442993164,8.688482284545898,DE,Sachsenhausen-Nord
+Pfeffermühle,4bbdc14c0780952160e2da91,,50.104108,8.666879,DE,Gutleutviertel
+Pop-Up Stübchen,536167f711d20ff4a46d3462,,50.085264,8.67491,DE,Sachsenhausen-Süd
+Geraur Stube,54384747498eb1650c7cd444,,50.083621,8.644129,DE,Niederrad
+Froillein's,4c9ca10c0e9bb1f75137d55f,,50.104014,8.679079,DE,Sachsenhausen-Nord
+Sachsenhäuser Landwehrstübchen,4efb4cb67ee5bf7995cf94e6,Sachsenhäuser Landwehrweg 391,50.08495897575125,8.67979422186109,DE,Sachsenhausen-Süd
+NTG Speisegaststätte,512bbface4b0e22f0f3e65a4,Goldsteinstr. 35,50.085016,8.644498,DE,Niederrad
+JB Apfelwein,55520b6c498ef95f48e239c1,Brückenstraße,50.10566528480716,8.687517492725165,DE,Sachsenhausen-Nord
+Döpfner's,4d5eca555b276dcb2ee8fec5,Schifferstraße,50.10428513190014,8.686558653583623,DE,Sachsenhausen-Nord
+Sportlerheim,503deeb5e4b096849417986f,,50.07746168507,8.632550700355512,DE,Niederrad
+Metzgerei Tombers,50755d1ee4b03ae5c08e6c4f,Brückenstr. 48,50.10519790649414,8.687297821044922,DE,Sachsenhausen-Nord
+Apfelwein Gass,4dcae9b8d4c0dfa030c50f88,Schwarzwaldstr. 8,50.08777,8.646165,DE,Niederrad
+Allianz Gaeste Casino,577546e8498e47734ab365d2,,50.098858,8.6665745,DE,Sachsenhausen-Nord
+Zur Pfeffermuehle,4d2d9c64a40da35d71499377,,50.1038992,8.666692,DE,Gutleutviertel
+Roomers Special,5436e4bc498e905e90ab4420,,50.105372167776096,8.669369751508174,DE,Bahnhofsviertel
+Anton & Anni,5a49f270dff8156fd0549613,Terminal 1,50.04734900910497,8.56218539163345,DE,Flughafen
+Käfer's,4bff883ae584c92882516e25,Terminal 1,50.05015310772251,8.572998721015333,DE,Flughafen
+Deutsch,4fdb1565e4b0397f0263fe6b,Terminal 1,50.04818332817702,8.568499088287354,DE,Flughafen
+Restaurant RISE,4f96df47e4b0b10b9cd1e4e1,Hiton Frankfurt Airport,50.05365806586883,8.572472631770221,DE,Flughafen
+Restaurant Taverne,4debe04952b11677f06109ad,Hugo-Eckener-Ring 15,50.05194537947098,8.572312617362051,DE,Flughafen
+Stadel,5880a3750802cb4bdcef22ea,,50.052833,8.569039,DE,Flughafen
+RBG Bar & Grill,51a50e18498e305989c0a2f7,Park Inn by Radisson Frankfurt Airport Hotel,50.05519682105559,8.593686808792622,DE,Flughafen
+Ludwigs,555e1fed498e8bc2547cfffa,,50.05206763330304,8.586864636720945,DE,Flughafen
+Waldrestaurant,4cd993aaa99d370455fd0bce,Unterschweinstiege 16,50.05813729504035,8.589355556727948,DE,Flughafen
+Paulaner in The Squaire,4e0affee8877cb3b2aba0b82,"The Squaire, Level 5",50.052954564218055,8.568888789393085,DE,Flughafen
+Goethe-Bar,4b6d1e0af964a5208b672ce3,Terminal 1,50.047958492627394,8.573517585713603,DE,Flughafen
+Hausmann's,507c5dfee4b0390978ff3e2a,Terminal 1,50.04818125534233,8.568723289558314,DE,Flughafen
+Restaurant Unterschweinstiege,4ceebadeb80da093040c2900,Unterschweinstiege 16,50.057855930174625,8.58938398554409,DE,Flughafen
+Kuffler & Bucher,4d983763647d8cfa18dde93d,Terminal 1,50.04784220338099,8.573623942454788,DE,Flughafen
+Liebfrauenberger,500c1c1de4b02f47f78ef725,Liebfrauenberg 37,50.112406,8.682083,DE,Altstadt
+"Frankfurter Hof ""Seppche""",4cdb0907fc9737047562cc05,Alt-Schwanheim 8,50.08620836091414,8.581453527327568,DE,Schwanheim
+Zum Zehnthof,4dad68948154b108febd5d0d,Alt Schwanheim 12,50.085958062211475,8.581500996564516,DE,Schwanheim
+Zur Waldlust,4c128db8127f95214a852425,Oeserstr.  16,50.102053,8.568071,DE,Nied
 Zum Schwan,4e3597b61838f85189a8363d,Höchster Schloßplatz 7,50.09881323,8.54794047,DE,Höchst
-Der Löwe - Das Lokal,4c3897871e06d13ad6f4773e,Alt Zeilsheim  10,50.09455,8.494302000000001,DE,Zeilsheim
-Äppelwoi-Stübche Grillmayer,4ccf14c6ba0a548155834c59,Zur Obermühle 15,50.20578022719214,8.70252590162149,DE,Nieder-Erlenbach
-SCHNEIDER Obsthof,4c6fec0cfa49a1cd5b4aa4e3,An Steinberg 24,50.20306476643342,8.719775012181513,DE,Nieder-Erlenbach
+Gasthaus Zum Bären,4ba67fe3f964a520725839e3,Höchster Schloßplatz 8,50.09880200441304,8.547776721452161,DE,Höchst
+Alte Zollwache,4c473b8b89a6c9b6818c9988,Höchster Schloßplatz 10,50.09870709710515,8.547564642742417,DE,Höchst
+Brötchenlounge,4c6d085ba437224b90d92bb1,,50.081623,8.629263,DE,Schwanheim
+Mainlust,5054c944e4b066826d348ca9,Hegarstr. 1,50.08689,8.584211,DE,Schwanheim
+Pfalzer Hof,4f6a2a33e4b012ec870c18ed,,50.09652715155854,8.606839334828036,DE,Griesheim
+Niddakampfbahn,55291d2f498eaba11d658780,,50.105448,8.574155,DE,Nied
+Anglerheim Nied,4e174266b61c3f2c48777bf3,An der Nidda,50.1100455,8.5841546,DE,Nied
+Astropark canteen,524bd9f07e484b4167ebcefe,Lyoner Straße 9,50.083829868739905,8.631112575531006,DE,Niederrad
+Zum Desche Otto,4f29b16ce4b015f8e4ecbe76,,50.08682457653845,8.584226946267467,DE,Schwanheim
+kleingaertnerverein frankfurt,4d76123d74eca093a66fb6a8,,50.079367,8.617521,DE,Schwanheim
+zum Nussbaum,5186825d498e31ce1b8ae393,,50.087589263916016,8.594778060913086,DE,Schwanheim
+Restaurant Nassovia,4f6a1f24e4b0faad0aa9fa0b,,50.09755507112457,8.565725535385129,DE,Nied
+Frankfurter Stube,5df1a9048a06ab0008b42e82,Lyoner Straße 44-48,50.077695,8.627243,DE,Schwanheim
+Schlemmergarten,4e70e4d9b99302402c806749,,50.078476,8.6207,DE,Schwanheim
+Schnitzel-Paul,520261e7498e6b63178cc7ff,Oeserstraße 220,50.1116589485021,8.599201219367387,DE,Griesheim
+Maximilian's,4cf6b4b8d3a8a1cd0dc9d243,Hattersheimer Str. 2-6,50.104453,8.637975,DE,Gallus
+Gasthaus Zum Löwen,4bccfd7d511f95210b17b4c7,Alt Sossenheim 74,50.11811629658237,8.564118919695671,DE,Sossenheim
+Hainer Hof,4c780a4c3badb1f7206c4a54,,50.12036467099562,8.56471693169233,DE,Sossenheim
+JU 52 Lounge,50fe6cd1e4b01d666f29b17c,,50.128432,8.627518,DE,Bockenheim
+"Gasthaus ""Zum Adler""",508d709ee4b05f3f84637fa9,Amtsgasse 28,50.120221374629615,8.584172093741039,DE,Sossenheim
+Zum Alten Haferkasten,4fba7575e4b0c8c4085b8147,,50.126099,8.610567,DE,Rödelheim
+Wasserturm,4c3af1814565e21e7dd9556a,,50.12968029349156,8.594083405678552,DE,Rödelheim
+Schnitzelbude,4dad635bf7b1e810c12df568,,50.10313,8.644214,DE,Gallus
+Zur Reifenburg,4d41ca3d90f9224bd03a131e,Reifenberger Str. 40,50.12940699777571,8.613881638743678,DE,Rödelheim
+Cocoon Clup,50ec7336e4b00e1df46dd1ef,,50.10241383387407,8.645774538645973,DE,Gallus
+DLG Kantine,4bea8c446295c9b6e57e8608,Eschborner Landstrasse 122,50.12949664500969,8.595939431045856,DE,Rödelheim
+Jolanda's Restaurant,4fa6a38be4b0bcbb47ecde13,,50.103074,8.625454,DE,Gallus
+Backerei Hanımeller,51190d91e4b03e992e94ed32,,50.10019082952127,8.633618311949393,DE,Gallus
+Feuewehrfest,4de11a0ec65bcc724f4fe5e0,,50.14795,8.623958,DE,Praunheim
+Schnitzelhaus,4f64ce47e4b0c7552d244087,,50.124774,8.643837,DE,Bockenheim
+Fraport Canteen cargo City South,4fd8b6d1e4b06071ea75693e,,50.158824,8.608487,DE,Niederursel
+"Zur Krone ""Riwweler""",4c473af7c047be9ae9e82f79,Alt Sossenheim 37,50.11834836417917,8.558768752095762,DE,Sossenheim
+Wie bei Omi,575b0c2f498eabc93610af56,Franz-Rücker-Allee 43,50.130793,8.646048,DE,Bockenheim
+Hinnerbäcker,5707c5a1498e3d4a7e0ddd75,,50.138917,8.646973,DE,Ginnheim
+Ristorante & Pizzeria Botticelli,4c754d72604a370429448249,Florastr. 24,50.125578,8.640145,DE,Bockenheim
+Feldbergblick,4eb28ed393ad74b3b921eabc,Ginnheimer Stadtweg 57a,50.134153414535604,8.653219994443647,DE,Bockenheim
+Schiller Grill,50df5dd4e4b015809ec71b1b,Schillerstraße 8,50.114980170091805,8.65622386195771,DE,Westend-Süd
+Nassauer Hof,4e3af39ad22d4aca87951155,,50.16077171328416,8.645437825397256,DE,Heddernheim
+"Schlüters Alpenwelt, Nordwestzentrum, Frankfurt",4f439c30e4b0c5334eb0d4cd,,50.15694478730432,8.633882909294593,DE,Heddernheim
+Am Spargel,57a73d71498ef5164b356c44,,50.133834,8.654392,DE,Bockenheim
+Rickys Cuisine,51c9a0bd498e33ecd5ea6698,Homburger Strasse 28,50.118970748749604,8.646332981464418,DE,Bockenheim
+Best Worscht in Town,4b8babddf964a5205ea632e3,Nidacorso 3-5,50.15784480233559,8.633403985745435,DE,Heddernheim
+Drosselbart,4c1371bd583c9c74eb6d3fa4,Eschersheimer Landstr. 607,50.15884841858594,8.656400785399683,DE,Eschersheim
+Vereinshaus Ginnheimer Höhe,51e04164498e47127746fbd9,Diebsgrundweg,50.130999,8.651692,DE,Bockenheim
+Ginnheimer Wirtshaus,4baa78ecf964a520366d3ae3,Am Ginnheimer Wäldchen 8,50.14566825934809,8.643469783425415,DE,Ginnheim
+Momberger,4d65617d7f84f04d908300b5,Alt-Heddernheim 13,50.158405819478034,8.649680237975687,DE,Heddernheim
+Allgaiers,502aae09e4b0bcbf4e85e8bf,Liebigstraße 47,50.12253,8.664741,DE,Westend-Süd
+Sohar,4fc4a74ae4b005f3f3f4f35b,Savigny Street 66,50.11612285440136,8.659919015135495,DE,Westend-Süd
+Gaststaette KGV Marbachweg,4c5d775f6147be9a3b039209,Marbachweg,50.133716,8.654224,DE,Bockenheim
+Mutz Café und Restaurant,4bd4063e462cb7131da9df07,Alt-Niederursel 27,50.167745341203464,8.620268020446591,DE,Niederursel
+Lahmer Esel,4beaef68415e20a107a9e5bb,Krautgartenweg 1,50.16943678770053,8.622207056468058,DE,Niederursel
+Sandelmühle,4bd1a72a5e0cce7246c9a184,An der Sandelmühle 35,50.16318237683579,8.650989107477871,DE,Heddernheim
+Boulevard,594951f2dab4b165b83c2f7c,,50.169524,8.637908,DE,Niederursel
+Tower Cafe,4bdbf47463c5c9b62c122a68,Am Burghof 55,50.17779179370866,8.659963590976337,DE,Kalbach-Riedberg
+Zum Kuhstall,4d8ce4fb3bfef04d63227486,,50.18889871199576,8.637789690789683,DE,Kalbach-Riedberg
+Zur Kastanie XXL Restaurant,4dbd560dcda109aa6cb06629,Ginsterweg,50.16122299442948,8.677744255156073,DE,Eckenheim
+Zum Einhorn,4bdb200d3904a59324e1489e,Alt Bonames 2,50.180738543892154,8.664056919368564,DE,Bonames
+Homburger Hof,4d51997e71548cfa7c2c1d9a,Engelthalerstr. 13,50.149629,8.681726,DE,Eckenheim
+"Apfelwein Scheid ""Zur Post""",50b7b1e6e4b03bcbc9c8e5e2,Eckenheimer Landstr. 302,50.146353839838,8.682868480682373,DE,Eckenheim
+Red Kitchen,4d83c2b640a7a35d970afdbd,,50.14286145,8.680144575,DE,Eckenheim
+Zum Goldenen Löwen,4f6b5e1ae4b026c4accf913b,,50.141807847000784,8.682859030747398,DE,Dornbusch
+Piazetta,504eef0de4b0c42ad1c66cb4,Adickesallee 1,50.131538663573814,8.683216972014243,DE,Nordend-West
+Gaststätte Weida - Im blauen Bock,4ba521b8f964a5208ee138e3,Saalburgstrasse 36,50.12726159392903,8.70667826315121,DE,Bornheim
+Gasthaus Zum Lemp,4da04c12784f37042f1a96af,,50.171880493709374,8.697081398669566,DE,Berkersheim
+Labouche,4ff19a70e4b0d04a3c5158d2,,50.131761,8.692655,DE,Nordend-West
+Wielandstubb,4b804654f964a5202c6330e3,,50.12490523070073,8.69180734440998,DE,Nordend-Ost
+wirtshaus gickelschlag,51896402498efd58f1bb549b,Berger Strasse 257,50.12873458862305,8.711443901062012,DE,Bornheim
+Zum Dicken Fritz,4e32e5b0d22d630c23d7516b,Mainkurstr. 6,50.125327,8.70726,DE,Bornheim
+Bergstation,4ff03404e4b000351aa63b4d,Probst-Goebels-Weg 17,50.14279144967565,8.716268858038527,DE,Seckbach
+Restaurant Hirschhaus,5846ab0e3cccc65e8712787e,Eckenheimer Landstrasse 71,50.12501109742459,8.685923516750334,DE,Nordend-West
+Zur Sonne,530a2393498e95adeeae3a16,Bergerstraße 312,50.120481,8.690176,DE,Nordend-Ost
+Schoeneberger,4ff0a36ce4b0ef320d899764,,50.1188590838697,8.69246353228581,DE,Nordend-Ost
+Bornheimer Eck,575c4fd0498e89530b186b7e,Burgstraße,50.127374,8.702997,DE,Nordend-Ost
+Schöneberger Biergarten,51e2c7af498e2f9baaabc542,,50.12782400336608,8.70991170354977,DE,Bornheim
+Café Läuft,4b5c1375f964a520582329e3,Rohrbachstr. 54,50.127825489776704,8.693739473819733,DE,Nordend-Ost
+Harheimer Hof,4bf0f3be6f8aa5932867c23c,Alt-Harheim 11,50.182296820797156,8.692647180082485,DE,Harheim
+Restaurant und Gartenlokal Friedberger Warte,4b058851f964a5204cbe22e3,Friedberger Landstr. 414,50.14069431425632,8.699293166765393,DE,Bornheim
+Speisen und Getranke,5273e29111d2c62721f0134a,Baseler Platz 7,50.184561490464034,8.682331967052537,DE,Harheim
+Lennox,4c0015eeca1920a1b3d0ed81,Jahnstrasse,50.120297,8.680106,DE,Nordend-West
+Zum Neuen Schwanen,563b484acd10bcba8016df1e,Wilhelmshöher Str. 152,50.14462,8.72709,DE,Seckbach
+Zum Rad,4b058850f964a52033be22e3,Leonhardsgasse 2,50.14535284333455,8.728228714306658,DE,Seckbach
+Ebbelwei Solzer,5c9f6ba5fd16bb002ce0b7c3,Bergerstr.,50.130522,8.714393,DE,Bornheim
+Goldener Adler,4be82316c5220f477f55a9ca,Berger Str. 249,50.12835079489786,8.710978031158447,DE,Bornheim
+Bornheimer Dorfstadl,55bcd7cd498e9f5df1349196,Berger Straße 249,50.12839328633897,8.71080612263454,DE,Bornheim
+Der Buchwald (Schoppenoase),4ba4f5f7f964a52000c938e3,Buchwaldstr. 22,50.12960944033819,8.715505599975586,DE,Bornheim
+Gaststätte Rüth,536295e6498e5188a81f10c6,,50.12482452392578,8.713629722595215,DE,Bornheim
+Besenwirtschaft,4db1889b4b22ba776d845f09,,50.134192,8.715947,DE,Bornheim
+Bauernschänke Erlenhof,516981cae4b0f5d3ab69bf4a,,50.19570132669535,8.703695371218815,DE,Nieder-Erlenbach
+Restaurant Darmstädter Hof,4dbd8f03a86e0e98a1fd7db9,An der Walkmühle 1,50.199373697932586,8.672203627295408,DE,Nieder-Eschbach
+SCHNEIDER Obsthof,4c6fec0cfa49a1cd5b4aa4e3,An Steinberg 24,50.20306476643342,8.719775012181511,DE,Nieder-Erlenbach
+Äppelwoi-Stübche Grillmayer,4c433bd7d691c9b6c9738f0a,,50.20401488473329,8.710403103481868,DE,Nieder-Erlenbach
+Vereinslokal,54c0dfff498eb34a1c75df20,Schwedlerstr. 1,50.11327643773467,8.720029660421945,DE,Ostend
+Oma Rink's Sterntaler,4b8d6134f964a5203df832e3,Musikantenweg 68,50.12121870533171,8.69842529296875,DE,Nordend-Ost
+Peter's,4daae1b84b22f071eac153d9,,50.11589317502076,8.698556921644721,DE,Ostend
+Bier-Hannes,4bad06f4f964a520fa253be3,Hanauer Landstr.,50.13330426717107,8.768069904711455,DE,Fechenheim
+Best Worscht in Town,5813730338fab453be6f858b,Hessencenter,50.140852,8.752512,DE,Bergen-Enkheim
+Zum Hirsch,4bdda46ee75c0f474405c503,,50.10016733703079,8.720237528206482,DE,Oberrad
+Papageno,55f85c8d498eae76ab5e2528,,50.141874,8.747694,DE,Bergen-Enkheim
+Haralds Schnitzelwelt,4e9d6023f5b95ad93f8340ff,,50.12099,8.749373,DE,Fechenheim
+Hirsch,4bdda4890ee3a5937b0e2eb0,,50.100119,8.720235,DE,Oberrad
+Restaurant Pulvermühle,509a494ae4b0742486d3463e,Vor der Pulvermühle 11,50.11357337150257,8.734247425887757,DE,Ostend
+Zur Traube,50f3fb36f2e70f314efec89c,Riedstr. 10,50.14935139708364,8.755052089691162,DE,Bergen-Enkheim
+Achter,5ac8bac06bdee60dc8024f8b,,50.105152,8.716229,DE,Sachsenhausen-Nord
+Die Werkskantine,4cebed38f69f6a3175bc2c3f,Orber Str. 4a,50.13220649038015,8.755471317667366,DE,Fechenheim
+Schöne Aussicht,4b058851f964a52051be22e3,Im Sperber 24,50.1542766961685,8.755704276568876,DE,Bergen-Enkheim
+zur insel,4ff6c5e9e4b01d082020b786,,50.12398526445816,8.744542990480655,DE,Fechenheim
+Restaurant SB,5200d9b1498ec644ee611c60,,50.115943,8.700394,DE,Ostend
+Stadtschänke,4bc5fa4cf360ef3b23e9da2d,,50.15537286825845,8.753657286564948,DE,Bergen-Enkheim
+Zur Alten Post,56b5d2aa498e7c19990eedfa,Marktstr. 50,50.15535454051673,8.75447005033493,DE,Bergen-Enkheim
+Restaurant Pfifferling & Bar Lauschig,4d8ce377fa9437044a42dbc5,Vilbeler Landstr. 55,50.14365881067244,8.75341917910453,DE,Bergen-Enkheim
+Kastanie,4e457892ae60fa7232e64aa4,Leinwebergasse,50.12325881183049,8.770483585120337,DE,Fechenheim
+Grüne Sosse am Main,4f941374e4b0cd2d540fba59,"Gerbermühlstraße 107, 60594 Frankfurt am Main",50.10596912873981,8.722670188760338,DE,Oberrad
+Tennisclub Sommergarten,4db1a37093a0615768596e07,,50.105175895617585,8.722140415500283,DE,Oberrad
+Casino,511cd603e4b080885dfe850f,,50.094637589753056,8.538747541027922,DE,Höchst
+Zum Schnäppsche,4ea06014b80362c662b7d40a,Windthorststr. 21,50.109139738978755,8.542076336418933,DE,Unterliederbach
+Restauran Post,50c6175ce4b0e7fe4f431756,,50.080756,8.517476,DE,Sindlingen
+Sindlingen Zur Mainlust,5b1d809775dcb7002c589772,Farbenstr.,50.081842,8.519124,DE,Sindlingen
+Der Löwe - Das Lokal,4c3897871e06d13ad6f4773e,Alt Zeilsheim  10,50.09455,8.494302,DE,Zeilsheim
+Äppelwoi-Stübche Grillmayer,4ccf14c6ba0a548155834c59,Zur Obermühle 15,50.20578022719215,8.70252590162149,DE,Nieder-Erlenbach
+Istanbul Kebaphouse,58d55d048ee560562cdb60e6,,50.113905,8.684107,TR,Altstadt
+Ton Bul Grill und Kebab Haus,5163f4e6e4b06639d642a143,Töngesgasse 4,50.11350821240026,8.68533158210899,TR,Altstadt
 Emir‘Et,5aabd9cafd9d7365f06b30a2,Allerheiligenstr.21,50.113518,8.689303,TR,Innenstadt
-Central Grill,4d5c5ced590b224b0c2da06d,Münchener Str. 17,50.107888922453796,8.670462161419284,TR,Bahnhofsviertel
-Minka  Café & Restaurant,58c555de5804ea5c14011c63,,50.114448588998755,8.690499235400225,TR,Innenstadt
-Istanbul Kebaphouse,58d55d048ee560562cdb60e6,,50.113904999999995,8.684107000000001,TR,Altstadt
-Ton Bul Grill und Kebab Haus,5163f4e6e4b06639d642a143,Töngesgasse 4,50.113508212400255,8.68533158210899,TR,Altstadt
-Simit Café,50c36942e4b013fc6a1f0d8f,Kaiserstr. 44,50.108877956596935,8.669748424341634,TR,Bahnhofsviertel
+DOY DOY Kebab Restaurant,4ce934ebf3bda143fb86bee4,Zeil 25,50.115047562619004,8.690255962289536,TR,Innenstadt
+Nazar Döner,56f2d0ed498ed53b213a5459,Schillerstr. 9,50.11461654106994,8.678518427626482,TR,Innenstadt
 Palu Grill Haus,57fb8662498ef00e74c3d310,Leipziger Straße 32,50.12165439752821,8.64780415012145,TR,Bockenheim
-Sindam Bistro & Cafe,4db947ae8154ce84dc23c355,Bergerstr. 170 60385,50.12487198528815,8.705395323846446,TR,Bornheim
-DOY DOY Kebab Restaurant,4ce934ebf3bda143fb86bee4,Zeil 25,50.11504756261901,8.690255962289536,TR,Innenstadt
-roseli,4cd57dce76ab721eba5c6d6a,Weißadlergasse 9,50.11141359138581,8.678372269383546,TR,Altstadt
-Central Grill,5721e5db498e99608c73fdf7,Mainzer Landstraße 240,50.10322863663214,8.643937622190998,TR,Gallus
-Hamsilos & Schenck's,4dd235961f6ef5f6cccf0f06,Münchner Str. 28,50.10769863606138,8.66916755563318,TR,Bahnhofsviertel
-Anatolia 23,4c0a2d59bbc676b0776349d5,Zeil 23,50.114993733104235,8.690349672938956,TR,Innenstadt
-Urfa Lezzet Sarayı,562253e3498eec470b375c43,,50.108936315987826,8.670217082667742,TR,Bahnhofsviertel
-DoyDoy,51606d24e4b0a489e94f576d,,50.11502631122265,8.690287103915963,TR,Innenstadt
-MokkaTeeria,4cde7139aba88cfae8c841d7,Heidestr. 149,50.127671409445846,8.708793650915316,TR,Bornheim
-Alim's Fisch Imbiss,4b6c676df964a5203b372ce3,Münchner Str. 35-37,50.107571741231396,8.668539808641803,TR,Bahnhofsviertel
-Morgenland,4bddb1be6198c9b6534a11ff,Bergerstr. 215,50.12703351531765,8.708982764855621,TR,Bornheim
-Toprak Kebap Haus,55f4cc03498ec2e37ee81c8b,,50.115450048892434,8.68637627167687,TR,Innenstadt
-Bayram Kebab-Haus,4b2b7a1ef964a520b3b624e3,Münchener Straße 29,50.10755733573348,8.669082442584934,TR,Bahnhofsviertel
-mola,53ef2de8498eeae484634a91,Diesterwegstrasse 39,50.10009373984701,8.685180487072929,TR,Sachsenhausen-Nord
-Dorade am Main,4b1e51c2f964a520b41824e3,Dorade am Main Carl-von-Noorden Platz 5,50.09720882935048,8.66412272241204,TR,Sachsenhausen-Nord
-Merkez Döner-Haus,4b40b6f0f964a52036ba25e3,Münchener Str. 33,50.10762375878136,8.66900581379649,TR,Bahnhofsviertel
-Sultan Saray,4c4582628c1f20a146d33d99,Weißfrauen Str. 18,50.10939378095747,8.675408971874884,TR,Innenstadt
-Meral's Imbiss,4daaf1cc43a11281970391ae,Schaumainkai 35,50.10612227025669,8.678225658269687,TR,Sachsenhausen-Nord
-Westend Doener,4b69c4c6f964a52010b32be3,Reuterweg 55,50.12061065296758,8.670612206349679,TR,Westend-Süd
-Köylü Döner,4c953d24f7cfa1cd8cbcbb15,Paradiesgasse 65,50.10507801455586,8.689578932411118,TR,Sachsenhausen-Nord
-Nazar Döner,56f2d0ed498ed53b213a5459,Schillerstr. 9,50.114616541069935,8.678518427626482,TR,Innenstadt
-Döner & Pizza Land,4c6581f7f7a80f47e1689b7a,,50.089932289420325,8.672080082216139,TR,Sachsenhausen-Süd
-Ali Baba,4bd8213a35aad13ad11c90f3,Oppenheimer Landstr. 29,50.101192,8.680361999999999,TR,Sachsenhausen-Nord
-Yam Yam Döner,50f54345e4b05818dade92b0,Holzgraben 11,50.113873405535784,8.682345980554597,TR,Innenstadt
-Urfa Kebap Haus,4d5d11885d15370400c779e7,Hanauer Landstr. 133,50.1120641732549,8.713383773450525,TR,Ostend
-DoyDoy Döner,4da48fc6b521224b3b5035ee,,50.114994500158645,8.690182522903415,TR,Innenstadt
+Alanya Döner,4c1671b15e88c92820242466,,50.109094035946065,8.666632365025611,TR,Bahnhofsviertel
+Aylin Döner- und Kebabhaus,4e4438e862e1b6355aa97ff5,,50.10447489018975,8.691644649164193,TR,Sachsenhausen-Nord
+ÇiğköfteM,4f857100e4b01c6ea32d5b63,Münchenerstr. 20,50.10793822063173,8.669825849838702,TR,Bahnhofsviertel
+Adana Kebap & Grill,5808aaf138fa0c43f6db24f2,Hufnagelstr. 22,50.10446,8.642623,TR,Gallus
 Alica Premium Doner,5253f1e5498e6b4a6ca787d8,Europa-Allee 6,50.10977667809919,8.65254591325415,TR,Gallus
-Köylüm Grill-Haus,4dee64b5d22deb0316f5df2d,Berger Straße,50.12213014992011,8.69978294277372,TR,Nordend-Ost
-Taksim Döner & Burger House,514f39f0e4b069b911f5ff8b,,50.105247999999996,8.689496,TR,Sachsenhausen-Nord
-Caspian Döner,4c14b289a5eb76b05d23c2b7,Paradiesgasse 36,50.105224106379396,8.689667563074273,TR,Sachsenhausen-Nord
+Taksim Döner & Burger House,514f39f0e4b069b911f5ff8b,,50.105248,8.689496,TR,Sachsenhausen-Nord
+Sultan Saray,4c4582628c1f20a146d33d99,Weißfrauen Str. 18,50.10939378095747,8.675408971874882,TR,Innenstadt
 Ege Döner & Lachmacun,51c4b008498e932cb2e24448,,50.11486053466797,8.691794395446777,TR,Innenstadt
-Topkapi Döner & Pizzeria,4bc8b206af07a5933671812d,Eschersheimer Landstraße 5-7,50.118341201822226,8.678732843501146,TR,Nordend-West
-Alanya Döner,4c1671b15e88c92820242466,,50.10909403594607,8.666632365025611,TR,Bahnhofsviertel
-Döner König,4e4f0a25483bb770490ac378,,50.1058165139306,8.6649313751886,TR,Gutleutviertel
-Pasam Döner,4ca0d7c319e4236a211b6589,Alfred -Brehm Platz 12,50.1153951355662,8.698184258120586,TR,Ostend
-Deniz Döner Kebap,4b48ca92f964a5201f5726e3,Eckenheimer Landstrasse 43,50.12328310522121,8.686253043374071,TR,Nordend-West
+DoyDoy Döner,4da48fc6b521224b3b5035ee,,50.11499450015866,8.690182522903415,TR,Innenstadt
+Mistik Kebap Haus,4b7ee17af964a520730630e3,,50.12380224306634,8.703078518823808,TR,Bornheim
+Döner & Pizza Land,4c6581f7f7a80f47e1689b7a,,50.08993228942033,8.672080082216139,TR,Sachsenhausen-Süd
+Yufi Pizza & Döner,4c2780a33703d13ae80ea736,,50.111189218947125,8.699291562583152,TR,Ostend
 Döner fresh,57069fbbcd103c1b961045c0,,50.112879,8.704018,TR,Ostend
-Dönermanufaktur,4b9f70a0f964a520bd2237e3,Fürstenbergerstr. 168,50.12479774879196,8.67031897836471,TR,Westend-Nord
+Grüneburg Döner,5c26177cf2554e002cc00543,Grüneburgweg 21,50.120994,8.672928,TR,Westend-Süd
 Adana Kebap Haus,577cec35498ecd2e23d6eda6,Mainzer Landstraße 135,50.107553,8.656171,TR,Gallus
-Edessa Döner & Pizza,50e6f6c1e4b09f38d9476ef7,Gutleutstr. 148,50.101236,8.658408999999999,TR,Gutleutviertel
-Mistik Kebap Haus,4b7ee17af964a520730630e3,,50.123802243066336,8.703078518823807,TR,Bornheim
-Arkadas Dönerkebap,4c2c7bd177cfe21ea009b6f1,Leipziger Str. 16,50.121025,8.649035000000001,TR,Bockenheim
-XXL Dönerhaus,517d0f35e4b01b1217f1f92a,Leipziger Straße 16,50.12102296322158,8.648871183276903,TR,Bockenheim
-Gallus Kebab Haus,4bb1d3e1f964a52012a53ce3,Hufnagelstr. 22,50.104562,8.642673,TR,Gallus
-ÇiğköfteM,4f857100e4b01c6ea32d5b63,Münchenerstr. 20,50.10793822063172,8.669825849838702,TR,Bahnhofsviertel
-Dornbusch Kebap Haus,4e383d53ae6076788f1c0e52,Eschersheimer Landstr. 226,50.13695681915715,8.671282490424893,TR,Dornbusch
-Döneria,4c7a955fbd346dcbcddef8ef,,50.130992345373,8.709241460327481,TR,Bornheim
-Gundi Café Restaurant,4bae58c7f964a520d9a53be3,Leipziger Str. 85,50.12367003158436,8.642071079652924,TR,Bockenheim
+Nefis Döner,4cdf3d24f8a4a143fa21ddbc,,50.10715269265169,8.666250039108895,TR,Bahnhofsviertel
+GRÜNHOF  KEBAP HAUS,54b2ccf4498ea91cea87ddec,Eschersheimer Landstrasse 223,50.133639634172475,8.67146909236908,TR,Westend-Nord
+DoyDoy,51606d24e4b0a489e94f576d,,50.11502631122265,8.690287103915963,TR,Innenstadt
+Grey,5b2be17a25fb7b002ca6879b,Berger str.,50.121443,8.698161,TR,Nordend-Ost
+Sümela,5d678c146637d100076fb13f,Bornheimer Landstraße 77,50.122872,8.692178,TR,Nordend-Ost
+Restaurant Alicati,504264c3e4b02607d0d2b9ab,Hedderichstraße 69,50.09839489880152,8.682289123535156,TR,Sachsenhausen-Nord
+West Imbiss,4fb2456ce4b0b9253b50b063,Kasseler Str. 5,50.11937928847332,8.640036183923907,TR,Bockenheim
+Saki Mezze Grill Bar,5c5e2b06898bdc002c656d25,Paradiesgasse 21,50.106164,8.68977,TR,Sachsenhausen-Nord
+Cigkörftem,55f8545e498e87e7ebce79e0,,50.110557,8.67336,TR,Innenstadt
+Pasam Döner,4ca0d7c319e4236a211b6589,Alfred -Brehm Platz 12,50.1153951355662,8.698184258120586,TR,Ostend
+Marmaris Kebaphaus,5543b3c9498e74843b789124,Taunusstrasse,50.108972,8.665816,TR,Bahnhofsviertel
+Dımli Döner,528d0e1911d2b6cab99b3f46,,50.1058464050293,8.691201210021973,TR,Sachsenhausen-Nord
+Central Grill,4d5c5ced590b224b0c2da06d,Münchener Str. 17,50.107888922453796,8.670462161419284,TR,Bahnhofsviertel
+Westend Doener,4b69c4c6f964a52010b32be3,Reuterweg 55,50.12061065296758,8.67061220634968,TR,Westend-Süd
+Central Grill,5721e5db498e99608c73fdf7,Mainzer Landstraße 240,50.10322863663214,8.643937622190997,TR,Gallus
+Urfa Kebap Haus,4d5d11885d15370400c779e7,Hanauer Landstr. 133,50.1120641732549,8.713383773450525,TR,Ostend
+Meral's Imbiss,4daaf1cc43a11281970391ae,Schaumainkai 35,50.10612227025668,8.678225658269689,TR,Sachsenhausen-Nord
+Köylü Döner,4c953d24f7cfa1cd8cbcbb15,Paradiesgasse 65,50.10507801455585,8.689578932411118,TR,Sachsenhausen-Nord
+Merkez Döner-Haus,4b40b6f0f964a52036ba25e3,Münchener Str. 33,50.10762375878136,8.66900581379649,TR,Bahnhofsviertel
+Minka  Café & Restaurant,58c555de5804ea5c14011c63,,50.114448588998755,8.690499235400225,TR,Innenstadt
+Pinartas Döner,4e66664b7d8b7bfbc41790f0,Kriegkstrasse,50.102813,8.639223,TR,Gallus
+Hessen Döner,5603d263498e647352e761e9,,50.103696,8.648715,TR,Gallus
+Manti,56227b23498e626304b13738,Grüneburgweg 81,50.12246,8.667639,TR,Westend-Nord
+Velvet Döner,4f73a642e4b0250b70a07c15,,50.10715119300557,8.677704635826345,TR,Altstadt
+Taxim,55a4e583498e37bc40ef49c8,Leipziger Str. 32,50.121675,8.647693,TR,Bockenheim
+Kaiser Grill,50dc258de4b04248f5080b1b,,50.108446774849,8.669069154643182,TR,Bahnhofsviertel
+Schelale,504cd68fe4b05763ea511792,Zeil 26,50.11495043983039,8.691164994063163,TR,Innenstadt
+Almas,50c3b725e4b09f0681c3aaa3,,50.105263736120584,8.687886347396645,TR,Sachsenhausen-Nord
 Aspera Grill,521b68e011d24659384936aa,Mainzer Landstraße 337,50.10226568843604,8.63651156931706,TR,Gallus
-Cetin Grill,4ca64e5e8882199c381b43d4,Frankenallee 153,50.1038965195279,8.637074813128562,TR,Gallus
-Niederräder Kebap-Haus,4ca9be2344a8224b7dff2340,Schwarzwaldstrasse 61,50.08448595,8.648552298545837,TR,Niederrad
-Sindibad Döner Kebap,4c03a09a187ec92865dfb57b,Kriegkstr.,50.10128124800131,8.639628380249318,TR,Gallus
+Manti Cafe Haus,59c3a605916bc16009ae5d8d,Mainzer Landstr.,50.102219,8.637463,TR,Gallus
+Oga’s Döner,5cd313659ba3e5002c239715,,50.107502,8.625288,TR,Gallus
+GartenTürke,4f704d2ae4b0463c963ceaa2,,50.10387,8.637233,TR,Gallus
+Simit Sarayı Frankfurt,551ff7fa498e84e70729fddf,,50.10727919236563,8.617860098045782,TR,Gallus
 Ginnheimer Kebap Haus,530cd1df498e14e496d83042,,50.14038459351775,8.647578461146079,TR,Ginnheim
-Doyum Döner,511653a0e4b034e6d38a687a,,50.092366999999996,8.607104,TR,Griesheim
-Can Kebaphaus,4c0cd28c2466a593848d7621,Radilostr. 7,50.12516068182067,8.611051690489987,TR,Rödelheim
-Lavin Restaurant,5436e8c5498efceef8bd5608,,50.12525399178618,8.605668063693397,TR,Rödelheim
-Sanli Döner,4ec931626c251306cd758fbb,Alt-Schwanheim 56,50.082755128031906,8.581236475249161,TR,Schwanheim
-Orient Grill,56ebf295cd10d9e24e043449,,50.15796489080965,8.633548021316527,TR,Heddernheim
-Murat Kebap Haus,4f4ff7f3e4b0c5fb013d5324,,50.161276,8.648539999999999,TR,Heddernheim
 İbonun Yeri,505cb063e4b0475262896351,Ginnheimer Waldgasse 162,50.14167518416253,8.643851890369215,TR,Ginnheim
-Kebabiss,587a3152d8b0ed220f2acc75,Altenhöferallee 29,50.178737,8.62808,TR,Kalbach-Riedberg
-Karatas Döner Kebap,4f2436b7e4b0e12081657e5c,,50.183414,8.666715,TR,Bonames
-Pizza Hütte,51e586b1498e02cab1f0d79a,Bonameser Straße 50,50.18917860464568,8.6569719883409,TR,Kalbach-Riedberg
-Miro Pizza & Döner,4f4fa1cfe4b066791b1765f4,,50.167817849586534,8.680721321850658,TR,Frankfurter Berg
-Riedberger Side Kebab Haus,5811da2d38fabe486ce5e18c,,50.176288,8.641051,TR,Kalbach-Riedberg
-City Döner,5079a613e4b03bba606c7884,Nassauer Straße 7,50.16039662043499,8.647508281142867,TR,Heddernheim
-Melis Kebabhaus,4d9e0a59c593a1cd04986e19,,50.154789711376544,8.692353646550142,TR,Preungesheim
+Sindam Bistro & Cafe,4db947ae8154ce84dc23c355,Bergerstr. 170 60385,50.12487198528814,8.705395323846446,TR,Bornheim
+Köfteci Oğuz,53c574b5498e5fce9b748b68,Münchnerstr.,50.10821301151841,8.670769123303687,TR,Bahnhofsviertel
+Eckenheimer Pizza und Kebaphaus,586e620e409f5646d4b5686c,Ronneburg Str 26,50.15056,8.687199,TR,Eckenheim
+Yam Yam Döner,50f54345e4b05818dade92b0,Holzgraben 11,50.11387340553577,8.682345980554597,TR,Innenstadt
+consti Döner,54200482498edc8f8c167b51,Konstabler Wache,50.114506,8.687534,TR,Altstadt
+Sindham,55e578c1498e5e942ede17ee,Berger Strasse 170,50.124869425800036,8.705093517489756,TR,Bornheim
 SUR Kebap Haus,504f4e42e4b022569429cc73,Ronneburgstr.,50.151168621125095,8.690509393548417,TR,Eckenheim
-Best Döneria,4e82f081e5fa001241e23c5f,,50.142945248982045,8.755719364079898,TR,Bergen-Enkheim
-Antep Sofrası,51cc524a498ea2118d13a174,Albanuss Str. 37,50.10216274153304,8.545390078982615,TR,Höchst
-Höchster Kebabhaus,4c0bbce26071a59393a1e132,Bolongarostr. 142,50.099843,8.549296,TR,Höchst
-Urfa Döner & Pizza,4ce01ac8825e721efe787445,Dalbergstraße 1,50.10224137860153,8.545580042218308,TR,Höchst
-Kilim,4f3e892ee4b0d0c631b3eb35,69 Keupstrasse,50.18548,8.666210000000001,TR,Bonames
+Best Chicken,5151e5dde4b0bc4fb7c43ea0,,50.10810874195262,8.670743277621147,TR,Bahnhofsviertel
+Bizim Pizzeria & Döneria,50c0d86ae4b007d158a7b2e6,Marbachweg 268a,50.14135317554099,8.680671804523083,TR,Eckenheim
+sefas Garden,536d13ce498e19c083564036,,50.134484,8.718692,TR,Bornheim
+Karmez,4f3a45aee4b0b6d3bb932084,,50.13440132889356,8.742769379303663,TR,Seckbach
+Gartenrestaurant KGV Cronberger,5d3202910be70b000886d81a,Dortelweiler Str. 120,50.138349,8.701212,TR,Bornheim
+Best Döneria,4e82f081e5fa001241e23c5f,,50.14294524898205,8.755719364079898,TR,Bergen-Enkheim
+The Istanbul,5dad8f8298f83d00085f796f,,50.113987,8.684017,TR,Altstadt
+Deniz Döner Kebap,4b48ca92f964a5201f5726e3,Eckenheimer Landstrasse 43,50.1232831052212,8.686253043374071,TR,Nordend-West
+Dornbusch Kebap Haus,4e383d53ae6076788f1c0e52,Eschersheimer Landstr. 226,50.136956819157156,8.671282490424893,TR,Dornbusch
+Diyars Döner und Pizza Haus,57459795498e8e962ec2ca16,Eckenheimer Landstraße 341,50.14174,8.683387,TR,Dornbusch
+Berger Essen und Trinken,4f9aef64e4b08ea038599211,"Berger Straße 156, 60385 Francoforte sul Meno",50.1244334191756,8.704232531007841,TR,Bornheim
+Mersin Kebabhaus,51518e92e4b03359b7706fed,,50.14187259928207,8.66897793576986,TR,Dornbusch
+Yuffi Döner,4f9ad232e4b0b04583b25cbd,,50.126398268372945,8.707700090437756,TR,Bornheim
 Karatas Döner Kebap,4c7a9cc6566db60c5a7f480e,,50.14793943228958,8.753833481736079,TR,Bergen-Enkheim
-Efendi,53020ff411d2af3dd6daa87b,,50.140484669472464,8.7512514853024,TR,Bergen-Enkheim
+Taksim Kebap,5346d064498ee8313e83c5c1,,50.0937461844659,8.60718729716304,TR,Griesheim
+Nefils Kebap,4d91bcbf3dd4a093f5ed7f18,,50.104997,8.663582,TR,Gutleutviertel
+Döner Historie,4f579d4de4b00dc27ebe37a1,,50.08627162826502,8.636980302224345,TR,Niederrad
+Doyum Döner,511653a0e4b034e6d38a687a,,50.092367,8.607104,TR,Griesheim
+Griesheimer Kebab,517f9894e4b0f9ab223bff5e,,50.098149356144226,8.613031165641978,TR,Griesheim
+Can Kebaphaus,4c0cd28c2466a593848d7621,Radilostr. 7,50.125160681820674,8.611051690489987,TR,Rödelheim
+Antalya Ikram Döner,4c7b9be1a86837040ebf164d,Kleyerstr. 32,50.101484,8.640823,TR,Gallus
+Urfa Grill Döner & Grill,52585a9311d268080ec9266c,Homburgerstr 2,50.06770963476706,8.645355732123056,TR,Sachsenhausen-Süd
+Köyül Döner der wallenden Begierde,515ef7dbe4b044425a73c8f2,,50.09860030697434,8.689723224288004,TR,Sachsenhausen-Süd
+Mr. Köfte,51293db9e4b0c51f96fa6ba1,Altrittergasse,50.104732425771836,8.689118900610593,TR,Sachsenhausen-Nord
+Zagros Restaurant,4fca0202e4b074f1b0211e61,,50.12106644739048,8.648685262615961,TR,Bockenheim
+Bijan Delikatessenhaus,54c8d593498ef00bd3a39713,Leipziger Straße 41-43,50.121771520064904,8.647712981876747,TR,Bockenheim
+Helal Kebap Haus,5157418ae4b0008688e44971,,50.107007590587074,8.649893711145683,TR,Gallus
+Lavin Restaurant,5436e8c5498efceef8bd5608,,50.12525399178617,8.605668063693397,TR,Rödelheim
+Babiros Orient Grill,59708a55029a55583aac0dd3,,50.12192,8.64714,TR,Bockenheim
+Gallus Kebab Haus,4bb1d3e1f964a52012a53ce3,Hufnagelstr. 22,50.104562,8.642673,TR,Gallus
+Eylen Supermarkt,5bbc62a81c675b0039c94a3f,,50.097573,8.627298,TR,Gallus
+mersin tantuni,50ad1acde4b0fcc4d77e8ad0,,50.123905181884766,8.604144096374512,TR,Rödelheim
+Caspian Döner,4c14b289a5eb76b05d23c2b7,Paradiesgasse 36,50.105224106379396,8.689667563074273,TR,Sachsenhausen-Nord
+Niederräder Kebap-Haus,4ca9be2344a8224b7dff2340,Schwarzwaldstrasse 61,50.08448595,8.648552298545837,TR,Niederrad
+Dönerboot Frankfurt,578b98ff498ee50b09b18e03,,50.106003,8.678323,TR,Sachsenhausen-Nord
+Sümela III,501d79ffe4b035a2204633cf,Wallstrasse 22,50.105219,8.687862,TR,Sachsenhausen-Nord
+Anatolia Kebap Haus,4fc8fb48e4b08079217c5733,Frankfurter Straße 18,50.061067905230786,8.698215615238931,TR,Sachsenhausen-Süd
+Hot Spot Kebap,4fabf6d7e4b05cb200bed3f3,Lauteschlägerstraße 3,50.0898,8.7178,TR,Oberrad
+Lokanta,533f0922498e9a7be7368807,Stiftstr.22,50.116180419921875,8.682755470275879,TR,Innenstadt
+Tantuni & Kebap Haus Özcan,5328b761498ede920d8b4dd4,Mainzer Landstraße. 290,50.10250473022461,8.63798713684082,TR,Gallus
+Mevlana Restaurant,5df4dfe7c02d8800071fd302,Mainzer Landstraße 290,50.10265,8.638073,TR,Gallus
+GEZI Döner & Pizza,530c780a498e5c6775d9c18d,,50.084511306608874,8.63245944310478,TR,Niederrad
+Bizim Gözleme,555b1614498eec1621e6c7b5,,50.10306,8.638699,TR,Gallus
+Sanli Döner,4ec931626c251306cd758fbb,Alt-Schwanheim 56,50.08275512803191,8.581236475249161,TR,Schwanheim
+Kardelen Kebaphaus,5dfbafa0d200ab0008da92b1,Alt Nied 9,50.09954,8.564932,TR,Nied
+Höchster Kebabhaus,4c0bbce26071a59393a1e132,Bolongarostr. 142,50.099843,8.549296,TR,Höchst
+Tural's Kebap & Pizza Haus,5085630be4b08785ea9430b1,Rheinlandstraße,50.08580210644605,8.589618941618262,TR,Schwanheim
+Kekik Restaurant,509e9d76e4b01b9e49b8c589,Zuckschwerdtstr. 16,50.102923755678,8.552013754529455,TR,Höchst
+Nied Kebap Haus,522b77af498e3142878997a1,,50.098714724888744,8.567837610899504,TR,Nied
+Best Döner,4e52943814955fcafdc9ea61,,50.103772779632976,8.636870470299646,TR,Gallus
+Döner Am Fischstein,59b801074ce06668d04c0777,,50.129074,8.6237,TR,Bockenheim
+Sossenheimer Döner & Pizza,59c024b16bdee626d83b329e,"Alt-Sossenheim 65,",50.118275,8.56505,TR,Sossenheim
+Sindibad Döner Kebap,4c03a09a187ec92865dfb57b,Kriegkstr.,50.101281248001314,8.639628380249318,TR,Gallus
+Hasans Baba Döner,5b8ebf38a0215b002c4a8fa7,Heerstraße 159,50.1462,8.611244,TR,Praunheim
+Gundi Café Restaurant,4bae58c7f964a520d9a53be3,Leipziger Str. 85,50.12367003158436,8.642071079652922,TR,Bockenheim
+XXL Dönerhaus,517d0f35e4b01b1217f1f92a,Leipziger Straße 16,50.121022963221584,8.648871183276903,TR,Bockenheim
+Yasemin's Cháteau,5815998c38fad79ec2c721ea,,50.142124,8.6633625,TR,Dornbusch
+Fari Baba Döner,4e6897a8a8095c020028e5ee,,50.120247724516894,8.650276198191568,TR,Bockenheim
+Kleines Paradies,522094ba11d2faed49206d6e,Adalbertstraße 7a,50.1200092739211,8.648778306596409,TR,Bockenheim
+Dönermanufaktur,4b9f70a0f964a520bd2237e3,Fürstenbergerstr. 168,50.124797748791956,8.67031897836471,TR,Westend-Nord
+Aladin Döner Kebab,4e285b75d22d848a1462420d,,50.15727907734103,8.656617675735585,TR,Eschersheim
+City Döner,5079a613e4b03bba606c7884,Nassauer Straße 7,50.16039662043499,8.647508281142867,TR,Heddernheim
+Orient Grill,56ebf295cd10d9e24e043449,,50.15796489080965,8.633548021316528,TR,Heddernheim
+Quick Pick,502e92b4e4b089f5e630a563,,50.140214,8.647052,TR,Ginnheim
+Kebab Haus,4ea44ca7490102dac362e4d9,,50.11957820027917,8.646893721760929,TR,Bockenheim
+Arkadas Dönerkebap,4c2c7bd177cfe21ea009b6f1,Leipziger Str. 16,50.121025,8.649035,TR,Bockenheim
+Aubergine Döner,50dca3c8e4b0658279f75021,,50.157793257482425,8.63338706151109,TR,Heddernheim
+Restaurant Cherry,51197088e4b0f8a4d914d24c,Leipziger Straße,50.121682,8.647712,TR,Bockenheim
+Tekbir Döner,4c5b9deb2815c9285e0bb067,alt niederursel,50.16583,8.621582,TR,Niederursel
+Murat Kebap Haus,4f4ff7f3e4b0c5fb013d5324,,50.161276,8.64854,TR,Heddernheim
+Kebabiss,587a3152d8b0ed220f2acc75,Altenhöferallee 29,50.178737,8.62808,TR,Kalbach-Riedberg
+Riedberger Side Kebab Haus,5811da2d38fabe486ce5e18c,,50.176288,8.641051,TR,Kalbach-Riedberg
+Miro Pizza & Döner,4f4fa1cfe4b066791b1765f4,,50.16781784958654,8.680721321850658,TR,Frankfurter Berg
+Pizza Hütte,51e586b1498e02cab1f0d79a,Bonameser Straße 50,50.18917860464568,8.6569719883409,TR,Kalbach-Riedberg
+Döner & Pizza Haus,517a5d0a498e2f018502f7bf,,50.14219432671971,8.683574879882235,TR,Eckenheim
+Premium,50ab72bde4b0070926d653d6,,50.142256425663554,8.684489912593287,TR,Eckenheim
+Eckenheimer Bistro,4fa02bb1e4b0aa95f9adf4f9,,50.127185,8.685208,TR,Nordend-West
+alte gundtei heidelberg,563155b5498e06a4ad8dd44d,,50.118464,8.686633,TR,Innenstadt
+Gözde Döner Halal Kebab,535e6547498e9a89efa54c77,,50.13054381817196,8.691950547760264,TR,Nordend-West
+YUFI Döner - Bornheim Mitte,4b9006c0f964a520037133e3,Saalburgstr. 22,50.135290121148785,8.71230855869602,TR,Bornheim
+doner hutte,53ea16f9498e7d4c36e68cd2,,50.11697513627572,8.685159654342959,TR,Innenstadt
+Morgenland,4bddb1be6198c9b6534a11ff,Bergerstr. 215,50.12703351531765,8.708982764855623,TR,Bornheim
+Topkapi Döner & Pizzeria,4bc8b206af07a5933671812d,Eschersheimer Landstraße 5-7,50.118341201822226,8.678732843501146,TR,Nordend-West
+Döneria,4c7a955fbd346dcbcddef8ef,,50.130992345373,8.709241460327481,TR,Bornheim
+Melis 2,51e2e7ed498e1f837af61e19,Friedberger Landstraße 107,50.125961,8.691877,TR,Nordend-Ost
+Karatas Döner Kebap,4f2436b7e4b0e12081657e5c,,50.183414,8.666715,TR,Bonames
+Kilim,4f3e892ee4b0d0c631b3eb35,69 Keupstrasse,50.18548,8.66621,TR,Bonames
+ALTIN SOFRA,554c66d0498e1a6ae2ff6c94,,50.198269,8.649455,TR,Nieder-Eschbach
+Main Döner,57250bc9498e5efa0ee29423,,50.131023,8.733162,TR,Riederwald
 Center Imbiss - Döner & Hähnchen,4e9c0c35e5fa3f633dc8c118,Borsigalle 6,50.137887,8.743847,TR,Seckbach
-Questione Di Gusto,55f45874498e0794ff18de52,Liebfrauenberg 37,50.112424113254995,8.682045045863719,IT,Altstadt
-Quattro,4be7080f2468c92855fd0143,Gelbehirschstr. 12,50.11556017102002,8.68689052941906,IT,Innenstadt
-Bistro Da Salvatore,4bd064c1caff95219bafcef0,Schöne Aussicht 16,50.109556180052564,8.687951566317974,IT,Innenstadt
-GIOIA – Freude am Essen,5110309be4b0607cfe152fbe,Paradiesgasse 67,50.104935,8.689958,IT,Sachsenhausen-Nord
-7 Bello,4b431914f964a5202fdc25e3,Niddastr. 82,50.10814043771296,8.660022206711046,IT,Gallus
-Charlot,4c248e02a852c9289c3de36c,Opernplatz 10,50.115405238651114,8.671779202842838,IT,Innenstadt
-Ristorante Isoletta,4b058850f964a5202bbe22e3,Feldbergstraße 31,50.121993630864495,8.662127161073611,IT,Westend-Süd
-Ristorante Rustico,4bae70def964a520c2b23be3,Große Friedberger Str. 16,50.115475278764784,8.686426636378497,IT,Innenstadt
-a tavola!,50dee957e4b0e3d2b90ed8ea,Diesterwegstr. 4,50.10162743329607,8.681500025175785,IT,Sachsenhausen-Nord
-Pasta Davini,4ca8bbcdf47ea143bd137821,Heiligkreuzgasse 9a,50.11534873654754,8.691737382445476,IT,Innenstadt
-Ciro Il Lattaio,59b02e700868a235f62aa8a2,Stephanstr. 13,50.116366024984295,8.683164607910294,IT,Innenstadt
-Super Bros,5894a3b3fc5a5f6cdaa04890,Oeder Weg 55-57,50.1216813188922,8.680445487687171,IT,Nordend-West
-Terranova,4b5365ddf964a520d99a27e3,Eckenheimer Landstr. 67,50.12478617266359,8.686022758483888,IT,Nordend-West
-Vapiano,4b080ac7f964a520d30223e3,Goetheplatz 1-3,50.11281074,8.6758179,IT,Innenstadt
-Gallo Nero,4c6d73d64d24b60c7ae5d5d8,Kaiserhofstr. 7,50.11490492345194,8.674658332052184,IT,Innenstadt
-Pizza Pasta Scialpi,4c321bc466e40f4710f3c58b,Hochstr. 51,50.11526954110129,8.673234298582639,IT,Innenstadt
-pizzeria montana,5550ed13498e0a16ae9cb4f0,Weserstraße 14,50.108290000000004,8.67008,IT,Bahnhofsviertel
-Operncafé,4b0b94aef964a520623223e3,Opernplatz 10,50.115429978809956,8.671891902243786,IT,Innenstadt
-Il Vino,52151ef111d21a16e0084f05,Zimmerweg 5-7,50.11216340380054,8.666176283821413,IT,Westend-Süd
-Fontana di Trevi,4bdd84edd33f2d7f99178b3c,Mittelweg 60,50.12118847849398,8.680824508105879,IT,Nordend-West
-l'unico,4bd0794b462cb7133d64d807,Mendelssohnstr. 81-83,50.118159173447246,8.659280367932714,IT,Westend-Süd
-Daniel's Ristorante Italiano,50619b9ae4b0039ba128e6db,Alte Gasse 14-16,50.11737374334537,8.68594637982055,IT,Innenstadt
-Ristorante Garibaldi,4bc0861074a9a5939d20d0f6,Kleine Hochstraße 4,50.11504640971254,8.674065060757892,IT,Innenstadt
-Ciro il Lattaio,55709438498ef37455b44a69,Berger Str. 89,50.12235448698482,8.699951096733319,IT,Nordend-Ost
-Cucina Mediterraneo,4bf5093b94af2d7f87373b72,Platz der Einheit 1,50.11181911741184,8.654620908366349,IT,Gallus
-VaiVai,4ec11a60e3005ff92a4912fe,Grüneburgweg 16,50.12115499719506,8.67203791028229,IT,Westend-Nord
-La Scuderia,4bad22b0f964a52052313be3,Feuerbachstr. 23,50.11546422548536,8.66288060801947,IT,Westend-Süd
-Ristorante Carmelo Greco,4cab3e5e76d3a093c8632a6b,Ziegelhüttenweg 1-3,50.094599158917646,8.682584104201608,IT,Sachsenhausen-Süd
-A Casa Di Tomilaia,4db6ff3e5da3a76f447202b8,Walther-von-Cronberg-Platz 9,50.10591407469919,8.697012462281283,IT,Sachsenhausen-Nord
-Restaurant Casa Nova,4b780317f964a52004b22ee3,"Stresemannallee, 59",50.094021617077466,8.671644877640944,IT,Sachsenhausen-Nord
-Incantina,4b476689f964a520ee3026e3,Taunusstrasse 6,50.11000753604018,8.668701847632258,IT,Bahnhofsviertel
-Pizzeria Olbia,4be6c1b3cf200f4726d2143c,Glauburgstr. 14,50.12727274180189,8.690693759796357,IT,Nordend-West
-Vini da Sabatini,4b0ae582f964a5209e2923e3,Grüneburgweg 81,50.122441096383454,8.667215401082732,IT,Westend-Süd
-PAPANOVA PIzza & Pasta,4ee3b083e5faffd730ee4773,Eckenheimer Landstraße 130,50.12752665815521,8.68521938450492,IT,Nordend-West
-Ristorante Sardegna,4c7cd60e7a856dcbf22ae3a7,Fahrgasse 84,50.11286718967453,8.686039479273338,IT,Altstadt
-Saverio's Florian,4cdf0df694c3b60c5d6969ea,Kettenhofweg 59,50.11576745976164,8.66407603102161,IT,Westend-Süd
-Ma Pasta,5522844d498ebe23687205ec,Gartenstrasse 31,50.1031917548798,8.67916290307062,IT,Sachsenhausen-Nord
-Embassy,4bb1071ff964a52019743ce3,Zimmerweg 1,50.11193066280792,8.666372211540995,IT,Westend-Süd
-Vapiano,4b7ab60ef964a5208f382fe3,Bockenheimer Landstr. 24,50.11729117,8.66620454,IT,Westend-Süd
-Lella Mozzarella 2,5a347a64340a5844b3023fe9,Mainzer Landstrasse 78,50.109592,8.660325,IT,Gallus
-Settimo Cielo,4b6c5ba9f964a52067332ce3,Eckenheimer Landstraße 86,50.125185077754146,8.686285832789379,IT,Nordend-West
+Döner Ye Doy,4fe5cc3ae4b045277ef60804,,50.123001630597486,8.770461523570301,TR,Fechenheim
+Kilic Döner,4dc280d7b0fb490416afd280,Offenacher Landstrasse,50.100505,8.72658,TR,Oberrad
+Efendi,53020ff411d2af3dd6daa87b,,50.14048466947245,8.7512514853024,TR,Bergen-Enkheim
+Deluxe Döner,57d03962498e89edfb5f023d,Hanauer Landstraße,50.117112,8.727475,TR,Ostend
+Kebaphaus,4ccf1416511b236a317100ca,Alt Fechenheim,50.12443021172578,8.769364356994629,TR,Fechenheim
+börekci,52cee67811d22fb238964a4b,,50.11307672065971,8.699609587606483,TR,Ostend
+Kesselhaus,510519dce4b0ad7f3aa19827,Adolf-Haeuser-Straße 1,50.10149509974851,8.541458667340592,TR,Höchst
+Antep Sofrası,51cc524a498ea2118d13a174,Albanuss Str. 37,50.10216274153304,8.545390078982615,TR,Höchst
+X Large Dönerbistro,4f09deebe4b090ef23650898,,50.10131310388961,8.542481389396324,TR,Höchst
+Babas Kebap haus,5e28292f9309440008389409,Sindlinger Bahnstr. 76,50.084814,8.51508,TR,Sindlingen
+Döner Laden,503f4b47e4b08e50ffbbe925,,50.106547,8.543352,TR,Höchst
+König CAG Kebap,4f94103fe4b04c0c9f85ba9f,,50.106622,8.54342,TR,Höchst
+Öz Antep Kebap Haus,579b67e3498e9bd83599690c,,50.080841,8.516674,TR,Sindlingen
+Dalberger Hof,51409b04e4b004d64f2d29c7,Leverkuserstr. 27,50.1012612,8.542324599999999,TR,Höchst
+Didyma,5a1efd46c0f16325ac267184,,50.110203,8.536326,TR,Unterliederbach
+Urfa Döner & Pizza,4ce01ac8825e721efe787445,Dalbergstraße 1,50.102241378601526,8.545580042218308,TR,Höchst
+Kapadokya Ocakbasi,5245ed0611d2ba65864e2450,,50.1024817194885,8.545402347114841,TR,Höchst
+Zeilsheim Döner&Pizza,4ea55087dab47252711d3b2b,,50.09419269227238,8.490387995302449,TR,Zeilsheim
+Questione Di Gusto,55f45874498e0794ff18de52,Liebfrauenberg 37,50.112424113255,8.682045045863717,IT,Altstadt
 Pizzeria Mille Lire,568ba543498e258b72cbbc89,Sonnemannstraße 71,50.11102563170695,8.703138604406261,IT,Ostend
+Super Bros,5894a3b3fc5a5f6cdaa04890,Oeder Weg 55-57,50.1216813188922,8.68044548768717,IT,Nordend-West
+Daniel's Ristorante Italiano,50619b9ae4b0039ba128e6db,Alte Gasse 14-16,50.11737374334537,8.68594637982055,IT,Innenstadt
+Forno d' Oro II,4b803746f964a520465d30e3,Luisenstr. 23,50.1221344,8.6961649,IT,Nordend-Ost
+Pasta e Panini,4b4dc123f964a520e4d626e3,Adalbertstraße 44-48,50.119524400933095,8.64376939293741,IT,Bockenheim
+Ciro il Lattaio,55709438498ef37455b44a69,Berger Str. 89,50.12235448698481,8.699951096733319,IT,Nordend-Ost
+A Casa Di Tomilaia,4db6ff3e5da3a76f447202b8,Walther-von-Cronberg-Platz 9,50.10591407469918,8.697012462281283,IT,Sachsenhausen-Nord
+Charlot,4c248e02a852c9289c3de36c,Opernplatz 10,50.11540523865112,8.671779202842837,IT,Innenstadt
+Ciro Il Lattaio,59b02e700868a235f62aa8a2,Stephanstr. 13,50.11636602498429,8.683164607910292,IT,Innenstadt
+La Scuderia,4bad22b0f964a52052313be3,Feuerbachstr. 23,50.11546422548534,8.66288060801947,IT,Westend-Süd
 Ristorante Paparazzi 2,544403e7498e68b517225bf4,Mendelssohnstr. 44,50.11467697516178,8.65745806541554,IT,Westend-Süd
-Forno d' Oro II,4b803746f964a520465d30e3,Luisenstr. 23,50.1221344,8.696164900000001,IT,Nordend-Ost
-H'ugo's,57e67585498e947108b54f85,Neue Mainzer Straße 74,50.11359310916264,8.672523579829436,IT,Innenstadt
-No. 16,4bd4a4d77b1876b09b7d8986,Löwengasse 27a,50.1275555774265,8.703413763225003,IT,Nordend-Ost
-Pizzeria Sicilia,4de4d2d4d22d2a4ecdfcfb47,Niedenau 9,50.1117803070329,8.663422873651893,IT,Westend-Süd
-Cron am Hafen,523b299f498e44c8363ced2b,Speicherstr. 39-45,50.09945716080168,8.659221101193522,IT,Gutleutviertel
-da Cimino,4b2a1c27f964a52048a524e3,Adalbertstr. 29,50.119496052268346,8.645681618479713,IT,Bockenheim
-Cucina delle Grazie,4be18db04ed5c9b6e29dccce,Domplatz 3,50.11097608476038,8.684869545611965,IT,Altstadt
-Saravini,4bbb13feb35776b04985cb01,Hanauerlandstr. 119,50.11137528486123,8.710284405226519,IT,Ostend
-Mamma Forno,579f820b498ee60ebcdd1b8a,,50.114875106166046,8.690019710528029,IT,Innenstadt
-Pizzeria Tre Stelle,4ba64c1cf964a520914339e3,Im Trutz Frankfurt 48,50.120815344876654,8.67348930137966,IT,Westend-Süd
-Alte Kanzlei,4f773877e4b05c37fb409ee2,,50.11312686280646,8.665562036892762,IT,Westend-Süd
-Paninoteca,4bcc7466fb84c9b6775c203e,Bleidenstr. 13,50.11242010672326,8.679666147643408,IT,Altstadt
-daVinc CUCINA E VINO,54bff996498e753931508153,Kölner Str. 4,50.10776203754079,8.65160909526651,IT,Gallus
-Paolo,519a4d02498e1f773e3ed67a,Schlossstr.85,50.11808892400767,8.644962344394225,IT,Bockenheim
-Portofino,4beee0e8d355a593267d0b60,Scheffelstrasse 28,50.12181911764026,8.689801494705154,IT,Nordend-West
-Pizzeria Buongiorno,4f6c6abae4b0d6389ffe505d,"Liebigstraße 12, 60323 Frankfurt",50.118908379268035,8.666411170126244,IT,Westend-Süd
-Al Terrazzino,4bab4fc9f964a520af9f3ae3,Rothschildallee 52,50.12929764441615,8.693402105557977,IT,Nordend-West
-Amoroso - An Der Alten Oper,5957bc142e26800edb38a2b6,Opernplatz 8,50.115403,8.671874,IT,Innenstadt
-Armonia,4b058850f964a52035be22e3,Eschersheimer Landstraße 38,50.12033620854521,8.67636026609424,IT,Westend-Süd
-Onkel Emmo,4dde2e92d1641542183c80b6,Altkönigstraße,50.121173,8.666938,IT,Westend-Süd
+Il Vino,52151ef111d21a16e0084f05,Zimmerweg 5-7,50.11216340380053,8.666176283821414,IT,Westend-Süd
+Restaurant Casa Nova,4b780317f964a52004b22ee3,"Stresemannallee, 59",50.09402161707747,8.671644877640944,IT,Sachsenhausen-Nord
+Charly Braun,4cc06d0c021ca1436f67620c,,50.11599455821908,8.710014332828681,IT,Ostend
 Topo Gigio,4ddbff92d164236dd369e0c2,Schloßstraße 117,50.11657432265236,8.64649772644043,IT,Bockenheim
-Mario & Lino (Bistro Pizzeria),4bb736f246d4a593322fc7c0,Adalbertstr. 37-39,50.11931352119786,8.645135244039855,IT,Bockenheim
-Pizzeria Bella Mia,4b9d1812f964a520098f36e3,Bergerstr. 67,50.1212515515333,8.6975648672137,IT,Nordend-Ost
-Pasta e Panini,4b4dc123f964a520e4d626e3,Adalbertstraße 44-48,50.1195244009331,8.64376939293741,IT,Bockenheim
-Ristorante da Luca,50aa6be8e4b0ea2d5b61f0f7,Myliusstr. 49,50.121903631160144,8.660990810508416,IT,Westend-Süd
-Ristaurante La Contessa,4e63c1f67d8b85408a3af592,Schloßstr. 126,50.115979980285466,8.64654896984413,IT,Bockenheim
-Picasso,510cfe3ee4b0873bbf4ebe00,,50.09598807779027,8.663515863371854,IT,Sachsenhausen-Nord
-Casa Isoletta,4d8b381b6ce6a35d5a267042,Babenhäuser Landstr. 1,50.086862997090776,8.691878093415754,IT,Sachsenhausen-Süd
-Ristorante Gregorelli's,4c448d85dd1f2d7f0f0380f9,Meisengasse 12,50.11487072369136,8.675560709395093,IT,Innenstadt
-Ristorante Romanella,4ce91fe9678aa0938e90ecea,Hansaallee,50.12419922,8.67414026,IT,Westend-Nord
-La Vela,4cb60d0e52edb1f71fe66bfe,Rotlintstraße 3,50.12054254618168,8.7057877517289,IT,Ostend
-Lella Mozzarella,55c48a1c498eb967b232e0a6,Mörfelder Landstraße   137,50.095168,8.681631,IT,Sachsenhausen-Süd
-Coffeosi Passion Store,5b2515ffc84d180024a9be1b,Vilbeler Str. 2,50.11717,8.686639,IT,Innenstadt
-Café Opitz,5018ff55e4b0d570767b242d,Am Salzhaus 1,50.111818426741685,8.677730435201367,IT,Innenstadt
-Biancalani Cucina,4b86cc84f964a520239e31e3,Walther-von-Cronberg-Platz 7,50.10588766432638,8.696890716838125,IT,Sachsenhausen-Nord
-Rinaldo Rinaldini,4ead8fd5dab4a75e0a24dfc4,Georg-Treser-Str. 17,50.098748230548495,8.717243503789167,IT,Oberrad
-Pizza Tomate,551312ce498ecb1f74e10276,Mainzer Landstraße 112a,50.10831878680547,8.657524210259094,IT,Gallus
-Ristorante Azzurro - La Cucina Italiana,4d74c4fed238a1cd9b92da0e,Westendpl. 42,50.113520494112045,8.659877878439037,IT,Westend-Süd
-Pizzaria Elba,4c277a6bc11dc9b6129b2a24,Schlossstr. 113,50.117129999999996,8.645727,IT,Bockenheim
-oheim,4fad5eede4b06644b6b20362,Oppenheimer Landstr. 48,50.100321886831075,8.680100440979004,IT,Sachsenhausen-Nord
-Vinesso,4bd1f246caff952180b4d1f0,Fichardstr. 34,50.12224000000001,8.678478,IT,Nordend-West
-La Traviata,4b058851f964a5206cbe22e3,Textorstr. 50,50.10108969589344,8.684999394583027,IT,Sachsenhausen-Nord
-La Tagliatella,522b2439498e04925e190c93,Europa-Allee 6,50.11035630565581,8.651673622668824,IT,Gallus
-Eissalon Firenze,578228fc498e90925f6251ed,Walther-von-Cronberg-Platz 13,50.105469282145606,8.696628596066692,IT,Sachsenhausen-Nord
-kaffeemacherei,4cc2e2ed1e596dcb7309c667,Eckenheimer Landstr. 70,50.12408772471117,8.686374121317849,IT,Nordend-West
-Pizzeria Dick & Doof,4b37bb39f964a520264525e3,Berger Str. 248,50.12800562288557,8.710183116146625,IT,Bornheim
-Pizzeria Peppino,4b5059a1f964a5200b2127e3,Adalbertstraße 13,50.119859405992756,8.647894367114523,IT,Bockenheim
-Vapiano,4b1ba43df964a5205ffc23e3,Hanauer Landstr. 148,50.112159999999996,8.71609056,IT,Ostend
-Villa Leonhardi,4b058851f964a52061be22e3,Zeppelinallee 18,50.123679624728034,8.65387335633287,IT,Westend-Süd
-Da Michele,4bbc5ff63de8c9b627dd9aad,Gutleutstr. 127,50.10292561575865,8.662433278431955,IT,Gutleutviertel
-Restaurant Koriander,4b0a5353f964a520412323e3,Leipziger Str. 20,50.12122280373485,8.64901547651741,IT,Bockenheim
-Da Franco,4ce17422f8cdb1f7a5c49c12,Saalburgstrasse,50.12696366977397,8.707042975741206,IT,Bornheim
-Ristorante Colosseo,4d76105d7fe3224babba978a,,50.09534399691636,8.681120845975157,IT,Sachsenhausen-Nord
-Classico,4ca6184df47ea1432a275d21,Westendstr. 75,50.11525218180086,8.659111614954464,IT,Westend-Süd
-Bunca Barista & Caterer,568c338d498e0b9ee997a939,Kirchnerstr. 4,50.111132,8.675198,IT,Innenstadt
-Fame - The Sandwich Shop,55b0dd49498e00b2a9a9d140,Wallstr. 10,50.10497000946826,8.688840228245759,IT,Sachsenhausen-Nord
-Panino,4b97fc83f964a520342435e3,Ludwigstr. 7,50.1072779,8.6590356,IT,Gallus
-Das Leben ist schön,4bd479087b1876b06f108986,Hanauer Landstr. 198,50.11537402504722,8.723665630088108,IT,Ostend
-Ristorante La Divina,4b8ec035f964a520e13433e3,Feldbergstrasse,50.122027825185356,8.661553269449257,IT,Westend-Süd
-Engel Pizza & Pasta,536bd9a5498ef43e3d25814f,Schwalbacher Str. 66,50.103868372328606,8.636108886149822,IT,Gallus
-Bacco,528750df498eb77c77199063,Kaiserstrasse 50,50.10863203887326,8.669002330276609,IT,Bahnhofsviertel
-La Famiglia,4bd5f4b65631c9b67c0ba530,Voltastr. 77,50.11690045838739,8.631460503691185,IT,Bockenheim
-Café Diesseits,4b05884df964a52031bd22e3,Konrad-Broßwitz-Str. 1,50.12491580014496,8.639161054164505,IT,Bockenheim
-Pizzeria Messina,51f01af9498e31cc3030c3d2,Elbestrasse 14,50.10736908694636,8.669233084680464,IT,Bahnhofsviertel
-Restaurant Stremma,4b56c5d3f964a520e21a28e3,Messehalle 9.2,50.11286481267633,8.639159169361033,IT,Bockenheim
-Buster Pasta,4f2ed7e1e4b0d411bc7a76d6,Zeil 53,50.11444800321097,8.687098267813719,IT,Altstadt
-Mezzanotte,4b17a9caf964a520e6c623e3,Clemensstr. 6,50.121181385269395,8.649245448447052,IT,Bockenheim
-Tridico,516d2fc5e4b0cb0c2787cd82,Friedrich Ebert Anlage 35-37,50.11134897745906,8.656058418157244,IT,Gallus
-Fratellis,5086e4c1e4b0028eea9bc9ea,Schwarzwaldstraße,50.0832503331036,8.65066368673636,IT,Niederrad
-Bella Roma,4db1d7c06a231f2e4a734fdb,Kaiserstraße 38,50.10903425992565,8.67066637166683,IT,Bahnhofsviertel
-Da Cimino Europaviertel,569548cd498eaa3e26228994,Europa-Allee 121,50.10725495320745,8.627865354151186,IT,Gallus
-Arte Ristorante & Pizzeria,4c6054f1b6f3be9a0a095f73,Ohmstraße 61,50.11742045188522,8.633111702353682,IT,Bockenheim
-The Black Bulls,4c23cef9b7b8a5933e743be8,Bockenheimer Landstr. 92,50.11927496863152,8.659621553115848,IT,Westend-Süd
-Caffeppuccino,4b8f9fd2f964a520685a33e3,Ludwigstr. 8,50.10790714857612,8.658687346556782,IT,Gallus
-Brighella,4d066520c2e537046183c367,Eschersheimer Landstraße 442,50.150889671105496,8.663138933305246,IT,Eschersheim
-Pizzeria Forno D'Oro,4bd070ad77b29c7482b38a82,Homburger Landstr. 66,50.1448586357741,8.693617123365707,IT,Preungesheim
-Italian West,538da017498e391387425221,,50.11831534145907,8.630529234417258,IT,Bockenheim
-Mirador,4b5c36e6f964a520862729e3,Berger Str. 65,50.1212625661123,8.697387584015322,IT,Nordend-Ost
-Punto e Pasta,4b9925def964a520c36435e3,Ottostr. 4,50.10797,8.660714,IT,Gallus
-Libertos Pizzeria Dick & Doof,4b066834f964a52096eb22e3,Marbachweg 302,50.140453449565925,8.67659983012498,IT,Dornbusch
-Da Marietto,4c1b7e3dc09ed13ac37c828e,Feuerbachstr. 25,50.115866060011214,8.662766485720782,IT,Westend-Süd
-Loonas Pasta Bar,4c87ea65b446224b535c7e6f,Markgrafenstraße 19,50.12445507697814,8.645786672529201,IT,Bockenheim
-Motel One Frankfurt Messe,52dd7d92498e5140c22edc2c,Europa Allee 20,50.10851076,8.65075536,IT,Gallus
-Vita Vera,4bd72bbc637ba5939b73f970,,50.106147338945334,8.669181961487954,IT,Bahnhofsviertel
-Ristorante Nuraghe,4c9c8a2e0e9bb1f7e14cd45f,Eschersheimer Landstr. 535,50.15286636247895,8.661062050104407,IT,Eschersheim
-Ristorante Leon D'Oro,4c9b9c0780958cfa813b4dd4,,50.11823,8.701658,IT,Ostend
-Paparazzi Restaurant,4c4dd68c1b8e1b8dd0994326,,50.13371357843281,8.711728091428405,IT,Bornheim
-"La Duchessa, Ristorante",4c6c308bf2846dcb553862e9,Berger Straße 283,50.129843644048776,8.713484535121987,IT,Bornheim
-Trattoria Europa,4c750913604a3704c96e8149,Eschersheimer Landstr. 142,50.12953403009035,8.672623550497951,IT,Nordend-West
-Il Cavallino,4d1e2ea05c4ca1cda74f8e3d,Feldbergstr. 3,50.12200368522662,8.670234885728942,IT,Westend-Nord
-Ristorante da Somma,4de3832a1f6e3190cd28b892,Am Schwalbenschwanz,50.148958439409974,8.657484306949899,IT,Eschersheim
-Da Nico,4b18fba2f964a520ead623e3,Leipziger Str. 50,50.12249043604062,8.646433353424072,IT,Bockenheim
-PiZZERİA JONNY,513787f6e4b0539581cbd70e,,50.14105458076851,8.647814235396472,IT,Ginnheim
-Salvatore Pizza,504e328ae4b01028dd988b86,Homburger Landstr. 225b,50.15657709027885,8.690416488794316,IT,Preungesheim
-Der Fette Bulle,531636eb498e9d4d77d97dc8,Kaiserstr. 73,50.107799,8.666644999999999,IT,Bahnhofsviertel
-Chicago Meatpackers,4b59ec36f964a5202ca128e3,Untermainanlage 8,50.10819227574849,8.672680297139152,IT,Bahnhofsviertel
-Trinco Café Bar,52c83e75498ea9b726d82bee,Schweizer Str. 22a,50.10387765110082,8.679080214179033,IT,Sachsenhausen-Nord
-Five Elements Hostel,4b0ace21f964a5201f2823e3,Moselstrasse 40,50.10910302328166,8.665561014943199,IT,Bahnhofsviertel
-Lilium,4b7984c1f964a52062fe2ee3,Leipzigerstr. 4,50.12067252640111,8.649914873743244,IT,Bockenheim
-Trattoria i Siciliani,4c069f398a81c9b6ff012690,Walter-Kolb-Str. 17,50.10489619795381,8.684427518644489,IT,Sachsenhausen-Nord
-Ristorante Il Doge,4bedb2e1767dc9b6dc55d3e9,Max-Hirsch-Str. 34,50.1292585658914,8.731513798013568,IT,Riederwald
-Pizzeria da Stefano,4bef4f6dd1b7d13a49a6cdec,Lassallestrasse 1,50.13051041756448,8.737488985061647,IT,Riederwald
-Ristorante Nr. 16,59ee1bc53ba767222d921da6,Löwengasse 27,50.128028,8.713381,IT,Bornheim
+Gallo Nero,4c6d73d64d24b60c7ae5d5d8,Kaiserhofstr. 7,50.11490492345194,8.674658332052182,IT,Innenstadt
+Lella Mozzarella 2,5a347a64340a5844b3023fe9,Mainzer Landstrasse 78,50.109592,8.660325,IT,Gallus
+Marcellino,4e4d6dacfa76b38f10750e8e,Ostendstraße 49,50.111772562124536,8.699978127817902,IT,Ostend
+Settimo Cielo,4b6c5ba9f964a52067332ce3,Eckenheimer Landstraße 86,50.12518507775414,8.686285832789377,IT,Nordend-West
+Saverio's Florian,4cdf0df694c3b60c5d6969ea,Kettenhofweg 59,50.115767459761635,8.66407603102161,IT,Westend-Süd
 Trattoria Promis,4bf574d894af2d7fe3bf3b72,Gartenstr. 17,50.10352523927253,8.680004356014537,IT,Sachsenhausen-Nord
-Cantina Divino,4b50c13df964a520063127e3,Zimmerweg 8,50.112267295752794,8.66587832000253,IT,Westend-Süd
-Borsalino,4c2ba0cf2219c928f9e6a448,,50.10643304768001,8.690238186587441,IT,Sachsenhausen-Nord
-Italia 90,4c6ac32dce1eb713949ebb1e,Offenbacher Landstr. 5,50.10067341715762,8.691898508226057,IT,Sachsenhausen-Süd
-Aposto,56e73b86498e2d7146a4c199,Eschenheimer Anlage 40,50.11806763539419,8.679464420596425,IT,Nordend-West
-Zimt & Koriander,4cab661a97c8a1cdadfd9aa5,Schärfengäßchen 4,50.113323889293156,8.681756835957039,IT,Altstadt
-Fantasia 5,5001c4fae4b034c293b276a0,Berger Str. 191,50.12578703519576,8.707198086686308,IT,Bornheim
-La Dolce Vita,4c586fa76418a593a2ab810e,Adlerflychtplatz 94,50.124457,8.681846,IT,Nordend-West
-I'll Tavolino,56c0d694cd10dd4572c88df9,,50.121635,8.698381,IT,Nordend-Ost
-Osteria Lisola Sarda,4ccdb0be063a721e5723969a,,50.12843721259064,8.694641257374434,IT,Nordend-Ost
-Trattoria Amici,53711a75498ec2224f3e766a,rosenbergerstraße 4,50.11750175106626,8.686229272510849,IT,Innenstadt
-CityAlm,5c3defeaee712000398b8939,Töngesgasse 8,50.113777,8.684852000000001,IT,Altstadt
+daVinc CUCINA E VINO,54bff996498e753931508153,Kölner Str. 4,50.10776203754079,8.65160909526651,IT,Gallus
+GIOIA – Freude am Essen,5110309be4b0607cfe152fbe,Paradiesgasse 67,50.104935,8.689958,IT,Sachsenhausen-Nord
+l'unico,4bd0794b462cb7133d64d807,Mendelssohnstr. 81-83,50.11815917344725,8.659280367932714,IT,Westend-Süd
+Cron am Hafen,523b299f498e44c8363ced2b,Speicherstr. 39-45,50.099457160801684,8.659221101193523,IT,Gutleutviertel
+Embassy,4bb1071ff964a52019743ce3,Zimmerweg 1,50.111930662807914,8.666372211540994,IT,Westend-Süd
+7 Bello,4b431914f964a5202fdc25e3,Niddastr. 82,50.10814043771297,8.660022206711046,IT,Gallus
+Paolo,519a4d02498e1f773e3ed67a,Schlossstr.85,50.11808892400767,8.644962344394225,IT,Bockenheim
+Vini da Sabatini,4b0ae582f964a5209e2923e3,Grüneburgweg 81,50.122441096383454,8.667215401082732,IT,Westend-Süd
+Saravini,4bbb13feb35776b04985cb01,Hanauerlandstr. 119,50.11137528486123,8.71028440522652,IT,Ostend
+Terranova,4b5365ddf964a520d99a27e3,Eckenheimer Landstr. 67,50.12478617266359,8.686022758483887,IT,Nordend-West
+Ristorante Isoletta,4b058850f964a5202bbe22e3,Feldbergstraße 31,50.121993630864495,8.662127161073613,IT,Westend-Süd
+Fontana di Trevi,4bdd84edd33f2d7f99178b3c,Mittelweg 60,50.121188478493984,8.680824508105879,IT,Nordend-West
+Casa Isoletta,4d8b381b6ce6a35d5a267042,Babenhäuser Landstr. 1,50.08686299709078,8.691878093415754,IT,Sachsenhausen-Süd
+PAPANOVA PIzza & Pasta,4ee3b083e5faffd730ee4773,Eckenheimer Landstraße 130,50.1275266581552,8.68521938450492,IT,Nordend-West
+Ristorante Carmelo Greco,4cab3e5e76d3a093c8632a6b,Ziegelhüttenweg 1-3,50.09459915891765,8.682584104201608,IT,Sachsenhausen-Süd
+da Cimino,4b2a1c27f964a52048a524e3,Adalbertstr. 29,50.119496052268346,8.645681618479712,IT,Bockenheim
+L'Osteria,4eb446216c2590eb878bda94,Speicherstr. 1,50.10111415053064,8.66387977947882,IT,Gutleutviertel
+Quattro,4be7080f2468c92855fd0143,Gelbehirschstr. 12,50.11556017102002,8.68689052941906,IT,Innenstadt
+Cucina Mediterraneo,4bf5093b94af2d7f87373b72,Platz der Einheit 1,50.11181911741183,8.654620908366349,IT,Gallus
+a tavola!,50dee957e4b0e3d2b90ed8ea,Diesterwegstr. 4,50.10162743329607,8.681500025175785,IT,Sachsenhausen-Nord
+Operncafé,4b0b94aef964a520623223e3,Opernplatz 10,50.11542997880997,8.671891902243786,IT,Innenstadt
+No. 16,4bd4a4d77b1876b09b7d8986,Löwengasse 27a,50.127555577426506,8.703413763225003,IT,Nordend-Ost
+Al Terrazzino,4bab4fc9f964a520af9f3ae3,Rothschildallee 52,50.12929764441615,8.693402105557977,IT,Nordend-West
+Pizza Pasta Scialpi,4c321bc466e40f4710f3c58b,Hochstr. 51,50.115269541101306,8.673234298582639,IT,Innenstadt
+Pasta Davini,4ca8bbcdf47ea143bd137821,Heiligkreuzgasse 9a,50.11534873654754,8.691737382445476,IT,Innenstadt
+VaiVai,4ec11a60e3005ff92a4912fe,Grüneburgweg 16,50.121154997195056,8.67203791028229,IT,Westend-Nord
+Trattoria i Siciliani,4c069f398a81c9b6ff012690,Walter-Kolb-Str. 17,50.104896197953806,8.684427518644487,IT,Sachsenhausen-Nord
+Bistro Da Salvatore,4bd064c1caff95219bafcef0,Schöne Aussicht 16,50.109556180052564,8.687951566317974,IT,Innenstadt
+Vapiano,4b080ac7f964a520d30223e3,Goetheplatz 1-3,50.11281074,8.6758179,IT,Innenstadt
+Pizzeria Sicilia,4de4d2d4d22d2a4ecdfcfb47,Niedenau 9,50.1117803070329,8.663422873651893,IT,Westend-Süd
+Engel Pizza & Pasta,536bd9a5498ef43e3d25814f,Schwalbacher Str. 66,50.10386837232859,8.636108886149822,IT,Gallus
+Vapiano,4b7ab60ef964a5208f382fe3,Bockenheimer Landstr. 24,50.11729117,8.66620454,IT,Westend-Süd
+Pizzaria Elba,4c277a6bc11dc9b6129b2a24,Schlossstr. 113,50.11713,8.645727,IT,Bockenheim
+La Famiglia,4bd5f4b65631c9b67c0ba530,Voltastr. 77,50.1169004583874,8.631460503691185,IT,Bockenheim
+H'ugo's,57e67585498e947108b54f85,Neue Mainzer Straße 74,50.113593109162636,8.672523579829436,IT,Innenstadt
+Pizzeria Buongiorno,4f6c6abae4b0d6389ffe505d,"Liebigstraße 12, 60323 Frankfurt",50.118908379268014,8.666411170126244,IT,Westend-Süd
+Café Diesseits,4b05884df964a52031bd22e3,Konrad-Broßwitz-Str. 1,50.124915800144954,8.639161054164505,IT,Bockenheim
+Ristorante da Luca,50aa6be8e4b0ea2d5b61f0f7,Myliusstr. 49,50.12190363116015,8.660990810508416,IT,Westend-Süd
+Incantina,4b476689f964a520ee3026e3,Taunusstrasse 6,50.11000753604018,8.668701847632258,IT,Bahnhofsviertel
+Alte Kanzlei,4f773877e4b05c37fb409ee2,,50.11312686280646,8.665562036892762,IT,Westend-Süd
+Brighella,4d066520c2e537046183c367,Eschersheimer Landstraße 442,50.150889671105496,8.663138933305246,IT,Eschersheim
+Ristaurante La Contessa,4e63c1f67d8b85408a3af592,Schloßstr. 126,50.11597998028546,8.64654896984413,IT,Bockenheim
+Ristorante Rustico,4bae70def964a520c2b23be3,Große Friedberger Str. 16,50.115475278764784,8.686426636378497,IT,Innenstadt
+La Vela,4cb60d0e52edb1f71fe66bfe,Rotlintstraße 3,50.120542546181674,8.7057877517289,IT,Ostend
+Onkel Emmo,4dde2e92d1641542183c80b6,Altkönigstraße,50.121173,8.666938,IT,Westend-Süd
+Paparazzi Restaurant,4c4dd68c1b8e1b8dd0994326,,50.13371357843281,8.711728091428405,IT,Bornheim
+Pizzeria Dick & Doof,4b37bb39f964a520264525e3,Berger Str. 248,50.128005622885574,8.710183116146625,IT,Bornheim
+Das Leben ist schön,4bd479087b1876b06f108986,Hanauer Landstr. 198,50.11537402504722,8.723665630088108,IT,Ostend
+Ristorante Il Doge,4bedb2e1767dc9b6dc55d3e9,Max-Hirsch-Str. 34,50.1292585658914,8.731513798013568,IT,Riederwald
+Ristorante Nr. 16,59ee1bc53ba767222d921da6,Löwengasse 27,50.128028,8.713381,IT,Bornheim
+Vapiano,4b1ba43df964a5205ffc23e3,Hanauer Landstr. 148,50.11216,8.71609056,IT,Ostend
+Cucina delle Grazie,4be18db04ed5c9b6e29dccce,Domplatz 3,50.11097608476038,8.684869545611965,IT,Altstadt
+Mamma Forno,579f820b498ee60ebcdd1b8a,,50.11487510616605,8.690019710528029,IT,Innenstadt
+Ristorante Sardegna,4c7cd60e7a856dcbf22ae3a7,Fahrgasse 84,50.11286718967453,8.686039479273338,IT,Altstadt
+Paninoteca,4bcc7466fb84c9b6775c203e,Bleidenstr. 13,50.11242010672326,8.679666147643408,IT,Altstadt
+Da Franco,4ce17422f8cdb1f7a5c49c12,Saalburgstrasse,50.12696366977397,8.707042975741206,IT,Bornheim
+Rinaldo Rinaldini,4ead8fd5dab4a75e0a24dfc4,Georg-Treser-Str. 17,50.098748230548495,8.717243503789168,IT,Oberrad
+Portofino,4beee0e8d355a593267d0b60,Scheffelstrasse 28,50.12181911764026,8.689801494705154,IT,Nordend-West
+Pizzeria Bella Mia,4b9d1812f964a520098f36e3,Bergerstr. 67,50.121251551533305,8.6975648672137,IT,Nordend-Ost
+Italia 90,4c6ac32dce1eb713949ebb1e,Offenbacher Landstr. 5,50.100673417157616,8.691898508226057,IT,Sachsenhausen-Süd
+Piccolo Weinbar,4da8a2406e81162ae7aa3f93,,50.12287755,8.69366845,IT,Nordend-Ost
+"La Duchessa, Ristorante",4c6c308bf2846dcb553862e9,Berger Straße 283,50.129843644048776,8.713484535121987,IT,Bornheim
+Osteria Lisola Sarda,4ccdb0be063a721e5723969a,,50.12843721259064,8.694641257374435,IT,Nordend-Ost
+Trattoria Papparazzi,4f9ee5b1e4b0d2a3ab1dc537,Seckbacher Landstr. 48,50.133794,8.711565,IT,Bornheim
+Buster Pasta,4f2ed7e1e4b0d411bc7a76d6,Zeil 53,50.11444800321096,8.687098267813719,IT,Altstadt
+Biancalani Cucina,4b86cc84f964a520239e31e3,Walther-von-Cronberg-Platz 7,50.10588766432638,8.696890716838125,IT,Sachsenhausen-Nord
+Trattoria Europa,4c750913604a3704c96e8149,Eschersheimer Landstr. 142,50.12953403009035,8.67262355049795,IT,Nordend-West
+Libertos Pizzeria Dick & Doof,4b066834f964a52096eb22e3,Marbachweg 302,50.14045344956594,8.67659983012498,IT,Dornbusch
+Grazie Mille,53384691498e9cb441d92b11,,50.140626624757616,8.751971055459189,IT,Bergen-Enkheim
+Pizzeria Millenium,51a5d830498ec540385daad3,,50.14061,8.672843,IT,Dornbusch
+Piccolo Mondo,4e71016e1f6ec963ae3c2545,,50.14508801,8.744482,IT,Bergen-Enkheim
+La Favola,4c656da4e1da1b8d691698c3,Hügelstr. 2-8,50.14935815027538,8.680169522850798,IT,Eckenheim
+Pizzeria Forno D'Oro,4bd070ad77b29c7482b38a82,Homburger Landstr. 66,50.144858635774085,8.693617123365707,IT,Preungesheim
+Pizzeria da Stefano,4bef4f6dd1b7d13a49a6cdec,Lassallestrasse 1,50.13051041756448,8.737488985061646,IT,Riederwald
+Armonia,4b058850f964a52035be22e3,Eschersheimer Landstraße 38,50.12033620854521,8.67636026609424,IT,Westend-Süd
+Ristorante Romanella,4ce91fe9678aa0938e90ecea,Hansaallee,50.12419922,8.67414026,IT,Westend-Nord
+Insieme,571120d3498eecb48de21cea,Eschersheimer Landstr. 158,50.130961,8.672198,IT,Nordend-West
+Restaurant Bologna,4ea29ff98b81a02f89a785c3,Eschersheimer Landstraße 173,50.13714642932633,8.670832244113603,IT,Westend-Nord
+Amoroso - An Der Alten Oper,5957bc142e26800edb38a2b6,Opernplatz 8,50.115403,8.671874,IT,Innenstadt
+Pizza Tomate,551312ce498ecb1f74e10276,Mainzer Landstraße 112a,50.10831878680547,8.657524210259094,IT,Gallus
+Ma Pasta,5522844d498ebe23687205ec,Gartenstrasse 31,50.103191754879795,8.67916290307062,IT,Sachsenhausen-Nord
+Mania,4b5ee132f964a520219c29e3,Lyoner Str. 20,50.08199432691107,8.625044068782927,IT,Schwanheim
+Trattoria da Pasquale,4c19f63f6a21c9b62349cb97,"Mörfelder Landstr. 82,",50.0972879226036,8.684738681790007,IT,Sachsenhausen-Nord
 Cono Cimino,4c20de1e8082d13a3f52f82a,Melibocusstr. 80,50.08159538061763,8.63896714683936,IT,Niederrad
-Mania,4b5ee132f964a520219c29e3,Lyoner Str. 20,50.08199432691106,8.625044068782929,IT,Schwanheim
+Ristorante Garibaldi,4bc0861074a9a5939d20d0f6,Kleine Hochstraße 4,50.11504640971255,8.674065060757892,IT,Innenstadt
+Lella Mozzarella,55c48a1c498eb967b232e0a6,Mörfelder Landstraße   137,50.095168,8.681631,IT,Sachsenhausen-Süd
+Pizzeria Peppino,4b5059a1f964a5200b2127e3,Adalbertstraße 13,50.11985940599276,8.647894367114523,IT,Bockenheim
+Picasso,510cfe3ee4b0873bbf4ebe00,,50.095988077790274,8.663515863371854,IT,Sachsenhausen-Nord
+Pizzeria Nic Nac,4e0624a6a809495e6190ae4e,Alt-Griesheim 22,50.090716,8.606901,IT,Griesheim
+Da Michele,4bbc5ff63de8c9b627dd9aad,Gutleutstr. 127,50.10292561575865,8.662433278431955,IT,Gutleutviertel
+Ristorante Azzurro - La Cucina Italiana,4d74c4fed238a1cd9b92da0e,Westendpl. 42,50.113520494112045,8.659877878439037,IT,Westend-Süd
+Fratellis,5086e4c1e4b0028eea9bc9ea,Schwarzwaldstraße,50.0832503331036,8.65066368673636,IT,Niederrad
+La Tagliatella,522b2439498e04925e190c93,Europa-Allee 6,50.110356305655806,8.651673622668824,IT,Gallus
+Arte Ristorante & Pizzeria,4c6054f1b6f3be9a0a095f73,Ohmstraße 61,50.11742045188521,8.633111702353682,IT,Bockenheim
+Tridico,516d2fc5e4b0cb0c2787cd82,Friedrich Ebert Anlage 35-37,50.11134897745907,8.656058418157244,IT,Gallus
+Panino,4b97fc83f964a520342435e3,Ludwigstr. 7,50.1072779,8.6590356,IT,Gallus
+Da Cimino Europaviertel,569548cd498eaa3e26228994,Europa-Allee 121,50.107254953207445,8.627865354151188,IT,Gallus
+Ristorante La Divina,4b8ec035f964a520e13433e3,Feldbergstrasse,50.12202782518537,8.661553269449257,IT,Westend-Süd
+Caffeppuccino,4b8f9fd2f964a520685a33e3,Ludwigstr. 8,50.10790714857612,8.658687346556782,IT,Gallus
+Restaurant Koriander,4b0a5353f964a520412323e3,Leipziger Str. 20,50.12122280373485,8.64901547651741,IT,Bockenheim
+Trattoria Amici,4f672d41e4b0746beadf6479,Bettinastr.,50.110565041786785,8.659941339979424,IT,Westend-Süd
+Italian West,538da017498e391387425221,,50.11831534145907,8.630529234417258,IT,Bockenheim
+Restaurant Stremma,4b56c5d3f964a520e21a28e3,Messehalle 9.2,50.11286481267632,8.639159169361033,IT,Bockenheim
+Classico,4ca6184df47ea1432a275d21,Westendstr. 75,50.11525218180085,8.659111614954465,IT,Westend-Süd
+Punto e Pasta,4b9925def964a520c36435e3,Ottostr. 4,50.10797,8.660714,IT,Gallus
+Villa Leonhardi,4b058851f964a52061be22e3,Zeppelinallee 18,50.123679624728034,8.65387335633287,IT,Westend-Süd
 L'Angolo,4bab48e6f964a520c99d3ae3,Frankenallee 277,50.10283216546833,8.625307880091936,IT,Gallus
-Ristorante Da Cimino,4bd874a1f645c9b66ef9a7e0,Schwarzwaldstr. 62,50.08455763952095,8.648764483079738,IT,Niederrad
-Ciao Ristorante Pizzaria,4c7ea41001df370499e2e3ac,Lyoner Str. 11,50.083009112744854,8.629446366551859,IT,Schwanheim
-La Stalla,4ca074f92fb1a143c52efc40,Waldstrasse,50.081720000000004,8.65209,IT,Niederrad
-Pizzeria Vécia Pärma,4c08da636071a593b9d7dc32,Mainzer Landstr. 236,50.103165000000004,8.644703,IT,Gallus
+Mezzanotte,4b17a9caf964a520e6c623e3,Clemensstr. 6,50.121181385269395,8.649245448447052,IT,Bockenheim
+Cantina Divino,4b50c13df964a520063127e3,Zimmerweg 8,50.112267295752794,8.66587832000253,IT,Westend-Süd
+Rusticale,4ba133b8f964a5209da137e3,Thudichumstr. 1a,50.12398307027175,8.610235323165869,IT,Rödelheim
+Trattoria Pizzeria 6611,50b3d1a2e4b0829b73eb6e20,Am Mühlgarten 2,50.145340976839805,8.651210822316692,IT,Ginnheim
+Ristorante Da Cimino,4bd874a1f645c9b66ef9a7e0,Schwarzwaldstr. 62,50.084557639520945,8.648764483079738,IT,Niederrad
+Ristorante Colosseo,4d76105d7fe3224babba978a,,50.09534399691636,8.681120845975158,IT,Sachsenhausen-Nord
+Kennedy 129,5257ed31498e59e9f70406ad,Kennedyallee 129,50.09213290396164,8.664287554729393,IT,Sachsenhausen-Nord
+La Stalla,4ca074f92fb1a143c52efc40,Waldstrasse,50.08172,8.65209,IT,Niederrad
+Authentic Italian Dining,511e310ee4b07a9f9f1e8935,Terminal 1,50.043966800298726,8.56259822845459,IT,Flughafen
+MONDO Bianco,58da577f7d66be5bc035ef0a,"Frankfurt Flughafen, FRA, Terminal 1, Bereich A+",50.03583929358209,8.543614894151688,IT,Flughafen
+Little Italy,56a7624e498e9aed607e34e6,The Squaire,50.052969499801016,8.568967467646907,IT,Flughafen
+Vito,5549fd22498e4f3ae5dd550a,Frankfurt Airport,50.051985352323975,8.587016409681931,IT,Flughafen
+Ciao Italia,4b755636f964a52003072ee3,Terminal 1,50.05103500063822,8.570580051789117,IT,Flughafen
+Bagutta,53385570498ed4b32806d5e3,Terminal 1,50.050139891757844,8.57006549835205,IT,Flughafen
+MONDO Mini Bar,58da57b283622d5dad8eee09,"Terminal 1, Bereich B",50.047993,8.573104,IT,Flughafen
+Amo,56a0d55d498e7f952d019e59,Terminal 2,50.052093,8.586738,IT,Flughafen
+Italissimo,4cdd7694c409b60cf595e01a,"Terminal 1, Gate A22",50.04654803659156,8.567226280520527,IT,Flughafen
+Lucullus Nero,50e879c4e4b064546b91fd55,Terminal 1,50.04802302670033,8.567717867284614,IT,Flughafen
+Ristorante Leon D'Oro,4c9b9c0780958cfa813b4dd4,,50.11823,8.701658,IT,Ostend
+Borsalino,4c2ba0cf2219c928f9e6a448,,50.10643304768001,8.690238186587443,IT,Sachsenhausen-Nord
+Longobardis,5b97aec4c97f28002c114f17,,50.108963,8.694859,IT,Ostend
+Kastanienhof,54a92229498e8bfa13d8116f,,50.1055100831385,8.716828775005787,IT,Sachsenhausen-Nord
+Callis Pizza,515c6ed7e4b03125d12ed5cb,,50.103656,8.690366,IT,Sachsenhausen-Nord
+Pizzeria Milano,4db499f4cda1c57c825f0f5a,,50.105312,8.689507,IT,Sachsenhausen-Nord
+Trattoria Ferrero,4d8a11507139b1f75469c2d4,Hainer weg 120,50.09524076135978,8.695300711718078,IT,Sachsenhausen-Süd
+Bella Napoli,50d4bd9be4b025aee1de1ebd,,50.1058,8.6915,IT,Sachsenhausen-Nord
+Ciao Bella,568edbd3498e9d5aa0e801f7,Europa-Allee 6,50.1093974,8.6526412,IT,Gallus
+Pizzeria Bella,5366b152498ed0b01ea0a51b,,50.10810089111328,8.659870147705078,IT,Gallus
+Pizza e Pasta,56266f38498e4efa00540ce7,Am Hauptbahnhof 1,50.10652542114258,8.664104461669922,IT,Gallus
 Damiro Westsite,4c1622521b5cef3bfa6ceec4,Mainzer Landstraße 207,50.10425,8.64916,IT,Gallus
 Prego,4d0609e6347da1cdf8d6338f,Mainzer Landstr. 302,50.102428,8.636727,IT,Gallus
-Pizza Toni,4bdeb07d0ee3a593af7c31b0,Lahnstraße 24a,50.101416295872475,8.639409469399984,IT,Gallus
-Restaurant Pizzeria La Gazzella,4c08dc2e340720a1d3b98393,Gutleutstraße 159,50.1009227344689,8.661830868217558,IT,Gutleutviertel
-Restaurant Cucina,4b87badef964a5200ac931e3,"Dependance, Level 2",50.10992814205196,8.6452317237854,IT,Westend-Süd
-Ciao Bella,568edbd3498e9d5aa0e801f7,Europa-Allee 6,50.1093974,8.6526412,IT,Gallus
-Kennedy 129,5257ed31498e59e9f70406ad,Kennedyallee 129,50.09213290396164,8.664287554729393,IT,Sachsenhausen-Nord
-Restaurant Piazza,5257fd7611d291f21e9b39fd,Messehalle 4.1,50.111531290733716,8.647077083587645,IT,Westend-Süd
-Loft 52,4caefc0ceb65b1f79fbb5fcd,Europa Allee 12,50.108639528379925,8.64966965172153,IT,Gallus
-Pizza e Pasta,56266f38498e4efa00540ce7,Am Hauptbahnhof 1,50.10652542114258,8.664104461669924,IT,Gallus
-die focacceria,5853d8d3761b1a29dbad3ef0,,50.11466400000001,8.674882,IT,Innenstadt
-La Rosticceria,4da6e04593a04785b908ceaf,,50.11421628237875,8.676434418761113,IT,Innenstadt
-Pizzeria Da Romeo,4c6ad596b56e9c748e3ccd85,Mendelsohnstr. 83,50.11438637266369,8.671284161097311,IT,Innenstadt
-Genussbar,58320014fb549a1ff5929087,Basaltstraße 13A,50.12455,8.641689999999999,IT,Bockenheim
-Biondo,4c657f2af7a80f472e5e9b7a,Basalstraße 35,50.12567073904247,8.643629145523446,IT,Bockenheim
-Casa Nostra,4ca8e82df47ea1434e0b7a21,Konrad-Broßwitz-Straße 43-45,50.126597750667884,8.641701585447644,IT,Bockenheim
-da Claudio,565ddf35498edbd99c0e9798,Elbinger Str.4,50.12683922318028,8.625863746860668,IT,Bockenheim
-Lighthouse Dining,4fb66991e4b0451d41863bd2,Königsberger Str. 29,50.126987270677745,8.62339209722038,IT,Bockenheim
-Rusticale,4ba133b8f964a5209da137e3,Thudichumstr. 1a,50.12398307027175,8.61023532316587,IT,Rödelheim
-Ristorante Da Severino,4e08c7006284d9ee92dd6a57,Radilostraße 47,50.123714722741575,8.606435728250492,IT,Rödelheim
-Trattoria Pizzeria 6611,50b3d1a2e4b0829b73eb6e20,Am Mühlgarten 2,50.14534097683981,8.651210822316692,IT,Ginnheim
-Trattoria Amici,4f672d41e4b0746beadf6479,Bettinastr.,50.110565041786785,8.659941339979424,IT,Westend-Süd
-Trattoria La Vita,521e318311d243e1d20efa70,Leipziger Str. 39,50.1222001895602,8.64664877719378,IT,Bockenheim
-Ciao Italia,4b755636f964a52003072ee3,Terminal 1,50.051035000638215,8.570580051789117,IT,Flughafen
-Lucullus Nero,50e879c4e4b064546b91fd55,Terminal 1,50.04802302670033,8.567717867284614,IT,Flughafen
-Little Italy,56a7624e498e9aed607e34e6,The Squaire,50.05296949980102,8.568967467646907,IT,Flughafen
-Amo,56a0d55d498e7f952d019e59,Terminal 2,50.052093,8.586738,IT,Flughafen
-Bagutta,53385570498ed4b32806d5e3,Terminal 1,50.050139891757844,8.570065498352049,IT,Flughafen
-Authentic Italian Dining,511e310ee4b07a9f9f1e8935,Terminal 1,50.043966800298726,8.56259822845459,IT,Flughafen
-Italissimo,4cdd7694c409b60cf595e01a,"Terminal 1, Gate A22",50.04654803659156,8.567226280520527,IT,Flughafen
-MONDO Mini Bar,58da57b283622d5dad8eee09,"Terminal 1, Bereich B",50.047993,8.573103999999999,IT,Flughafen
-MONDO Bianco,58da577f7d66be5bc035ef0a,"Frankfurt Flughafen, FRA, Terminal 1, Bereich A+",50.03583929358209,8.543614894151688,IT,Flughafen
-Vito,5549fd22498e4f3ae5dd550a,Frankfurt Airport,50.05198535232398,8.587016409681931,IT,Flughafen
-L'Osteria,4eb446216c2590eb878bda94,Speicherstr. 1,50.10111415053064,8.66387977947882,IT,Gutleutviertel
-Pizzeria Nic Nac,4e0624a6a809495e6190ae4e,Alt-Griesheim 22,50.090716,8.606900999999999,IT,Griesheim
-Trattoria San Marco,4ecd404e6c25f61c32c4d260,,50.095969000000004,8.606858,IT,Griesheim
+Vita Vera,4bd72bbc637ba5939b73f970,,50.106147338945334,8.669181961487954,IT,Bahnhofsviertel
+Restaurant Pizzeria La Gazzella,4c08dc2e340720a1d3b98393,Gutleutstraße 159,50.100922734468895,8.661830868217557,IT,Gutleutviertel
+Restaurant Piazza,5257fd7611d291f21e9b39fd,Messehalle 4.1,50.11153129073372,8.647077083587645,IT,Westend-Süd
+Ciao Ristorante Pizzaria,4c7ea41001df370499e2e3ac,Lyoner Str. 11,50.083009112744854,8.629446366551859,IT,Schwanheim
+Pizza Toni,4bdeb07d0ee3a593af7c31b0,Lahnstraße 24a,50.10141629587248,8.639409469399984,IT,Gallus
+Pizzeria Messina,51f01af9498e31cc3030c3d2,Elbestrasse 14,50.10736908694635,8.669233084680462,IT,Bahnhofsviertel
+Restaurant Cucina,4b87badef964a5200ac931e3,"Dependance, Level 2",50.10992814205195,8.6452317237854,IT,Westend-Süd
+Bacco,528750df498eb77c77199063,Kaiserstrasse 50,50.10863203887326,8.669002330276609,IT,Bahnhofsviertel
+Di Genaro,4c0f73557189c928d408dab6,Hauptbahnhof,50.10695563854913,8.662676811218262,IT,Gallus
+L'Angoletto,54593bda498e9f416f15aa11,Oppenheimer Landstr. 49,50.099518,8.680376,IT,Sachsenhausen-Nord
+Pizzeria Bella Italia,4f4e17bce4b0ef284bdfa989,Hufnagelstraße 6,50.103398,8.643574,IT,Gallus
+Da Paolo,4c0a929bbbc676b029104ad5,,50.099536298607696,8.680310388178622,IT,Sachsenhausen-Nord
+Pizzeria Vécia Pärma,4c08da636071a593b9d7dc32,Mainzer Landstr. 236,50.103165,8.644703,IT,Gallus
+Loft 52,4caefc0ceb65b1f79fbb5fcd,Europa Allee 12,50.10863952837993,8.64966965172153,IT,Gallus
+Pizza La Taverna,4d94cd3fcf46224b3b789d94,Mainzer Landstr. 591,50.08730741421899,8.597044597630552,IT,Schwanheim
+Trattoria San Marco,4ecd404e6c25f61c32c4d260,,50.095969,8.606858,IT,Griesheim
+Ristorante Caruso,4f219ea5e4b0cebcfb7c124d,,50.1094,8.5963,IT,Griesheim
+Ristorante Da Severino,4e08c7006284d9ee92dd6a57,Radilostraße 47,50.12371472274158,8.606435728250492,IT,Rödelheim
+La Palestra,4de6151ed4c09fc98b75c2c3,,50.12691,8.612137,IT,Rödelheim
+Franco’s Cucina,5b1a6baba2c00b002c24c743,Voltastraße 78,50.11724,8.632543,IT,Bockenheim
+Ristorante Fantastico,4cc565a1c844721e549aee01,,50.12352893288743,8.605936402427805,IT,Rödelheim
+Meatball District,584995ea266c113457e7e771,,50.11724,8.632565,IT,Bockenheim
 Restaurant Pizzeria Belanti,4b9d1a8ef964a520e88f36e3,Heerstraße 169,50.14623951709236,8.610938843115445,IT,Praunheim
 Ristorante Il Quadrifoglio,509fe800e4b0a0263fab77e1,,50.15028381347656,8.62202262878418,IT,Praunheim
+Casa Nostra,4ca8e82df47ea1434e0b7a21,Konrad-Broßwitz-Straße 43-45,50.126597750667884,8.641701585447644,IT,Bockenheim
+da Claudio,565ddf35498edbd99c0e9798,Elbinger Str.4,50.12683922318027,8.625863746860668,IT,Bockenheim
+Lighthouse Dining,4fb66991e4b0451d41863bd2,Königsberger Str. 29,50.126987270677745,8.62339209722038,IT,Bockenheim
+Cafe Gremp's,52068a2711d29a563be73a63,,50.12397518211177,8.64037631080253,IT,Bockenheim
+Genussbar,58320014fb549a1ff5929087,Basaltstraße 13A,50.12455,8.64169,IT,Bockenheim
+Da Nico,4b18fba2f964a520ead623e3,Leipziger Str. 50,50.12249043604062,8.646433353424072,IT,Bockenheim
 La Terrazza,4da032e94977236afbc3bd96,,50.156979,8.633796,IT,Heddernheim
-Fratelli,50d1bc8de4b0ece9125fb780,Tituscorso 2B,50.158155493391504,8.634140089540283,IT,Heddernheim
-Pizzeria Pisa,4dd79758d1647fcf3e4dbe81,Praunheimer weg,50.16576071548002,8.621473886556476,IT,Niederursel
-Isolabella,4b07d144f964a520390023e3,Altenhöferallee 132,50.18280815429054,8.625830278455897,IT,Kalbach-Riedberg
-Pizzeria Da Angelo,4c6cf641d086952157e60aea,Homburger Landstr. 413,50.16681507679544,8.6794167992458,IT,Frankfurter Berg
+Pizzeria Antico,53e4f866498ed133e29c8b40,,50.15110424242231,8.62351126141583,IT,Praunheim
+Fratelli,50d1bc8de4b0ece9125fb780,Tituscorso 2B,50.15815549339149,8.634140089540283,IT,Heddernheim
+Pizzeria Messina,4fdcdca8e4b049c33b80314b,,50.157942,8.645489,IT,Heddernheim
+Biondo,4c657f2af7a80f472e5e9b7a,Basalstraße 35,50.12567073904247,8.643629145523446,IT,Bockenheim
+Restaurant Atelier,4f2c3e7de4b03d064b8ed1fb,,50.13382957198678,8.645655061531095,IT,Bockenheim
+PiZZERİA JONNY,513787f6e4b0539581cbd70e,,50.14105458076851,8.647814235396472,IT,Ginnheim
+Pizzeria Pisa,4dd79758d1647fcf3e4dbe81,Praunheimer weg,50.165760715480026,8.621473886556476,IT,Niederursel
 Ristorante & Pizzeria Il Gondoliere,4c36fcc6298e9c74eddf07e3,Lurgiallee 6,50.16920147139404,8.638417655645767,IT,Niederursel
 Villa Belvedere,55abc1eb498e4067cf830b8a,Kautenhof 1,50.181871,8.64022,IT,Kalbach-Riedberg
-La Bruschetta,4bb4ad742ba29c74d916ef2d,Eckenheimer Landstraße 184,50.131656364904394,8.684719647812638,IT,Nordend-West
-Da Pino Restorante Pizzeria,4f244393e4b0a93fbeb9c1ff,Homburger Landstrasse 707,50.18508900000001,8.665307,IT,Bonames
+Ristorante Nuraghe,4c9c8a2e0e9bb1f7e14cd45f,Eschersheimer Landstr. 535,50.15286636247895,8.661062050104407,IT,Eschersheim
+Isolabella,4b07d144f964a520390023e3,Altenhöferallee 132,50.18280815429054,8.625830278455897,IT,Kalbach-Riedberg
+Pizzeria Da Angelo,4c6cf641d086952157e60aea,Homburger Landstr. 413,50.166815076795444,8.6794167992458,IT,Frankfurter Berg
+Ristorante da Somma,4de3832a1f6e3190cd28b892,Am Schwalbenschwanz,50.148958439409974,8.657484306949899,IT,Eschersheim
+Ristorante-Pizzeria Il Qudrifoglio,55cb5f81498e7739149f0516,Graebestr. 19,50.14999,8.622600000000034,IT,Praunheim
+Buonarroti,4b71acaff964a5204d552de3,,50.148517,8.67192,IT,Dornbusch
+Pizzeria Tre Stelle,4ba64c1cf964a520914339e3,Im Trutz Frankfurt 48,50.120815344876654,8.673489301379663,IT,Westend-Süd
+Cimino da Paolo,52207a4b11d2aa7f90fda67f,Eschersheimer Landstr. 244,50.138904856015095,8.670502881346076,IT,Dornbusch
+Pizzeria Fiorentina,4c1b96198b3aa593ec65975f,Eschersheimer Landstrasse 87,50.12438137221459,8.675163792378253,IT,Nordend-West
+Vetro Vero,5ba6981767af3a0039c79162,Feldbergstraße 3,50.123001,8.665778,IT,Westend-Süd
+La Bruschetta,4bb4ad742ba29c74d916ef2d,Eckenheimer Landstraße 184,50.13165636490441,8.684719647812638,IT,Nordend-West
+La Dolce Vita,4c586fa76418a593a2ab810e,Adlerflychtplatz 94,50.124457,8.681846,IT,Nordend-West
+Salvatore Pizza,504e328ae4b01028dd988b86,Homburger Landstr. 225b,50.15657709027885,8.690416488794316,IT,Preungesheim
+Vinesso,4bd1f246caff952180b4d1f0,Fichardstr. 34,50.12224,8.678478,IT,Nordend-West
+Da Pino Restorante Pizzeria,4f244393e4b0a93fbeb9c1ff,Homburger Landstrasse 707,50.185089,8.665307,IT,Bonames
+Natürlich Italian Bar Restaurant,526bc888498e3c2988aaef4c,,50.128396,8.710818,IT,Bornheim
+Pizzastube Express,4ccafbc6ee23a143671014a8,,50.1603445749482,8.655493739096123,IT,Eschersheim
+Restaurant Messina,4fdcdda7e4b0d60dd89df1d2,Heddernheimer Kirchstr. 17,50.158395908388314,8.654371273004953,IT,Eschersheim
+Da Aldo,4cf28f9f94feb1f720f11dba,Hermannspforte 6,50.182939280315296,8.691114575294653,IT,Harheim
 Bistro Golf Range Frankfurt,4f44d29ee4b0c24ce2d9d37e,Am Martinszehnten 6,50.1879022661427,8.651528438146627,IT,Kalbach-Riedberg
-Da Aldo,4cf28f9f94feb1f720f11dba,Hermannspforte 6,50.182939280315296,8.691114575294652,IT,Harheim
-Pizzeria Due Diavoli,4fda4dece4b04a33849e8b5e,Vilbeler Landstraße 82,50.14346235327122,8.754973246393778,IT,Bergen-Enkheim
-Pizzeria Carlo,4dcd72f745ddbe15f86ff423,Marktstr.,50.155415592269144,8.754072488061508,IT,Bergen-Enkheim
-Italienische Feinkost 2000,4dbe8f5a6a23a3c473a6e756,Dalbergstr.,50.10203272526324,8.542956380814628,IT,Höchst
-Il Vecchio Muro,4e6fab4b8998fd5c56c536f6,Schleifergasse 3,50.10013554926157,8.547234925249763,IT,Höchst
-Pizzeria Tavolara,4c0299129a7920a180a4ce79,Königsteiner Straße 71,50.10781887951665,8.541489487476985,IT,Unterliederbach
-Pizzeria Pantera,4cfbcb55feec6dcba59c4836,,50.11323913422203,8.539682908075255,IT,Unterliederbach
-Da Renato,4d299b90915fa093c2df070a,Farbenstaße 37,50.0799744885845,8.516925573348999,IT,Sindlingen
-Trattoria Pizzeria Da Mario,55be5ee4498eae66eb408800,Deuil-La-Barre-Straße 47,50.19861602783203,8.670230865478517,IT,Nieder-Eschbach
+Trattoria Pizzeria Da Mario,55be5ee4498eae66eb408800,Deuil-La-Barre-Straße 47,50.19861602783203,8.670230865478516,IT,Nieder-Eschbach
 Osteria Amici,5218f51211d28f3e1bba6d3a,Alt Niedereschbach 22,50.201652,8.673997,IT,Nieder-Eschbach
-Ariston Restaurant,4e9c8d7b9a52edbd662842d5,Heiligkreuzgasse 29,50.11549824888785,8.689204721045831,GR,Innenstadt
-Parthenon Greek Restaurant,4d977e6c0caaa143736294b3,Stresemannallee,50.101036828143634,8.674486005718776,GR,Sachsenhausen-Nord
-Omonia,4b058850f964a52038be22e3,Eckenheimer Landstr. 126,50.12735900000001,8.685447,GR,Nordend-West
-Der Grieche Taverna,4e6905c4aeb75ce774e3ee31,Kaiserhofstr. 12,50.11535513250462,8.674878797694832,GR,Innenstadt
-Megaron,4be5d0bad4f7c9b6f4f82520,Spohrstraße 26,50.12816033638178,8.690905379288113,GR,Nordend-West
-Elia Restaurant - Bar,530cffb7498e258c5e055b5e,Frankenallee 111,50.10458750676413,8.641439899293005,GR,Gallus
+Pizzeria Dick & Doof,573350bb498e8745bb726398,Triebstr. 65,50.14427,8.75512,IT,Bergen-Enkheim
+Pizzeria Due Diavoli,4fda4dece4b04a33849e8b5e,Vilbeler Landstraße 82,50.14346235327123,8.754973246393778,IT,Bergen-Enkheim
+Pizzeria Dino,4c7fdacbd92ea0937b833272,,50.1452726254718,8.758802577550735,IT,Bergen-Enkheim
+La Perla,4ee3cee45c5cfa48f9d79200,Triebstr. 36,50.145942516584284,8.75450306403438,IT,Bergen-Enkheim
+Casa Mia - Ristorante & Pizzeria da Claudio,4e7f532893ad5ce35fe39761,Marktstr. 49,50.155532,8.754398,IT,Bergen-Enkheim
+Pizzeria Carlo,4dcd72f745ddbe15f86ff423,Marktstr.,50.155415592269144,8.754072488061508,IT,Bergen-Enkheim
+Pizzeria Dick & Doof,4c83aba7e602b1f73d88a77a,,50.155164588297865,8.750702600044763,IT,Bergen-Enkheim
+Da Bomba 3,4c02967d0d0e0f477e4d019a,,50.12701587032133,8.709143931858675,IT,Bornheim
+Fantasia 5,5001c4fae4b034c293b276a0,Berger Str. 191,50.125787035195756,8.707198086686308,IT,Bornheim
+Pizzeria La Rusticana,4cb0b305c5e6a1cdb58ad7f6,Leunastrasse,50.100477,8.539387,IT,Höchst
+la tavolata,4c01a6c7cebfef3bd94797fd,bolongaro strasse,50.095372,8.558614,IT,Schwanheim
+Da Vincenzo,4f8b14bee4b03a0f26f24333,,50.098725,8.54635,IT,Höchst
+Bellini,4dd7b3c91f6ee1468328687c,Liebknechtstraße,50.10689373879488,8.543078810804039,IT,Unterliederbach
+Imola,507344ffe4b08f504e71c8fa,Alt Nied 19,50.09929866396468,8.566050210825997,IT,Nied
+Da Renato,4d299b90915fa093c2df070a,Farbenstaße 37,50.079974488584504,8.516925573348999,IT,Sindlingen
+Ristorante Pizzeria Limoncello,5006e5eee4b0e4c2aa767e95,,50.10739893919966,8.543977799209808,IT,Unterliederbach
+L'Osteria,5499d05d498e29e8a6309f48,,50.089123,8.524115,IT,Höchst
+Zwei Schwane,528e70b311d2688755455ed2,,50.1000598002782,8.550609465696617,IT,Höchst
+Pizzeria Pantera,4cfbcb55feec6dcba59c4836,,50.11323913422203,8.539682908075255,IT,Unterliederbach
+Pizzeria Kiara,4db3fc39f7b121c29f4273da,,50.09712800138868,8.51083113874094,IT,Zeilsheim
+Pizzeria Tavolara,4c0299129a7920a180a4ce79,Königsteiner Straße 71,50.10781887951665,8.541489487476985,IT,Unterliederbach
+Il Vecchio Muro,4e6fab4b8998fd5c56c536f6,Schleifergasse 3,50.10013554926157,8.547234925249763,IT,Höchst
+Pizzaria Bellini,4e57f0dc227131507c94e271,,50.112348738669425,8.542284738300353,IT,Unterliederbach
+Trattoria Little Italy,52a8ba47498e9c25880b7a9a,Albanusstraße 31,50.101739,8.545657,IT,Höchst
+Da Fedele,4f16ac55e4b0253d51e5ed80,Brüningstr.,50.097207,8.541739,IT,Höchst
+Pizzeria Picobello,5dac86cf68cedf0008e145de,Pfortengartenweg,50.098707,8.492327,IT,Zeilsheim
+Pizzeria D'Angelo,50a7cee3e4b041e7e114b8bb,,50.096784624810965,8.491304080646595,IT,Zeilsheim
+Da Santa Lasagne&Pasta,53bdc460498e49ace01da421,,50.19036790798744,8.660167610192737,IT,Nieder-Eschbach
+Dorade Restaurant,578ac85e498ebc33f15e8af0,,50.110707,8.687273,GR,Altstadt
+Taverna Alexander’s,5ca78e3b56c89f0039d4b828,,50.11374,8.686527,GR,Altstadt
 Apló,5a317829a423620be3539c2c,Zeil 44,50.11490526094404,8.689150625863201,GR,Innenstadt
-Café Bar Brücke,4b52f6dff964a520818b27e3,Brückenstr. 19,50.10587021312112,8.687543323182862,GR,Sachsenhausen-Nord
-Café Karin,4b05884ef964a5205cbd22e3,Großer Hirschgraben 28,50.11162143147714,8.678096929289612,GR,Altstadt
-Dorade am Main,4b1e51c2f964a520b41824e3,Dorade am Main Carl-von-Noorden Platz 5,50.09720882935048,8.66412272241204,GR,Sachsenhausen-Nord
-Cafe Crumble,4b066460f964a52072eb22e3,Kiesstr. 41,50.11969806787602,8.648733490494124,GR,Bockenheim
-Gaststätte zur Staufenmauer,4bba2f0798c7ef3b23ce3202,An der Staufenmauer 5,50.11365170541765,8.687247257292848,GR,Altstadt
-Alexander's,52ed60cc498edd62be614213,An der Staufenmauer 5,50.1136469606969,8.687293672127938,GR,Altstadt
-Cafe Imbiss Jannis,4e1e8823483b6e56e831931b,Hanauer Landstr. 6,50.11344233821679,8.695701592998155,GR,Ostend
-Der Fette Bulle,531636eb498e9d4d77d97dc8,Kaiserstr. 73,50.107799,8.666644999999999,GR,Bahnhofsviertel
-Nibelungenschänke,4c01595358dbc928a22dee6b,Nibelungenallee 55,50.1313494803374,8.684611916542053,GR,Nordend-West
-Restaurant Meandros,4eee3fa28b81bbbf5e192ca5,Pfingstweidstr.,50.11602733172514,8.696863580179059,GR,Ostend
-Olive Oil & Oregano,521f846f11d263a91ced20ca,Europa-Allee 6,50.107981411245724,8.654854210129077,GR,Gallus
-Meltemi Mezedopolio,4c66eaa319f3c9b64651a1ff,Martin-Luther-Str. 17,50.12533553345559,8.69769431101396,GR,Nordend-Ost
-Omikron,4ca6497944a8224b1bda0140,Schloßstr. 94,50.11786641713639,8.644640064602411,GR,Bockenheim
-Taverne Plaka,4f0f4eb2e4b0d2af73c2fa04,Sophienstraße 37,50.12386399,8.64852492,GR,Bockenheim
-Greeklicious,56bdc69d498e3f0357adca0c,Europa-Allee 6,50.109496,8.652266000000001,GR,Gallus
 Taverna Serres,5b52320ee1f0aa0039eec968,Öderweg 80,50.123788,8.681536,GR,Nordend-West
+Nibelungenschänke,4c01595358dbc928a22dee6b,Nibelungenallee 55,50.1313494803374,8.684611916542053,GR,Nordend-West
+Omonia,4b058850f964a52038be22e3,Eckenheimer Landstr. 126,50.127359,8.685447,GR,Nordend-West
+Alexander's,52ed60cc498edd62be614213,An der Staufenmauer 5,50.1136469606969,8.687293672127936,GR,Altstadt
+Megaron,4be5d0bad4f7c9b6f4f82520,Spohrstraße 26,50.128160336381775,8.690905379288113,GR,Nordend-West
+Kritamo,5842a5a25da8f471f2f831f1,Friedberger Anlage 14,50.116071,8.695193,GR,Nordend-Ost
+Greeklicious,56bdc69d498e3f0357adca0c,Europa-Allee 6,50.109496,8.652266,GR,Gallus
+Pie Point,5731b530498e2ac54eb6637d,,50.102646,8.639527,GR,Gallus
+Waldcafe Dionysos,4d63f95ba5be236a58e6c7db,Hainer Weg 250,50.08505361162843,8.697576518086361,GR,Sachsenhausen-Süd
+Taverna Star,52ed65c9498e53696f2ff0c1,,50.081288,8.683224,GR,Sachsenhausen-Süd
+Omikron,4ca6497944a8224b1bda0140,Schloßstr. 94,50.11786641713639,8.644640064602411,GR,Bockenheim
+Elia Restaurant - Bar,530cffb7498e258c5e055b5e,Frankenallee 111,50.10458750676413,8.641439899293005,GR,Gallus
 Taverne Nico,50a680b0e4b0c08636e6c792,Saalburgstr. 1,50.125543,8.709922,GR,Bornheim
-Dionysos,4bd88ac911dcc92875c9f633,Rödelheimer Straße 34,50.124056245442006,8.634554797060684,GR,Bockenheim
-Exis,4bf5843bbfeac928c99c9236,Am Ginnheimer Wäldchen 3,50.140715723215045,8.639395236968994,GR,Ginnheim
-Turnfreunde Jahnvolk,4be999836295c9b6e2698508,Kirschwaldstraße 40,50.14587028035754,8.676551137581518,GR,Dornbusch
-Alt Oberrad,4f7b0325e4b054bfe47e0f71,Wiener Str. 59,50.09801999921262,8.731450190302807,GR,Oberrad
-Alexis Sorbas,4c48a742417b20a1eab6e1a9,Güntherstr. 42a,50.082212479017755,8.646585948452326,GR,Niederrad
-Waldcafe Dionysos,4d63f95ba5be236a58e6c7db,Hainer Weg 250,50.08505361162842,8.697576518086361,GR,Sachsenhausen-Süd
-Taverna Star,52ed65c9498e53696f2ff0c1,,50.081288,8.683224000000001,GR,Sachsenhausen-Süd
-Restaurant Schlossblick,4de0c06efa76425c5420a49b,Starkenburgerstr. 150,50.109558,8.765856,GR,Fechenheim
-zur Waldau,50edb54ee4b0f4fa74eb61d0,,50.0789680480957,8.613869667053223,GR,Schwanheim
-Thessaloniki,5c2bc621deb49500252bfde8,,50.100234,8.564449,GR,Nied
-Zum Jordan,548ed04a498e00314e739da3,,50.123534,8.606160000000001,GR,Rödelheim
-Café-Bistro Levkos Pygros,5287bfc611d2e4c3a41557ed,Schwalbacher Straße,50.10310700412373,8.635178354950538,GR,Gallus
-Parkterrasse,4db9653493a0f369e86d6e9b,Friedel-Schomann-Weg 7,50.12589991092682,8.61552357673645,GR,Rödelheim
-Pie Point,5731b530498e2ac54eb6637d,,50.102646,8.639527000000001,GR,Gallus
+Restaurant Elia,52f3d9cf11d23fdabe9cfbf9,Frankenallee 111,50.1089530488051,8.641419896590872,GR,Gallus
+Qualitäts-Eck,4fbbf224e4b03c163a201648,Hedderichstaße,50.09778200213931,8.680037876126667,GR,Sachsenhausen-Nord
+Gaststätte zur Staufenmauer,4bba2f0798c7ef3b23ce3202,An der Staufenmauer 5,50.11365170541766,8.687247257292848,GR,Altstadt
+Meltemi Mezedopolio,4c66eaa319f3c9b64651a1ff,Martin-Luther-Str. 17,50.12533553345559,8.69769431101396,GR,Nordend-Ost
+Adolon,4c28e660e19720a1cca7f858,Weberstraße 90,50.12801102903484,8.686941884258399,GR,Nordend-West
+Niebelungenschänke,54208bde498ea8146c42cc25,Niebelungenallee 55,50.131717681884766,8.684258460998535,GR,Nordend-West
 Greek Snacks,57d45d23498eddf03b4883fc,,50.102525,8.639538,GR,Gallus
-Ellerfeldschänke,57ffde7838fa810122fb10dc,29 Alt-Hausen,50.13371000000001,8.624789999999999,GR,Hausen
-Zum Clubhaus,51d70288498ec745aa51dc1c,Wenzelweg 21,50.15623831538516,8.645267464425503,GR,Heddernheim
+Platia Restaurant,5a5a6f9fa423620ec1ebc771,Bornheimer Landstraße 77,50.122907,8.693367,GR,Nordend-Ost
+Restaurant Meandros,4eee3fa28b81bbbf5e192ca5,Pfingstweidstr.,50.116027331725135,8.69686358017906,GR,Ostend
+Taverne Philipi,52bb23ea11d29cfebc49ed50,,50.12375716506462,8.710654405008203,GR,Bornheim
+Greekilicious,5c6ab4eae1f0aa002c3ca52b,Europa-Allee 6,50.110668,8.650782,GR,Gallus
+Ostria,4b058851f964a5205dbe22e3,Rotlintstraße 32,50.12623730144096,8.691693804226968,GR,Nordend-West
+Athos,4f3c0b23e4b0e05bd014f179,"Große Seestraße 53, 60486 Frankfurt am Main",50.120510421963786,8.645323147387712,GR,Bockenheim
+Cafe Imbiss Jannis,4e1e8823483b6e56e831931b,Hanauer Landstr. 6,50.11344233821679,8.695701592998155,GR,Ostend
+Taverne Plaka,4f0f4eb2e4b0d2af73c2fa04,Sophienstraße 37,50.12386399,8.64852492,GR,Bockenheim
+Restaurant Zum Tannenhof,5049cd14e4b00cd4559040cf,,50.114739661526954,8.684549811127633,GR,Innenstadt
+In + Art,4c093707ffb8c9b628826961,,50.116619,8.684799,GR,Innenstadt
+Parthenon Greek Restaurant,4d977e6c0caaa143736294b3,Stresemannallee,50.10103682814363,8.674486005718778,GR,Sachsenhausen-Nord
+Ariston Restaurant,4e9c8d7b9a52edbd662842d5,Heiligkreuzgasse 29,50.11549824888784,8.689204721045831,GR,Innenstadt
+Olive Oil & Oregano,521f846f11d263a91ced20ca,Europa-Allee 6,50.107981411245724,8.654854210129077,GR,Gallus
+Taverna Ouzeria,53998225498e723ddb13ff83,Speicherstr. 51,50.099329,8.659091,GR,Gutleutviertel
+Nibelungen Schanke,50ad5a16e4b05efbd3649328,,50.10231197158132,8.661115634904888,GR,Gutleutviertel
+Maingrill,4c6a7cbb8e7c0f47363ae20f,Schärfengässchen 4-6,50.1145574081083,8.681522849374527,GR,Innenstadt
+Philippi Taverna Ouzeri,523b3c5a11d2e259fdf933dc,,50.123674,8.710487,GR,Bornheim
+restaurant im bürgerhaus,4fad34dce4b0bcc0c1926b6d,,50.123213,8.703596,GR,Bornheim
+Taverna Parga,4c8b897a9ef0224b57ec647b,,50.105391,8.715672,GR,Sachsenhausen-Nord
+Aphrodite,4d13dfad401db60c4f99d3a4,Hirschbachstrasse 48,50.12362836827201,8.642704412047273,GR,Bockenheim
+Der Grieche Taverna,4e6905c4aeb75ce774e3ee31,Kaiserhofstr. 12,50.11535513250462,8.674878797694832,GR,Innenstadt
+Turnfreunde Jahnvolk,4be999836295c9b6e2698508,Kirschwaldstraße 40,50.14587028035753,8.676551137581518,GR,Dornbusch
 Jahnvolk,51a8c7d7498e7478bcffc291,Kirschwaldstr. 40,50.14584602751303,8.676527729745041,GR,Dornbusch
-Goldene Gerste,4ce41bbec46e6dcbccdfd915,,50.18167746790503,8.663749836904952,GR,Bonames
+Dionysos,4bd88ac911dcc92875c9f633,Rödelheimer Straße 34,50.12405624544201,8.634554797060684,GR,Bockenheim
+Dyonissos,4dcff819d4c065592fa43f8b,,50.12490139015324,8.634268579084122,GR,Bockenheim
+Café-Bistro Levkos Pygros,5287bfc611d2e4c3a41557ed,Schwalbacher Straße,50.10310700412373,8.635178354950538,GR,Gallus
+Taverna Symposio,50119253e4b07f20b21972e8,,50.125079,8.619806,GR,Rödelheim
+My Big Fat Greek Imbiss,4c0f7f0f1281c9b607981e1d,,50.10209208982781,8.626407433990543,GR,Gallus
+Alexis Sorbas,4c48a742417b20a1eab6e1a9,Güntherstr. 42a,50.082212479017755,8.646585948452326,GR,Niederrad
+"Hummelbergstrasse 35, Stuttgart",5105362ce4b0269877c655cc,,50.08474787056928,8.63367459556785,GR,Niederrad
+Ellerfeldschänke,57ffde7838fa810122fb10dc,29 Alt-Hausen,50.13371000000001,8.624789999999999,GR,Hausen
+Exis,4bf5843bbfeac928c99c9236,Am Ginnheimer Wäldchen 3,50.140715723215045,8.639395236968994,GR,Ginnheim
+Zum Clubhaus,51d70288498ec745aa51dc1c,Wenzelweg 21,50.15623831538516,8.645267464425503,GR,Heddernheim
+Restaurant Schlossblick,4de0c06efa76425c5420a49b,Starkenburgerstr. 150,50.109558,8.765856,GR,Fechenheim
+Alt Oberrad,4f7b0325e4b054bfe47e0f71,Wiener Str. 59,50.09801999921262,8.731450190302807,GR,Oberrad
+Restaurant Naxos,518bd3cd498e992f519ada4c,,50.14791979909856,8.754260577599762,GR,Bergen-Enkheim
+zur Waldau,50edb54ee4b0f4fa74eb61d0,,50.0789680480957,8.613869667053223,GR,Schwanheim
+Zum Jordan,548ed04a498e00314e739da3,,50.123534,8.60616,GR,Rödelheim
+Parkterrasse,4db9653493a0f369e86d6e9b,Friedel-Schomann-Weg 7,50.12589991092682,8.61552357673645,GR,Rödelheim
+Thessaloniki,5c2bc621deb49500252bfde8,,50.100234,8.564449,GR,Nied
+"Gaststätte ""am Brünnchen""",5457fc4a498e4830a339f6ca,Am Brünnchen,50.113465162558285,8.55975372579098,GR,Sossenheim
+Goldene Gerste,4ce41bbec46e6dcbccdfd915,,50.181677467905025,8.663749836904953,GR,Bonames
 Leon,5c72c1cd968f31002c749416,Reginastrasse 7,50.18272,8.694944,GR,Harheim
 Taverna Platea,4db43de9ec8e571a35d358f1,Marktstr. 43,50.158574,8.752454,GR,Bergen-Enkheim
-"Gaststätte ""am Brünnchen""",5457fc4a498e4830a339f6ca,Am Brünnchen,50.11346516255829,8.559753725790982,GR,Sossenheim
-Restaurant Naxos,518bd3cd498e992f519ada4c,,50.14791979909856,8.754260577599762,GR,Bergen-Enkheim
-mian,4e3455fcae60d86c3ab3bad9,Niddastr. 52,50.109864,8.664454,CN,Bahnhofsviertel
-Pak Choi,4ba36f30f964a520bd3c38e3,Elbestr. 12,50.10728513791694,8.669311780969657,CN,Bahnhofsviertel
-Das Nudel Ding,562278da498ed7b186a5bf2e,Kettenhofweg 64,50.115797317739116,8.66336199036083,CN,Westend-Süd
-Nudelbar & Hotpot,570a811dcd10deccfc00bada,,50.107577,8.665676,CN,Bahnhofsviertel
-Jade – Magic Wok,4bb0dfdcf964a52075653ce3,Moselstr. 25,50.10756254729096,8.667257091889383,CN,Bahnhofsviertel
-Jade Asian Food,4c18ba6f6a21c9b6735dc997,Moselstrasse 18,50.10757154479985,8.667258993486545,CN,Bahnhofsviertel
-Yan Jing,4c24ebd5f1272d7f63db83c5,Kaiserstr. 67,50.1081147025911,8.66730545841745,CN,Bahnhofsviertel
-San San,4b058851f964a52073be22e3,Konrad-Adenauer-Str. 7,50.11595774477056,8.687692526848807,CN,Innenstadt
-Restaurant China Garten,4e11f0c318a84f0f03181c80,Bethmannstr. 11,50.11030755417524,8.678665690815732,CN,Altstadt
-Kowloon City,4b76b656f964a5201a5a2ee3,Oeder Weg 32,50.119993952326155,8.679866706357528,CN,Nordend-West
-China Restaurant Palms Garden,4c093e916071a5935191dd32,Am Hauptbahnhof 16,50.10819583996914,8.66379253966967,CN,Bahnhofsviertel
-Iimori Pâtisserie,4ba96e88f964a520ca263ae3,Braubachstr. 24,50.11125816611354,8.683090216629637,CN,Altstadt
-Dim Sum Haus,55ba5da9498e59094a8893bf,Vilbeler Str. 27,50.116554,8.686622,CN,Innenstadt
-Höfchen Chinesisches Restaurant 小院坝川味,5a0dbcaadff81533d1514e12,,50.115604,8.675235,CN,Innenstadt
-China-Paradies,4cea6a4ee1eeb60c0808aeae,Wilhelm-Leuschner-Straße 80,50.103650226644476,8.665567574120825,CN,Gutleutviertel
-China Leckerbissen,4e344ff2a8092599edf8a3fc,Alte Gasse 4,50.11710773791277,8.68590268670336,CN,Innenstadt
-Shangrila,4b93ee8ff964a520bb5a34e3,Friedberger Anlage 1-3,50.11395656539774,8.6953355168235,CN,Ostend
-Little Shanghai,5343d5fb498e09073de42307,Hafenstr. 31,50.10266,8.658963,CN,Gutleutviertel
-Ding Ding Sheng,4b5895e5f964a520ab5f28e3,Moselstr. 23,50.107416,8.667175,CN,Bahnhofsviertel
-Madame Mei,594921b6a35dce7169d96317,Börsenstraße 18,50.11600000000001,8.677419,CN,Innenstadt
-零點串吧,5af89d7bacc5f5002c089278,Münchener Str.46,50.107243,8.666763000000001,CN,Bahnhofsviertel
+China Restaurant JingHai,4fc3c6f6e4b0d4112fc7f300,Berliner Straße 32,50.11269844107672,8.682298423657937,CN,Altstadt
 Aunty Zhong's Noodle Bar & More,5b44ea0d28374e002cbf319c,Düsseldorfer Straße 15-17,50.10904,8.661063,CN,Gallus
+A Casa Lamian,5dcd51f0c046e8000845b2c8,Solmsstraße 52,50.118614,8.630588,CN,Bockenheim
+Das Nudel Ding,562278da498ed7b186a5bf2e,Kettenhofweg 64,50.11579731773912,8.66336199036083,CN,Westend-Süd
+Nordchinesische Spezialitäten,4dadcbde8154b108fec69554,Hafenstr. 1,50.102334,8.658177,CN,Gutleutviertel
 Xiang China Restaurant 常湘会,56eea100498e6f8868c0ff2b,Gutleutstraße 152,50.100957,8.65842,CN,Gutleutviertel
-China Restaurant New World,51372e7ae4b08fbb2aadaa6c,Am Hauptbahnhof 8,50.10754732197981,8.665013076590109,CN,Bahnhofsviertel
-Sushi Circle,4b105d71f964a520c36e23e3,Diesterwegstr. 34,50.10020591964295,8.684509728248809,CN,Sachsenhausen-Nord
-China Haus 小食代,5a21bc8eb37e2b5bbfabe150,Schloßstraße 52,50.120964,8.6408205,CN,Bockenheim
-Goldenen Löwen,4daf3caf81548efb15a70f77,,50.12483998344264,8.613050141366285,CN,Rödelheim
-Jing Jing,4eb2ddaddab472d4de9d6a41,Hugo-Eckener-Ring 1,50.05296397513683,8.568878761111193,CN,Flughafen
-Restaurant Shanghai,4f9c2879e4b0d2bd62c9ad9f,,50.10109854534618,8.567945653763738,CN,Nied
-Der Goldene Wok,4cf7e1330a71224b54d82593,Mainzer Landstraße 793,50.099009650540296,8.562728464340834,CN,Nied
-China Town Restaurant,4d9cae4e5c33a35de441f0a0,Oeserstrasse 219,50.111383000000004,8.603452,CN,Bockenheim
-Enjoy Food,4caef182aef16dcb5f39a454,Heerstrasse 155,50.14639927495347,8.611411554307404,CN,Praunheim
-Yun,51560796e4b04d6d8359b3d5,,50.14725472355706,8.661525278670878,CN,Dornbusch
-Ikoi,5b4cef922f97ec002bd70ea7,,50.176707,8.629377999999999,CN,Kalbach-Riedberg
-China Restaurant,4cec0f038ef78cfa1963b09b,Am Houiller Platz 4,50.14364000000001,8.683183,CN,Eckenheim
-Gangjiu,51bb6cbb498ecd7693529e0b,Friedberger Landstraße 88,50.124973,8.692029,CN,Nordend-Ost
-China Schnellimbiss,502e6711e4b07a83cadb2156,Seckbacher Landstr. 72,50.13400903810493,8.712252919144184,CN,Bornheim
-Chin Thai Haus,50f307abe4b0c052510e7d54,Berner Str. 119,50.19014,8.658105,CN,Nieder-Eschbach
-Ruyigarden,532051a711d29a1c9ff37a3c,Am Erlenbruch 94,50.13110494910882,8.732529250905703,CN,Riederwald
+Nudelbar & Hotpot,570a811dcd10deccfc00bada,,50.107577,8.665676,CN,Bahnhofsviertel
+Dim Sum Haus,55ba5da9498e59094a8893bf,Vilbeler Str. 27,50.116554,8.686622,CN,Innenstadt
+Madame Mei,594921b6a35dce7169d96317,Börsenstraße 18,50.116,8.677419,CN,Innenstadt
+Grandma’s Kitchen,5da5770d73fe3b0008ca011c,,50.109782,8.674409,CN,Innenstadt
+Höfchen Chinesisches Restaurant 小院坝川味,5a0dbcaadff81533d1514e12,,50.115604,8.675235,CN,Innenstadt
+Keep In Touch,5e0f300e71ca9c000833731e,Kaiserstraße 41,50.10866,8.670176,CN,Bahnhofsviertel
+Fu,59651cfb5455b213b7fcd180,Kettenhofweg 61,50.115633,8.663583,CN,Westend-Süd
 Bistro Jiu Ding,5a8430a2a9e4027bb9fcfd94,Saalburgstraße 31,50.126411,8.707591,CN,Bornheim
+Hao Wei Dao (Feinschmecker),5cfbb7e5f5e9d7002c9555c6,Allianz Passage (Hauptwache B Ebene),50.114113,8.676954,CN,Innenstadt
+Ling Dian Chuan Ba,5c71d1e2872f7d003950d923,,50.107113,8.666469,CN,Bahnhofsviertel
+Nordost Grill,5dc56d83285a3b0008b965a9,Ludwigstraße 6,50.107942,8.6589,CN,Gallus
+True Tasty,55abd11a498ee3c73e4b8c5c,Ludwigstr.,50.107885,8.658744,CN,Gallus
+台灣飯店,5c2279384a1cc00039a6848d,,50.109069,8.661492,CN,Bahnhofsviertel
+China Haus 小食代,5a21bc8eb37e2b5bbfabe150,Schloßstraße 52,50.120964,8.6408205,CN,Bockenheim
+mengyuan,54b91862498e3e13bd0101d3,Ottostraße 21,50.10852,8.660088,CN,Gallus
+康迪 Kontiki,5a50b78e6adbf560331105b5,"Neue Mainzer Str. 24, 60311 Frankfurt am Main",50.109837,8.674538,CN,Innenstadt
+Gagaxiang,5cd88b09e55d8b0039075761,,50.107788,8.658647,CN,Gallus
+Sindo Grill Restaurant,52c1b250498ebd959ce37e79,Hedderichstr. 69,50.09840774536133,8.682342529296875,CN,Sachsenhausen-Nord
+China Restaurant New World,51372e7ae4b08fbb2aadaa6c,Am Hauptbahnhof 8,50.10754732197981,8.665013076590109,CN,Bahnhofsviertel
+China restraunt good friends,4d711b93cea9236a5ec7411b,,50.107362341647594,8.66928887705034,CN,Bahnhofsviertel
+China Point,591445cb2b984456b9959101,,50.10614,8.644013,CN,Gallus
+China Yung,5b36763266fc65003703df22,Grosse Reitergasse 53-59,50.105647,8.691142,CN,Sachsenhausen-Nord
+China Leckerbissen,4e344ff2a8092599edf8a3fc,Alte Gasse 4,50.11710773791277,8.68590268670336,CN,Innenstadt
+Shang Shang Bar,5a14ad82f0b4903ccb3b3ca8,Münchener Straße 35,50.107376,8.668509,CN,Bahnhofsviertel
+China-Paradies,4cea6a4ee1eeb60c0808aeae,Wilhelm-Leuschner-Straße 80,50.103650226644476,8.665567574120825,CN,Gutleutviertel
+Little Shanghai,5343d5fb498e09073de42307,Hafenstr. 31,50.10266,8.658963,CN,Gutleutviertel
+China Restaurant Palms Garden,4c093e916071a5935191dd32,Am Hauptbahnhof 16,50.10819583996914,8.66379253966967,CN,Bahnhofsviertel
+零點串吧,5af89d7bacc5f5002c089278,Münchener Str.46,50.107243,8.666763,CN,Bahnhofsviertel
+Sis Ding,5db5f8388407f60009d9a015,Elbestr.,50.107386,8.669358,CN,Bahnhofsviertel
+The noodlemaker,5db72ee0ed1cdd0008b09c7d,Europa-Allee 41,50.10852,8.647818,CN,Gallus
+China Schnellimbiss,502e6711e4b07a83cadb2156,Seckbacher Landstr. 72,50.13400903810492,8.712252919144184,CN,Bornheim
+China Restaurant Wenzhou,5347f35d498e040dc70720ba,Ottostraße 6,50.108016620194064,8.660427457302132,CN,Gallus
+Shi Li Xiang,4f9adac2e4b065054b196cd8,,50.10762911709469,8.669249189324654,CN,Bahnhofsviertel
+Kowloon City,4b76b656f964a5201a5a2ee3,Oeder Weg 32,50.119993952326155,8.679866706357528,CN,Nordend-West
+mian,4e3455fcae60d86c3ab3bad9,Niddastr. 52,50.109864,8.664454,CN,Bahnhofsviertel
+Pin Wei Küche,4e43b52ea809d4ed1bb28cad,,50.10101702,8.65833624,CN,Gutleutviertel
+phonix china restaurant,50edc470e4b071057f46e55f,,50.09623336791992,8.673371315002441,CN,Sachsenhausen-Nord
+Liu's Home,4f4e7b4ce4b0272873f1360d,Hafenstr. 1,50.10249766570796,8.65911035900433,CN,Gutleutviertel
+China Restaurant New Panda,4d319b6e8250f04d1826ebe0,,50.10751449547232,8.658839354115473,CN,Gallus
+Jade Asian Food,4c18ba6f6a21c9b6735dc997,Moselstrasse 18,50.107571544799846,8.667258993486545,CN,Bahnhofsviertel
+Pak Choi,4ba36f30f964a520bd3c38e3,Elbestr. 12,50.10728513791694,8.669311780969657,CN,Bahnhofsviertel
+Ding Ding Sheng,4b5895e5f964a520ab5f28e3,Moselstr. 23,50.107416,8.667175,CN,Bahnhofsviertel
+Restaurant China Garten,4e11f0c318a84f0f03181c80,Bethmannstr. 11,50.11030755417524,8.678665690815732,CN,Altstadt
+China Leckerbissen,4c1cc64deac020a1e8fe46c2,Alte Gasse 20,50.102242,8.683738,CN,Sachsenhausen-Nord
+yi jia mian guan,530510cd498e350c1c8168f0,Niddastraße 52,50.109812,8.664382,CN,Bahnhofsviertel
+Yun,51560796e4b04d6d8359b3d5,,50.14725472355706,8.661525278670878,CN,Dornbusch
+China Restaurant,4cec0f038ef78cfa1963b09b,Am Houiller Platz 4,50.14364,8.683183,CN,Eckenheim
+Gangjiu,51bb6cbb498ecd7693529e0b,Friedberger Landstraße 88,50.124973,8.692029,CN,Nordend-Ost
+Chinabox,4b0e4116f964a5205d5623e3,Landgrafenstrasse 7,50.12134369887255,8.6476842397378,CN,Bockenheim
+San San,4b058851f964a52073be22e3,Konrad-Adenauer-Str. 7,50.115957744770554,8.687692526848808,CN,Innenstadt
+Ruyigarden,532051a711d29a1c9ff37a3c,Am Erlenbruch 94,50.131104949108824,8.732529250905703,CN,Riederwald
+Shangrila,4b93ee8ff964a520bb5a34e3,Friedberger Anlage 1-3,50.113956565397736,8.695335516823501,CN,Ostend
 China - Thai Snack,511e214de4b0e99fc13dd8a5,Leuchte 2,50.14284344033322,8.755510873469595,CN,Bergen-Enkheim
-China Restaurant Lotus,4c2cea5977cfe21e88c9b6f1,Koenigsteiner Str,50.105078999999996,8.546215,CN,Höchst
+China Town Restaurant,4d9cae4e5c33a35de441f0a0,Oeserstrasse 219,50.111383,8.603452,CN,Bockenheim
+Goldenen Löwen,4daf3caf81548efb15a70f77,,50.12483998344264,8.613050141366285,CN,Rödelheim
+Enjoy Food,4caef182aef16dcb5f39a454,Heerstrasse 155,50.146399274953474,8.611411554307404,CN,Praunheim
+China Restaurant Goldene Krone,4f131596e4b03802045861bc,Rödelheimerstraße 59,50.05277846677712,8.586860971095472,CN,Flughafen
+Restaurant Shanghai,4f9c2879e4b0d2bd62c9ad9f,,50.10109854534617,8.567945653763738,CN,Nied
+Der Goldene Wok,4cf7e1330a71224b54d82593,Mainzer Landstraße 793,50.0990096505403,8.562728464340834,CN,Nied
+Ikoi,5b4cef922f97ec002bd70ea7,,50.176707,8.629378,CN,Kalbach-Riedberg
+Chin Thai Haus,50f307abe4b0c052510e7d54,Berner Str. 119,50.19014,8.658105,CN,Nieder-Eschbach
+China Restaurant Lotus,4c2cea5977cfe21e88c9b6f1,Koenigsteiner Str,50.105079,8.546215,CN,Höchst
